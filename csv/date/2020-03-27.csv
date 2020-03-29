@@ -1,0 +1,198 @@
+,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+2979,Asia,土耳其,Turkey,3629,0.0,26,75
+2980,Europe,瑞典,Sweden,2806,0.0,17,66
+2981,Europe,丹麦,Denmark,1877,0.0,1,41
+2982,Europe,罗马尼亚,Romania,907,0.0,31,17
+2983,Asia,印度,India,724,0.0,66,17
+2984,South America,阿根廷,Argentina,589,0.0,1,12
+2985,Europe,斯洛伐克,Slovakia,269,0.0,7,0
+2986,Europe,安道尔,Andorra,263,0.0,1,3
+2987,Europe,保加利亚,Bulgaria,264,0.0,3,3
+2988,Europe,拉脱维亚,Latvia,244,0.0,0,0
+2989,South America,乌拉圭,Uruguay,238,0.0,6,0
+2990,North America,哥斯达黎加,Costa Rica,231,0.0,0,2
+2991,Africa,突尼斯,Tunisia,227,0.0,0,6
+2992,Europe,乌克兰,Ukraine,218,0.0,1,5
+2993,Asia,阿塞拜疆,Azerbaijan,165,0.0,15,3
+2994,Asia,越南,Vietnam,163,0.0,20,0
+2995,Africa,布基纳法索,Burkina Faso,152,0.0,10,7
+2996,Africa,加纳,Ghana,136,0.0,1,3
+2997,Europe,法罗群岛,Faroe,132,0.0,0,0
+2998,Asia,哈萨克斯坦,Kazakstan,135,0.0,3,1
+2999,Asia,塞浦路斯,Cyprus,132,0.0,0,3
+3000,Europe,马耳他,Malta,129,0.0,0,0
+3001,Asia,阿曼,Oman,131,0.0,23,0
+3002,Europe,奥地利,Austria,6398,0.0,9,49
+3003,North America,加拿大,Canada,4043,0.0,202,39
+3004,Asia,马来西亚,Malaysia,2161,0.0,259,26
+3005,Europe,爱尔兰,Ireland,1819,0.0,0,19
+3006,Asia,巴基斯坦,Pakistan,1179,0.0,21,9
+3007,North America,巴拿马,Panama,674,0.0,0,8
+3008,Europe,斯洛文尼亚,Slovenia,528,0.0,0,5
+3009,Europe,塞尔维亚,Republic of Serbia,528,0.0,0,5
+3010,South America,哥伦比亚,Colombia,491,0.0,8,6
+3011,Africa,埃及,Egypt,495,0.0,102,24
+3012,Asia,伊拉克,Iraq,458,0.0,122,40
+3015,Asia,巴林,Bahrain,466,0.0,227,4
+3017,Europe,北马其顿,North Macedonia,177,0.0,1,2
+3023,Europe,英国,United Kingdom,14579,0.0,135,759
+3024,Europe,瑞士,Switzerland,11811,0.0,3,161
+3026,South America,厄瓜多尔,Ecuador,1382,0.0,0,34
+3027,Asia,沙特阿拉伯,Saudi Arabia,1104,0.0,29,3
+3028,Europe,俄罗斯,Russia,1036,0.0,45,3
+3030,Asia,新加坡,Singapore,732,0.0,172,2
+3032,Asia,约旦,Jordan,212,0.0,1,0
+3033,Europe,圣马力诺,San Marino,208,0.0,2,21
+3035,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10
+3037,Africa,毛里求斯,Mauritius,94,0.0,0,2
+3038,Africa,马达加斯加,Madagascar,24,0.0,0,0
+3039,Asia,尼泊尔,Nepal,4,0.0,1,0
+3040,Europe,荷兰,Netherlands,8603,0.0,0,546
+3042,Asia,日本,Japan,1503,0.0,359,51
+3045,Europe,波兰,Poland,1221,0.0,13,16
+3049,Europe,克罗地亚,Croatia,442,0.0,5,1
+3050,North America,多米尼加,Dominican Republic,392,0.0,0,10
+3051,Asia,黎巴嫩,Lebanon,391,0.0,23,6
+3059,Asia,科威特,Kuwait,225,0.0,57,0
+3061,Asia,泰国,Thailand,1136,0.0,97,5
+3063,Asia,印度尼西亚,Indonesia,1046,0.0,9,87
+3064,Europe,芬兰,Finland,880,0.0,10,5
+3074,Africa,赞比亚共和国,,22,0.0,0,0
+3075,Europe,比利时,Belgium,7284,0.0,350,289
+3080,Europe,希腊,Greece,892,0.0,19,26
+3085,Africa,摩洛哥,Morocco,275,0.0,8,10
+3086,Europe,匈牙利,Hungary,300,0.0,34,10
+3089,Europe,摩尔多瓦,Moldova,177,0.0,1,1
+3091,Europe,波黑,Bosnia and Herzegovina,176,0.0,2,3
+3092,Europe,阿尔巴尼亚,Albania,186,0.0,10,8
+3094,Africa,索马里,Somali,3,0.0,0,0
+3098,Europe,捷克,Czech Republic,2062,0.0,10,9
+3099,Europe,卢森堡,Luxembourg,1453,0.0,0,9
+3102,South America,秘鲁,Peru,580,0.0,14,9
+3105,North America,美国,United States of America,85840,0.0,713,1296
+3106,Europe,意大利,Italy,81129,0.0,10361,8215
+3107,Europe,西班牙,Spain,64059,0.0,7015,4858
+3108,Europe,德国,Germany,43211,0.0,5678,262
+3109,Europe,法国,France,29155,0.0,4948,1696
+3110,Asia,伊朗,Iran,32332,0.0,11133,2378
+3116,Asia,韩国,Korea,9332,0.0,4528,139
+3119,Europe,葡萄牙,Portugal,3544,0.0,22,60
+3120,Europe,挪威,Norway,3315,0.0,0,14
+3121,Asia,以色列,Israel,3035,0.0,79,10
+3122,Oceania,澳大利亚,Australia,2985,0.0,119,12
+3123,South America,巴西,Brazil,2915,0.0,0,77
+3131,South America,智利,Chile,1306,0.0,17,3
+3139,Africa,南非,South Africa,927,0.0,1,1
+3143,Europe,冰岛,Iceland,802,0.0,56,2
+3144,Asia,菲律宾,Philippines,803,0.0,31,54
+3148,North America,墨西哥,Mexico,585,0.0,1,8
+3150,Europe,爱沙尼亚,Estonia,538,0.0,4,1
+3153,Asia,卡塔尔,Qatar,549,0.0,43,0
+3160,Africa,阿尔及利亚,Algeria,367,0.0,12,25
+3161,Asia,亚美尼亚,Armenia,329,0.0,18,1
+3162,Oceania,新西兰,New Zealand,338,4.0,37,0
+3163,Europe,立陶宛,Lithuania,290,0.0,1,4
+3164,Asia,阿联酋,United Arab Emirates,333,0.0,52,2
+3193,Africa,塞内加尔,Senegal,119,0.0,11,0
+3194,South America,委内瑞拉,Venezuela,107,0.0,0,0
+3196,Asia,文莱,Brunei,115,0.0,11,0
+3197,Asia,斯里兰卡,SriLanka,106,0.0,6,0
+3198,Asia,柬埔寨,Kampuchea (Cambodia ),96,0.0,2,0
+3199,Africa,留尼旺,Reunion,94,0.0,0,0
+3200,Africa,科特迪瓦,Ivory Coast,96,0.0,3,0
+3201,Asia,阿富汗,Afghanistan,95,0.0,0,2
+3202,Africa,喀麦隆,Cameroon,88,0.0,2,2
+3203,Asia,乌兹别克斯坦,Uzbekistan,83,0.0,0,0
+3205,North America,瓜德罗普岛,,76,0.0,0,0
+3206,Asia,格鲁吉亚,Georgia,81,0.0,13,0
+3207,Asia,巴勒斯坦,Palestine,84,0.0,16,1
+3208,North America,洪都拉斯,Honduras,68,0.0,0,1
+3209,North America,马提尼克,Martinique,66,0.0,0,1
+3210,Europe,白俄罗斯,Belarus,86,0.0,22,0
+3211,Africa,尼日利亚,Nigeria,65,0.0,2,1
+3212,North America,特立尼达和多巴哥,Trinidad and Tobago,60,0.0,0,1
+3213,North America,古巴,Cuba,57,0.0,0,1
+3214,Europe,黑山,,53,0.0,0,1
+3215,Europe,列支敦士登,Liechtenstein,51,0.0,0,0
+3216,Africa,卢旺达,Republic of Rwanda,50,0.0,0,0
+3217,North America,波多黎各,Puerto Rico,51,0.0,0,2
+3218,Africa,刚果（金）,Democratic Republic of the Congo,54,0.0,2,5
+3219,Asia,吉尔吉斯斯坦,,44,0.0,0,0
+3220,South America,玻利维亚,Bolivia,39,0.0,0,0
+3221,South America,巴拉圭,Paraguay,41,0.0,0,3
+3222,Oceania,关岛,Guam,37,0.0,0,1
+3223,Africa,马约特,,35,0.0,0,0
+3224,Asia,孟加拉国,Bangladesh,48,0.0,11,5
+3225,Europe,摩纳哥,Monaco,33,0.0,1,0
+3226,Europe,根西岛,Guernsey,30,0.0,0,0
+3227,Africa,肯尼亚,Kenya,31,0.0,1,1
+3228,South America,法属圭亚那,French Guiana,28,0.0,0,0
+3229,Europe,直布罗陀,Gibraltar,26,0.0,0,0
+3230,North America,牙买加,Jamaica,26,0.0,0,1
+3231,Oceania,法属波利尼西亚,French Polynesia,25,0.0,0,0
+3232,North America,危地马拉,Guatemala,24,0.0,0,1
+3233,Europe,马恩岛,,23,0.0,0,0
+3235,Africa,多哥,Togo,23,0.0,1,0
+3236,North America,阿鲁巴,,19,0.0,0,0
+3237,Europe,泽西岛,Bailiwick of Jersey,18,0.0,0,0
+3238,North America,巴巴多斯,Barbados,18,0.0,0,0
+3239,Africa,乌干达,Uganda,18,0.0,0,0
+3240,North America,美属维尔京群岛,,17,0.0,0,0
+3242,Oceania,新喀里多尼亚,,14,0.0,0,0
+3243,Asia,马尔代夫,Maldives,13,0.0,0,0
+3244,North America,萨尔瓦多,EI Salvador,13,0.0,0,0
+3245,Africa,埃塞俄比亚,Ethiopia,16,0.0,4,0
+3246,Africa,坦桑尼亚,Tanzania,13,0.0,1,0
+3247,Africa,赤道几内亚,The Republic of Equatorial Guinea,12,0.0,0,0
+3248,Africa,几内亚,Guinea,12,0.0,0,0
+3249,Africa,吉布提,Djibouti,12,0.0,0,0
+3250,Asia,蒙古,Mongolia,11,0.0,0,0
+3251,North America,圣马丁岛,Sint Maarten,11,0.0,0,0
+3252,Africa,纳米比亚,Namibia,8,0.0,0,0
+3253,Africa,斯威士兰,Swaziland,8,0.0,0,0
+3254,North America,海地,Haiti,8,0.0,0,0
+3255,North America,开曼群岛,Cayman Is,8,0.0,0,1
+3256,Africa,尼日尔,Niger,8,0.0,0,1
+3257,South America,苏里南,Suriname,7,0.0,0,0
+3258,Africa,塞舌尔,Seychelles,7,0.0,0,0
+3259,North America,百慕大,,7,0.0,0,0
+3260,Africa,莫桑比克,Mozambique,7,0.0,0,0
+3261,North America,多米尼克,,7,0.0,0,0
+3262,Africa,加蓬,Gabon,7,0.0,0,1
+3263,Africa,厄立特里亚,,6,0.0,0,0
+3264,Asia,老挝,Laos,6,0.0,0,0
+3265,North America,库拉索岛,,6,0.0,0,1
+3266,North America,巴哈马,Bahamas,5,0.0,0,0
+3267,Africa,中非共和国,Central African Republic,5,0.0,0,0
+3268,North America,格陵兰,,5,0.0,0,0
+3269,Africa,贝宁,Benin,5,0.0,0,0
+3270,Oceania,斐济,Fiji,5,0.0,0,0
+3271,Asia,叙利亚,Syria,5,0.0,0,0
+3272,Asia,缅甸,Burma,5,0.0,0,0
+3273,South America,圭亚那,Guyana,5,0.0,0,1
+3274,Africa,津巴布韦,Zimbabwe,5,0.0,0,1
+3275,Europe,梵蒂冈,Status Civitatis Vaticanae,4,0.0,0,0
+3276,Africa,刚果（布）,,4,0.0,0,0
+3277,Africa,安哥拉,Angola,4,0.0,0,0
+3278,Africa,马里,Mali,4,0.0,0,0
+3279,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0
+3280,North America,安提瓜和巴布达,Antigua and Barbuda,3,0.0,0,0
+3281,North America,圣卢西亚,St.Lucia,3,0.0,0,0
+3282,North America,圣巴泰勒米岛,,3,0.0,0,0
+3283,Africa,利比里亚,Liberia,3,0.0,0,0
+3284,Africa,乍得,Chad,3,0.0,0,0
+3286,Africa,苏丹,Sudan,3,0.0,0,1
+3287,Africa,冈比亚,Gambia,3,0.0,0,1
+3288,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0
+3290,North America,尼加拉瓜,Nicaragua,2,0.0,0,0
+3291,North America,蒙特塞拉特,,2,0.0,0,0
+3292,North America,伯利兹,Belize,2,0.0,0,0
+3293,Africa,几内亚比绍,,2,0.0,0,0
+3294,North America,圣其茨和尼维斯,,2,0.0,0,0
+3295,Africa,佛得角,,3,0.0,1,1
+3296,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0
+3297,Asia,东帝汶,,1,0.0,0,0
+3298,Oceania,巴布亚新几内亚,Papua New Cuinea,1,0.0,0,0
+3299,North America,格林那达,,1,0.0,0,0
+3300,North America,特克斯和凯科斯群岛,,1,0.0,0,0
+3301,Africa,利比亚,Libya,1,0.0,0,0

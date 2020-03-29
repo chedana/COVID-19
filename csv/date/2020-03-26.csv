@@ -1,0 +1,197 @@
+,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+5535,Europe,瑞士,Switzerland,9765,0.0,3,103
+5536,North America,加拿大,Canada,3409,0.0,183,36
+5537,Europe,葡萄牙,Portugal,2995,0.0,22,33
+5538,Asia,马来西亚,Malaysia,2031,0.0,215,23
+5539,Asia,泰国,Thailand,1045,0.0,70,4
+5540,Europe,波兰,Poland,901,0.0,13,10
+5541,North America,巴拿马,Panama,558,0.0,0,6
+5542,Europe,斯洛文尼亚,Slovenia,526,0.0,0,5
+5543,South America,秘鲁,Peru,480,0.0,1,5
+5544,North America,墨西哥,Mexico,475,0.0,1,6
+5545,Europe,塞尔维亚,Republic of Serbia,457,0.0,0,6
+5546,Europe,克罗地亚,Croatia,442,0.0,5,1
+5547,Europe,爱沙尼亚,Estonia,404,0.0,4,1
+5548,Africa,埃及,Egypt,456,0.0,95,21
+5549,Europe,立陶宛,Lithuania,255,0.0,1,3
+5550,Asia,巴林,Bahrain,457,0.0,204,4
+5551,Europe,保加利亚,Bulgaria,242,0.0,3,3
+5552,Africa,突尼斯,Tunisia,173,0.0,0,5
+5553,Europe,乌克兰,Ukraine,156,0.0,1,5
+5554,Europe,阿尔巴尼亚,Albania,146,0.0,10,5
+5555,Asia,以色列,Israel,2666,0.0,58,8
+5556,Europe,瑞典,Sweden,2510,0.0,17,42
+5557,South America,智利,Chile,922,0.0,17,2
+5558,Europe,俄罗斯,Russia,840,0.0,38,2
+5559,Europe,冰岛,Iceland,739,0.0,0,2
+5561,Asia,新加坡,Singapore,683,0.0,152,2
+5567,Asia,黎巴嫩,Lebanon,368,0.0,20,6
+5568,North America,多米尼加,Dominican Republic,312,0.0,0,6
+5569,Africa,摩洛哥,Morocco,225,0.0,7,6
+5573,Africa,布基纳法索,Burkina Faso,146,0.0,10,7
+5574,Europe,卢森堡,Luxembourg,1333,0.0,0,8
+5575,Asia,日本,Japan,1398,0.0,359,47
+5576,Asia,菲律宾,Philippines,707,0.0,28,45
+5577,Europe,摩尔多瓦,Moldova,149,0.0,1,1
+5578,Europe,北马其顿,North Macedonia,148,0.0,1,2
+5579,Asia,越南,Vietnam,153,0.0,17,0
+5582,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0
+5583,Asia,沙特阿拉伯,Saudi Arabia,1012,0.0,29,3
+5584,Asia,印度,India,649,0.0,42,13
+5586,Europe,荷兰,Netherlands,7431,0.0,0,434
+5587,Africa,喀麦隆,Cameroon,75,0.0,3,1
+5588,Africa,肯尼亚,Kenya,31,0.0,1,0
+5589,Europe,挪威,Norway,3041,0.0,0,14
+5590,Europe,安道尔,Andorra,220,0.0,1,1
+5591,South America,乌拉圭,Uruguay,217,0.0,6,0
+5592,Europe,斯洛伐克,Slovakia,216,0.0,7,0
+5593,North America,哥斯达黎加,Costa Rica,201,0.0,0,2
+5594,Asia,科威特,Kuwait,208,0.0,49,0
+5595,Europe,奥地利,Austria,5560,0.0,9,30
+5597,Europe,丹麦,Denmark,1724,0.0,1,34
+5601,Europe,罗马尼亚,Romania,907,0.0,31,17
+5602,Asia,印度尼西亚,Indonesia,893,0.0,9,78
+5609,Asia,阿联酋,United Arab Emirates,333,0.0,52,2
+5610,Asia,伊拉克,Iraq,382,0.0,107,36
+5613,North America,美国,United States of America,69194,0.0,619,1050
+5614,Europe,意大利,Italy,74386,0.0,9362,7503
+5615,Europe,西班牙,Spain,56188,0.0,5367,4089
+5616,Europe,德国,Germany,38124,0.0,3547,207
+5617,Europe,法国,France,25233,0.0,3900,1331
+5618,Asia,伊朗,Iran,29406,0.0,10457,2234
+5620,Europe,英国,United Kingdom,9529,0.0,135,465
+5622,Europe,比利时,Belgium,6235,0.0,350,220
+5624,Asia,韩国,Korea,9241,0.0,4144,131
+5628,Oceania,澳大利亚,Australia,2799,0.0,27,12
+5631,South America,巴西,Brazil,2433,0.0,0,57
+5632,Asia,土耳其,Turkey,2433,0.0,0,59
+5635,Europe,捷克,Czech Republic,1654,0.0,10,10
+5636,Europe,爱尔兰,Ireland,1564,0.0,0,9
+5638,South America,厄瓜多尔,Ecuador,1049,0.0,0,27
+5639,Asia,巴基斯坦,Pakistan,1016,0.0,6,8
+5645,Europe,芬兰,Finland,880,0.0,10,3
+5649,Europe,希腊,Greece,821,0.0,19,22
+5651,Africa,南非,South Africa,709,0.0,0,0
+5656,Asia,卡塔尔,Qatar,537,0.0,41,0
+5657,South America,阿根廷,Argentina,502,0.0,1,8
+5661,South America,哥伦比亚,Colombia,470,0.0,6,3
+5669,Oceania,新西兰,New Zealand,278,4.0,0,0
+5670,Asia,亚美尼亚,Armenia,290,0.0,18,0
+5671,Africa,阿尔及利亚,Algeria,302,0.0,12,21
+5676,Europe,匈牙利,Hungary,261,0.0,28,10
+5677,Europe,拉脱维亚,Latvia,221,0.0,0,0
+5683,Europe,波黑,Bosnia and Herzegovina,176,0.0,2,3
+5684,Asia,约旦,Jordan,172,0.0,1,0
+5686,Europe,圣马力诺,San Marino,187,0.0,2,21
+5693,Asia,塞浦路斯,Cyprus,132,0.0,0,3
+5694,Africa,加纳,Ghana,132,0.0,0,3
+5695,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10
+5697,Europe,法罗群岛,Faroe,122,0.0,0,0
+5698,Europe,马耳他,Malta,120,0.0,0,0
+5699,Asia,文莱,Brunei,114,0.0,5,0
+5700,South America,委内瑞拉,Venezuela,106,0.0,0,0
+5701,Asia,斯里兰卡,SriLanka,102,0.0,1,0
+5702,Africa,塞内加尔,Senegal,105,0.0,8,0
+5703,Asia,哈萨克斯坦,Kazakstan,97,0.0,2,0
+5704,Asia,柬埔寨,Kampuchea (Cambodia ),96,0.0,2,0
+5705,Asia,阿曼,Oman,109,0.0,23,0
+5706,Africa,留尼旺,Reunion,83,0.0,0,0
+5707,Asia,阿富汗,Afghanistan,84,0.0,0,2
+5708,Asia,阿塞拜疆,Azerbaijan,93,0.0,10,2
+5709,North America,瓜德罗普岛,,73,0.0,0,0
+5710,Africa,科特迪瓦,Ivory Coast,73,0.0,3,0
+5712,Asia,格鲁吉亚,Georgia,77,0.0,10,0
+5713,Asia,乌兹别克斯坦,Uzbekistan,65,0.0,0,0
+5714,Europe,白俄罗斯,Belarus,86,0.0,22,0
+5715,North America,特立尼达和多巴哥,Trinidad and Tobago,57,0.0,0,0
+5716,North America,马提尼克,Martinique,57,0.0,0,0
+5717,Europe,黑山,,53,0.0,0,0
+5718,North America,洪都拉斯,Honduras,52,0.0,0,0
+5719,Africa,毛里求斯,Mauritius,52,0.0,0,2
+5720,Africa,尼日利亚,Nigeria,51,0.0,2,1
+5721,Asia,巴勒斯坦,Palestine,64,0.0,16,1
+5722,North America,古巴,Cuba,48,0.0,0,1
+5723,Europe,列支敦士登,Liechtenstein,47,0.0,0,0
+5724,Africa,刚果（金）,Democratic Republic of the Congo,51,0.0,2,4
+5725,Asia,吉尔吉斯斯坦,,42,0.0,0,0
+5726,Africa,卢旺达,Republic of Rwanda,41,0.0,0,0
+5727,North America,波多黎各,Puerto Rico,39,0.0,0,2
+5728,South America,巴拉圭,Paraguay,37,0.0,0,3
+5729,Oceania,关岛,Guam,32,0.0,0,1
+5730,Europe,摩纳哥,Monaco,31,0.0,1,0
+5731,Africa,马约特,,30,0.0,0,0
+5732,Asia,孟加拉国,Bangladesh,44,0.0,11,5
+5733,South America,玻利维亚,Bolivia,28,0.0,0,0
+5735,Oceania,法属波利尼西亚,French Polynesia,25,0.0,0,0
+5736,South America,法属圭亚那,French Guiana,23,0.0,0,0
+5737,Europe,根西岛,Guernsey,23,0.0,0,0
+5738,Europe,马恩岛,,23,0.0,0,0
+5739,Africa,马达加斯加,Madagascar,23,0.0,0,0
+5740,North America,牙买加,Jamaica,21,0.0,0,1
+5741,North America,危地马拉,Guatemala,21,0.0,0,1
+5742,Africa,多哥,Togo,20,0.0,1,0
+5743,Europe,泽西岛,Bailiwick of Jersey,18,0.0,0,0
+5744,North America,巴巴多斯,Barbados,18,0.0,0,0
+5745,North America,美属维尔京群岛,,17,0.0,0,0
+5746,Africa,乌干达,Uganda,14,0.0,0,0
+5747,Africa,坦桑尼亚,Tanzania,13,0.0,1,0
+5748,North America,阿鲁巴,,12,0.0,0,0
+5749,Africa,赞比亚共和国,,12,0.0,0,0
+5750,Asia,蒙古,Mongolia,11,0.0,0,0
+5751,Africa,赤道几内亚,The Republic of Equatorial Guinea,11,0.0,0,0
+5752,Africa,吉布提,Djibouti,11,0.0,0,0
+5753,Oceania,新喀里多尼亚,,10,0.0,0,0
+5754,Africa,埃塞俄比亚,Ethiopia,12,0.0,4,0
+5755,North America,圣马丁岛,Sint Maarten,8,0.0,0,0
+5756,Africa,纳米比亚,Namibia,7,0.0,0,0
+5757,Africa,尼日尔,Niger,7,0.0,0,0
+5758,North America,海地,Haiti,7,0.0,0,0
+5759,South America,苏里南,Suriname,6,0.0,0,0
+5760,North America,百慕大,,6,0.0,0,0
+5761,Asia,老挝,Laos,6,0.0,0,0
+5762,North America,库拉索岛,,6,0.0,0,1
+5763,Africa,贝宁,Benin,5,0.0,0,0
+5764,North America,萨尔瓦多,EI Salvador,5,0.0,0,0
+5765,Africa,莫桑比克,Mozambique,5,0.0,0,0
+5766,Asia,叙利亚,Syria,5,0.0,0,0
+5767,North America,开曼群岛,Cayman Is,5,0.0,0,1
+5768,Africa,几内亚,Guinea,4,0.0,0,0
+5769,North America,格陵兰,,4,0.0,0,0
+5770,Oceania,斐济,Fiji,4,0.0,0,0
+5771,Africa,厄立特里亚,,4,0.0,0,0
+5772,North America,安提瓜和巴布达,Antigua and Barbuda,3,0.0,0,0
+5773,North America,圣卢西亚,St.Lucia,3,0.0,0,0
+5774,Africa,乍得,Chad,3,0.0,0,0
+5775,Asia,缅甸,Burma,3,0.0,0,0
+5776,Africa,苏丹,Sudan,3,0.0,0,1
+5777,Africa,冈比亚,Gambia,3,0.0,0,1
+5778,Africa,津巴布韦,Zimbabwe,3,0.0,0,1
+5779,Africa,佛得角,,3,0.0,1,0
+5780,Africa,索马里,Somali,2,0.0,0,0
+5781,North America,多米尼克,,2,0.0,0,0
+5782,Africa,马里,Mali,2,0.0,0,0
+5783,Africa,几内亚比绍,,2,0.0,0,0
+5784,North America,特克斯和凯科斯群岛,,1,0.0,0,0
+5785,Africa,利比亚,Libya,1,0.0,0,0
+6924,Europe,直布罗陀,Gibraltar,15,0.0,0,0
+6926,Asia,马尔代夫,Maldives,13,0.0,0,0
+6937,Africa,塞舌尔,Seychelles,7,0.0,0,0
+6942,Africa,加蓬,Gabon,6,0.0,0,1
+6944,Africa,斯威士兰,Swaziland,5,0.0,0,0
+6949,South America,圭亚那,Guyana,5,0.0,0,1
+6952,North America,巴哈马,Bahamas,4,0.0,0,0
+6953,Africa,中非共和国,Central African Republic,4,0.0,0,0
+6954,Africa,刚果（布）,,4,0.0,0,0
+6960,North America,圣巴泰勒米岛,,3,0.0,0,0
+6961,Africa,利比里亚,Liberia,3,0.0,0,0
+6963,Africa,安哥拉,Angola,3,0.0,0,0
+6970,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0
+6972,North America,尼加拉瓜,Nicaragua,2,0.0,0,0
+6976,Asia,尼泊尔,Nepal,2,0.0,1,0
+6977,Europe,梵蒂冈,Status Civitatis Vaticanae,1,0.0,0,0
+6978,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0
+6980,Asia,东帝汶,,1,0.0,0,0
+6981,Oceania,巴布亚新几内亚,Papua New Cuinea,1,0.0,0,0
+6982,North America,蒙特塞拉特,,1,0.0,0,0
+6983,North America,伯利兹,Belize,1,0.0,0,0
+6984,North America,格林那达,,1,0.0,0,0

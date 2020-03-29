@@ -1,0 +1,188 @@
+,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+14617,Europe,意大利,Italy,59514,0.0,7024,5476
+14618,North America,美国,United States of America,35360,0.0,178,473
+14619,Europe,西班牙,Spain,33089,0.0,3355,2182
+14620,Europe,德国,Germany,27289,0.0,422,115
+14621,Europe,法国,France,16689,0.0,2200,674
+14622,Asia,伊朗,Iran,23049,0.0,7913,1812
+14623,Europe,瑞士,Switzerland,8060,0.0,3,66
+14624,Asia,韩国,Korea,8961,0.0,3166,111
+14625,Europe,英国,United Kingdom,5683,0.0,135,281
+14626,Europe,荷兰,Netherlands,4797,0.0,0,213
+14627,Europe,奥地利,Austria,3611,0.0,9,16
+14628,Europe,比利时,Belgium,3743,0.0,350,88
+14629,Europe,挪威,Norway,2532,0.0,0,8
+14630,Europe,葡萄牙,Portugal,2060,0.0,14,23
+14631,Europe,瑞典,Sweden,1929,0.0,17,23
+14632,Oceania,澳大利亚,Australia,1709,0.0,27,7
+14633,South America,巴西,Brazil,1546,0.0,0,25
+14634,North America,加拿大,Canada,1472,0.0,14,21
+14635,Europe,丹麦,Denmark,1450,0.0,1,13
+14636,Asia,马来西亚,Malaysia,1518,0.0,139,14
+14637,Asia,土耳其,Turkey,1236,0.0,0,30
+14638,Asia,以色列,Israel,1238,0.0,37,1
+14639,Europe,捷克,Czech Republic,1165,0.0,7,1
+14640,Europe,爱尔兰,Ireland,906,0.0,0,4
+14641,Asia,日本,Japan,1119,0.0,285,42
+14642,Europe,卢森堡,Luxembourg,798,0.0,0,8
+14643,Asia,巴基斯坦,Pakistan,799,0.0,6,5
+14644,Asia,泰国,Thailand,721,0.0,52,1
+14645,South America,智利,Chile,632,0.0,8,2
+14646,Europe,芬兰,Finland,626,0.0,10,1
+14647,Europe,波兰,Poland,634,0.0,13,7
+14648,Europe,希腊,Greece,624,0.0,19,15
+14649,Europe,冰岛,Iceland,568,0.0,0,1
+14650,Asia,印度尼西亚,Indonesia,579,0.0,9,49
+14651,South America,厄瓜多尔,Ecuador,506,0.0,0,7
+14652,Asia,沙特阿拉伯,Saudi Arabia,511,0.0,16,0
+14653,Asia,卡塔尔,Qatar,494,0.0,33,0
+14654,Europe,俄罗斯,Russia,438,0.0,17,1
+14655,Europe,斯洛文尼亚,Slovenia,414,0.0,0,2
+14656,Asia,菲律宾,Philippines,462,0.0,18,33
+14657,Africa,南非,South Africa,402,0.0,0,0
+14658,Asia,印度,India,415,0.0,23,8
+14659,South America,秘鲁,Peru,363,0.0,0,5
+14660,Asia,新加坡,Singapore,509,0.0,152,2
+14661,Europe,罗马尼亚,Romania,367,0.0,31,1
+14662,Europe,爱沙尼亚,Estonia,326,0.0,0,0
+14663,North America,墨西哥,Mexico,316,0.0,1,2
+14664,North America,巴拿马,Panama,313,0.0,0,3
+14665,South America,阿根廷,Argentina,266,0.0,1,4
+14666,Africa,埃及,Egypt,327,0.0,56,14
+14667,Asia,黎巴嫩,Lebanon,256,0.0,8,4
+14668,South America,哥伦比亚,Colombia,235,0.0,0,1
+14669,Europe,塞尔维亚,Republic of Serbia,222,0.0,0,2
+14670,Europe,克罗地亚,Croatia,206,0.0,5,1
+14671,Asia,巴林,Bahrain,339,0.0,149,2
+14672,Asia,亚美尼亚,Armenia,190,0.0,2,0
+14673,Europe,斯洛伐克,Slovakia,185,0.0,0,1
+14674,Europe,保加利亚,Bulgaria,187,0.0,3,3
+14675,Africa,阿尔及利亚,Algeria,201,0.0,12,17
+14676,Asia,科威特,Kuwait,189,0.0,30,0
+14677,South America,乌拉圭,Uruguay,158,0.0,0,0
+14678,Asia,伊拉克,Iraq,233,0.0,57,20
+14679,Europe,匈牙利,Hungary,167,0.0,7,4
+14680,Asia,阿联酋,United Arab Emirates,198,0.0,41,2
+14681,Europe,立陶宛,Lithuania,141,0.0,1,1
+14682,Europe,拉脱维亚,Latvia,139,0.0,0,0
+14683,Europe,北马其顿,North Macedonia,136,0.0,1,2
+14684,North America,哥斯达黎加,Costa Rica,134,0.0,0,2
+14685,Europe,安道尔,Andorra,133,0.0,1,1
+14686,Europe,圣马力诺,San Marino,151,0.0,2,20
+14687,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10
+14688,Europe,波黑,Bosnia and Herzegovina,126,0.0,0,1
+14689,Africa,摩洛哥,Morocco,122,0.0,3,4
+14690,Asia,约旦,Jordan,112,0.0,1,0
+14691,Asia,越南,Vietnam,123,0.0,17,0
+14692,Oceania,新西兰,New Zealand,102,4.0,0,0
+14693,Asia,塞浦路斯,Cyprus,95,0.0,0,1
+14694,Europe,摩尔多瓦,Moldova,94,0.0,1,1
+14695,Europe,法罗群岛,Faroe,92,0.0,0,0
+14696,Asia,斯里兰卡,SriLanka,92,0.0,1,0
+14697,Asia,文莱,Brunei,91,0.0,4,0
+14698,Africa,突尼斯,Tunisia,89,0.0,0,3
+14699,Asia,柬埔寨,Kampuchea (Cambodia ),84,0.0,2,0
+14700,South America,委内瑞拉,Venezuela,77,0.0,0,0
+14701,Europe,阿尔巴尼亚,Albania,76,0.0,0,2
+14702,Europe,马耳他,Malta,73,0.0,0,0
+14703,North America,多米尼加,Dominican Republic,72,0.0,0,2
+14704,Europe,乌克兰,Ukraine,73,0.0,1,3
+14705,Europe,白俄罗斯,Belarus,89,0.0,22,0
+14706,Africa,布基纳法索,Burkina Faso,72,0.0,5,3
+14707,Africa,塞内加尔,Senegal,67,0.0,5,0
+14708,Asia,阿塞拜疆,Azerbaijan,72,0.0,10,1
+14709,Asia,哈萨克斯坦,Kazakstan,60,0.0,0,0
+14710,Africa,喀麦隆,Cameroon,56,0.0,0,0
+14711,Asia,格鲁吉亚,Georgia,54,0.0,3,0
+14712,North America,瓜德罗普岛,,51,0.0,0,0
+14713,Asia,阿曼,Oman,66,0.0,17,0
+14714,Africa,留尼旺,Reunion,47,0.0,0,0
+14715,Asia,乌兹别克斯坦,Uzbekistan,43,0.0,0,0
+14716,Asia,巴勒斯坦,Palestine,59,0.0,17,0
+14717,Asia,阿富汗,Afghanistan,40,0.0,0,0
+14718,Europe,列支敦士登,Liechtenstein,36,0.0,0,0
+14719,Africa,尼日利亚,Nigeria,36,0.0,2,1
+14720,North America,马提尼克,Martinique,32,0.0,0,0
+14721,Africa,刚果（金）,Democratic Republic of the Congo,30,0.0,0,2
+14722,Africa,毛里求斯,Mauritius,28,0.0,0,2
+14723,Africa,科特迪瓦,Ivory Coast,25,0.0,1,0
+14724,North America,洪都拉斯,Honduras,24,0.0,0,0
+14725,Africa,加纳,Ghana,24,0.0,0,1
+14726,Europe,摩纳哥,Monaco,23,0.0,0,0
+14727,South America,巴拉圭,Paraguay,22,0.0,0,1
+14728,Asia,孟加拉国,Bangladesh,27,0.0,5,2
+14729,North America,古巴,Cuba,21,0.0,0,1
+14730,North America,波多黎各,Puerto Rico,21,0.0,0,1
+14731,South America,玻利维亚,Bolivia,19,0.0,0,0
+14732,Europe,根西岛,Guernsey,17,0.0,0,0
+14733,Africa,卢旺达,Republic of Rwanda,17,0.0,0,0
+14734,North America,危地马拉,Guatemala,17,0.0,0,1
+14735,Asia,吉尔吉斯斯坦,,16,0.0,0,0
+14736,Africa,多哥,Togo,16,0.0,1,0
+14737,North America,牙买加,Jamaica,16,0.0,0,1
+14738,Africa,肯尼亚,Kenya,15,0.0,0,0
+14739,South America,法属圭亚那,French Guiana,15,0.0,0,0
+14740,Oceania,法属波利尼西亚,French Polynesia,15,0.0,0,0
+14741,Europe,泽西岛,Bailiwick of Jersey,15,0.0,0,0
+14742,Oceania,关岛,Guam,15,0.0,0,1
+14743,Europe,黑山,,14,0.0,0,0
+14744,Asia,马尔代夫,Maldives,13,0.0,0,0
+14745,Africa,坦桑尼亚,Tanzania,12,0.0,0,0
+14746,Africa,马约特,,11,0.0,0,0
+14747,Asia,蒙古,Mongolia,10,0.0,0,0
+14748,Europe,直布罗陀,Gibraltar,10,0.0,0,0
+14749,North America,特立尼达和多巴哥,Trinidad and Tobago,9,0.0,0,0
+14750,Africa,赤道几内亚,The Republic of Equatorial Guinea,9,0.0,0,0
+14751,Africa,埃塞俄比亚,Ethiopia,11,0.0,4,0
+14752,Africa,塞舌尔,Seychelles,7,0.0,0,0
+14753,North America,美属维尔京群岛,,6,0.0,0,0
+14754,South America,苏里南,Suriname,5,0.0,0,0
+14755,North America,阿鲁巴,,5,0.0,0,0
+14756,North America,巴巴多斯,Barbados,5,0.0,0,0
+14757,South America,圭亚那,Guyana,5,0.0,0,1
+14758,Africa,加蓬,Gabon,5,0.0,0,1
+14759,North America,圣马丁岛,Sint Maarten,4,0.0,0,0
+14760,Africa,斯威士兰,Swaziland,4,0.0,0,0
+14761,North America,巴哈马,Bahamas,4,0.0,0,0
+14762,Africa,刚果（布）,,4,0.0,0,0
+14763,Oceania,新喀里多尼亚,,4,0.0,0,0
+14764,Africa,纳米比亚,Namibia,3,0.0,0,0
+14765,Africa,中非共和国,Central African Republic,3,0.0,0,0
+14766,North America,圣巴泰勒米岛,,3,0.0,0,0
+14767,Africa,利比里亚,Liberia,3,0.0,0,0
+14768,Africa,赞比亚共和国,,3,0.0,0,0
+14769,Africa,马达加斯加,Madagascar,3,0.0,0,0
+14770,Africa,佛得角,,3,0.0,0,0
+14771,North America,开曼群岛,Cayman Is,3,0.0,0,1
+14772,North America,库拉索岛,,3,0.0,0,1
+14773,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0
+14774,Africa,几内亚,Guinea,2,0.0,0,0
+14775,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0
+14776,North America,格陵兰,,2,0.0,0,0
+14777,North America,圣卢西亚,St.Lucia,2,0.0,0,0
+14778,Africa,贝宁,Benin,2,0.0,0,0
+14779,North America,尼加拉瓜,Nicaragua,2,0.0,0,0
+14780,Oceania,斐济,Fiji,2,0.0,0,0
+14781,Africa,尼日尔,Niger,2,0.0,0,0
+14782,Europe,马恩岛,,2,0.0,0,0
+14783,North America,百慕大,,2,0.0,0,0
+14784,Africa,安哥拉,Angola,2,0.0,0,0
+14785,North America,海地,Haiti,2,0.0,0,0
+14786,Asia,尼泊尔,Nepal,2,0.0,1,0
+14787,Africa,苏丹,Sudan,2,0.0,0,1
+14788,Africa,津巴布韦,Zimbabwe,2,0.0,0,1
+14789,Europe,梵蒂冈,Status Civitatis Vaticanae,1,0.0,0,0
+14790,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0
+14791,North America,安提瓜和巴布达,Antigua and Barbuda,1,0.0,0,0
+14792,Africa,冈比亚,Gambia,1,0.0,0,0
+14793,Africa,索马里,Somali,1,0.0,0,0
+14794,North America,萨尔瓦多,EI Salvador,1,0.0,0,0
+14795,Africa,吉布提,Djibouti,1,0.0,0,0
+14796,Africa,乍得,Chad,1,0.0,0,0
+14797,Asia,东帝汶,,1,0.0,0,0
+14798,Africa,乌干达,Uganda,1,0.0,0,0
+14799,Oceania,巴布亚新几内亚,Papua New Cuinea,1,0.0,0,0
+14800,Africa,厄立特里亚,,1,0.0,0,0
+14801,Africa,莫桑比克,Mozambique,1,0.0,0,0
+14802,North America,蒙特塞拉特,,1,0.0,0,0
+14803,Asia,叙利亚,Syria,1,0.0,0,0

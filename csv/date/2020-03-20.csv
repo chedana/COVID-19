@@ -1,0 +1,173 @@
+,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+19580,North America,加拿大,Canada,923,0.0,11,12
+19581,Europe,意大利,Italy,41035,0.0,4440,3405
+19582,Europe,西班牙,Spain,19980,0.0,1588,1002
+19583,Europe,德国,Germany,15439,0.0,135,44
+19584,North America,美国,United States of America,14250,0.0,121,208
+19585,Asia,伊朗,Iran,19644,0.0,6745,1433
+19586,Europe,法国,France,10995,0.0,1300,372
+19587,Asia,韩国,Korea,8652,0.0,2233,100
+19588,Europe,瑞士,Switzerland,3888,0.0,3,39
+19589,Europe,英国,United Kingdom,3269,0.0,79,144
+19590,Europe,荷兰,Netherlands,2994,0.0,0,106
+19591,Europe,比利时,Belgium,2257,0.0,1,37
+19592,Europe,奥地利,Austria,2013,0.0,9,4
+19593,Europe,挪威,Norway,1758,0.0,0,7
+19594,Europe,瑞典,Sweden,1423,0.0,1,11
+19595,Europe,丹麦,Denmark,1226,0.0,1,6
+19596,Asia,马来西亚,Malaysia,1030,0.0,87,3
+19598,Oceania,澳大利亚,Australia,877,0.0,27,7
+19599,Asia,日本,Japan,969,0.0,157,34
+19600,Europe,捷克,Czech Republic,774,0.0,3,0
+19601,Asia,以色列,Israel,705,0.0,14,0
+19602,Europe,葡萄牙,Portugal,642,0.0,3,2
+19603,South America,巴西,Brazil,621,0.0,0,7
+19604,Europe,爱尔兰,Ireland,557,0.0,0,2
+19605,Europe,卢森堡,Luxembourg,484,0.0,0,4
+19606,Asia,卡塔尔,Qatar,452,0.0,4,0
+19607,Europe,希腊,Greece,464,0.0,14,5
+19608,Asia,巴基斯坦,Pakistan,448,0.0,2,2
+19609,Europe,芬兰,Finland,400,0.0,1,0
+19610,Asia,土耳其,Turkey,359,0.0,0,4
+19611,South America,智利,Chile,342,0.0,0,0
+19612,Europe,波兰,Poland,355,0.0,13,5
+19613,Europe,冰岛,Iceland,330,0.0,0,0
+19614,Asia,印度尼西亚,Indonesia,369,0.0,9,32
+19615,Europe,斯洛文尼亚,Slovenia,286,0.0,0,1
+19616,Asia,泰国,Thailand,322,0.0,43,1
+19617,Asia,沙特阿拉伯,Saudi Arabia,274,0.0,6,0
+19618,Europe,爱沙尼亚,Estonia,267,0.0,0,0
+19619,Asia,新加坡,Singapore,385,0.0,124,0
+19620,South America,厄瓜多尔,Ecuador,260,0.0,0,3
+19621,Europe,罗马尼亚,Romania,277,0.0,25,0
+19622,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7
+19623,Europe,俄罗斯,Russia,253,0.0,8,1
+19624,South America,秘鲁,Peru,234,0.0,0,1
+19625,Africa,埃及,Egypt,256,0.0,28,6
+19626,Asia,菲律宾,Philippines,230,0.0,7,18
+19627,Asia,印度,India,223,0.0,15,5
+19628,Africa,南非,South Africa,202,0.0,0,0
+19629,Asia,巴林,Bahrain,285,0.0,100,1
+19630,North America,墨西哥,Mexico,164,0.0,1,1
+19631,Asia,黎巴嫩,Lebanon,163,0.0,1,4
+19632,Asia,科威特,Kuwait,159,0.0,12,0
+19633,Asia,亚美尼亚,Armenia,136,0.0,1,0
+19634,North America,巴拿马,Panama,135,0.0,0,1
+19635,Asia,伊拉克,Iraq,192,0.0,49,13
+19636,South America,哥伦比亚,Colombia,128,0.0,0,0
+19637,South America,阿根廷,Argentina,128,0.0,1,3
+19638,Europe,斯洛伐克,Slovakia,123,0.0,0,1
+19639,Europe,塞尔维亚,Republic of Serbia,118,0.0,0,0
+19640,Asia,阿联酋,United Arab Emirates,140,0.0,31,0
+19641,Europe,保加利亚,Bulgaria,107,0.0,0,2
+19642,Europe,克罗地亚,Croatia,102,0.0,5,1
+19643,South America,乌拉圭,Uruguay,94,0.0,0,0
+19644,Europe,圣马力诺,San Marino,109,0.0,2,14
+19645,North America,哥斯达黎加,Costa Rica,87,0.0,0,1
+19646,Europe,拉脱维亚,Latvia,86,0.0,0,0
+19647,Europe,匈牙利,Hungary,85,0.0,2,1
+19648,Asia,文莱,Brunei,78,0.0,1,0
+19649,Europe,安道尔,Andorra,75,0.0,1,0
+19650,Africa,阿尔及利亚,Algeria,90,0.0,12,6
+19651,Asia,越南,Vietnam,87,0.0,17,0
+19652,Asia,斯里兰卡,SriLanka,71,0.0,1,0
+19653,Asia,约旦,Jordan,70,0.0,1,0
+19654,Europe,北马其顿,North Macedonia,67,0.0,0,0
+19655,Asia,塞浦路斯,Cyprus,67,0.0,0,0
+19656,Europe,波黑,Bosnia and Herzegovina,64,0.0,0,0
+19657,Africa,摩洛哥,Morocco,66,0.0,2,3
+19658,Europe,法罗群岛,Faroe,58,0.0,0,0
+19659,Europe,阿尔巴尼亚,Albania,59,0.0,0,2
+19660,Europe,白俄罗斯,Belarus,69,0.0,15,0
+19661,Asia,哈萨克斯坦,Kazakstan,49,0.0,0,0
+19662,Europe,马耳他,Malta,48,0.0,0,0
+19663,Europe,摩尔多瓦,Moldova,49,0.0,1,1
+19664,Asia,巴勒斯坦,Palestine,47,0.0,0,0
+19665,Asia,格鲁吉亚,Georgia,43,0.0,1,0
+19666,South America,委内瑞拉,Venezuela,42,0.0,0,0
+19667,Europe,立陶宛,Lithuania,41,0.0,0,0
+19668,Oceania,新西兰,New Zealand,39,0.0,0,0
+19669,Africa,突尼斯,Tunisia,39,0.0,0,0
+19670,Africa,塞内加尔,Senegal,38,0.0,2,0
+19671,Asia,阿曼,Oman,48,0.0,13,0
+19672,Asia,柬埔寨,Kampuchea (Cambodia ),35,0.0,1,0
+19673,North America,多米尼加,Dominican Republic,34,0.0,0,1
+19674,Asia,乌兹别克斯坦,Uzbekistan,33,0.0,0,0
+19675,North America,瓜德罗普岛,,33,0.0,0,0
+19676,Africa,布基纳法索,Burkina Faso,33,0.0,0,1
+19677,Asia,阿塞拜疆,Azerbaijan,34,0.0,6,1
+19678,Europe,列支敦士登,Liechtenstein,25,0.0,0,0
+19679,Asia,阿富汗,Afghanistan,24,0.0,0,0
+19680,North America,洪都拉斯,Honduras,24,0.0,0,0
+19681,Europe,乌克兰,Ukraine,26,0.0,0,3
+19682,North America,马提尼克,Martinique,23,0.0,0,0
+19683,Africa,喀麦隆,Cameroon,21,0.0,0,0
+19684,Africa,刚果（金）,Democratic Republic of the Congo,18,0.0,0,0
+19685,Asia,孟加拉国,Bangladesh,20,0.0,3,1
+19686,Africa,加纳,Ghana,16,0.0,0,0
+19687,North America,古巴,Cuba,16,0.0,0,1
+19688,North America,牙买加,Jamaica,15,0.0,0,1
+19689,Asia,马尔代夫,Maldives,13,0.0,0,0
+19690,South America,玻利维亚,Bolivia,12,0.0,0,0
+19691,Europe,泽西岛,Bailiwick of Jersey,12,0.0,0,0
+19692,Africa,留尼旺,Reunion,12,0.0,0,0
+19693,Africa,尼日利亚,Nigeria,12,0.0,1,0
+19694,Europe,摩纳哥,Monaco,11,0.0,0,0
+19695,South America,巴拉圭,Paraguay,11,0.0,0,0
+19696,South America,法属圭亚那,French Guiana,11,0.0,0,0
+19697,Africa,卢旺达,Republic of Rwanda,11,0.0,0,0
+19698,Europe,黑山,,10,0.0,0,0
+19699,Africa,埃塞俄比亚,Ethiopia,9,0.0,0,0
+19700,Africa,多哥,Togo,9,0.0,1,0
+19701,Africa,科特迪瓦,Ivory Coast,9,0.0,1,0
+19702,Europe,直布罗陀,Gibraltar,8,0.0,0,0
+19703,North America,特立尼达和多巴哥,Trinidad and Tobago,7,0.0,0,0
+19704,Africa,肯尼亚,Kenya,7,0.0,0,0
+19705,Africa,毛里求斯,Mauritius,7,0.0,0,0
+19706,Africa,赤道几内亚,The Republic of Equatorial Guinea,6,0.0,0,0
+19707,Africa,塞舌尔,Seychelles,6,0.0,0,0
+19708,Africa,坦桑尼亚,Tanzania,6,0.0,0,0
+19709,Asia,吉尔吉斯斯坦,,6,0.0,0,0
+19710,North America,危地马拉,Guatemala,6,0.0,0,1
+19711,Asia,蒙古,Mongolia,5,0.0,0,0
+19712,North America,波多黎各,Puerto Rico,5,0.0,0,0
+19713,Oceania,关岛,Guam,5,0.0,0,0
+19714,South America,圭亚那,Guyana,5,0.0,0,1
+19715,North America,圣马丁岛,Sint Maarten,4,0.0,0,0
+19716,North America,阿鲁巴,,4,0.0,0,0
+19717,Africa,加蓬,Gabon,4,0.0,0,1
+19718,Oceania,法属波利尼西亚,French Polynesia,3,0.0,0,0
+19719,North America,巴哈马,Bahamas,3,0.0,0,0
+19720,Africa,中非共和国,Central African Republic,3,0.0,0,0
+19721,Africa,刚果（布）,,3,0.0,0,0
+19722,Africa,马约特,,3,0.0,0,0
+19723,North America,圣巴泰勒米岛,,3,0.0,0,0
+19724,North America,库拉索岛,,3,0.0,0,0
+19725,South America,苏里南,Suriname,2,0.0,0,0
+19726,Africa,纳米比亚,Namibia,2,0.0,0,0
+19727,Africa,几内亚,Guinea,2,0.0,0,0
+19728,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0
+19729,North America,格陵兰,,2,0.0,0,0
+19730,South America,圣卢西亚,St.Lucia,2,0.0,0,0
+19731,Africa,利比里亚,Liberia,2,0.0,0,0
+19732,North America,美属维尔京群岛,,2,0.0,0,0
+19733,North America,巴巴多斯,Barbados,2,0.0,0,0
+19734,Africa,赞比亚共和国,,2,0.0,0,0
+19735,Africa,苏丹,Sudan,2,0.0,0,1
+19736,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0
+19737,Europe,梵蒂冈,Status Civitatis Vaticanae,1,0.0,0,0
+19738,Europe,根西岛,Guernsey,1,0.0,0,0
+19739,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0
+19740,Africa,斯威士兰,Swaziland,1,0.0,0,0
+19741,North America,安提瓜和巴布达,Antigua and Barbuda,1,0.0,0,0
+19742,Africa,冈比亚,Gambia,1,0.0,0,0
+19743,Africa,贝宁,Benin,1,0.0,0,0
+19744,Africa,索马里,Somali,1,0.0,0,0
+19745,North America,尼加拉瓜,Nicaragua,1,0.0,0,0
+19746,North America,萨尔瓦多,EI Salvador,1,0.0,0,0
+19747,Africa,吉布提,Djibouti,1,0.0,0,0
+19748,Oceania,斐济,Fiji,1,0.0,0,0
+19749,Africa,尼日尔,Niger,1,0.0,0,0
+19750,Europe,马恩岛,,1,0.0,0,0
+19751,Asia,尼泊尔,Nepal,1,0.0,1,0
+19752,North America,开曼群岛,Cayman Is,1,0.0,0,1

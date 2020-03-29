@@ -1,0 +1,152 @@
+,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+0,North America,美国,United States of America,124217,0.0,1095,2185
+1,Europe,德国,Germany,58101,0.0,8481,474
+2,Asia,巴基斯坦,Pakistan,1495,0.0,25,12
+3,Europe,芬兰,Finland,1163,0.0,10,9
+4,Europe,波黑,Bosnia and Herzegovina,233,0.0,5,4
+5,Asia,阿富汗,Afghanistan,117,0.0,0,2
+6,Oceania,澳大利亚,Australia,3809,0.0,119,16
+7,Europe,瑞士,Switzerland,13213,0.0,1530,235
+8,Europe,荷兰,Netherlands,9762,0.0,2954,639
+9,North America,加拿大,Canada,5655,0.0,345,61
+10,Europe,葡萄牙,Portugal,4268,0.0,22,76
+11,Asia,以色列,Israel,3619,0.0,89,12
+13,Europe,捷克,Czech Republic,2622,0.0,11,11
+14,Asia,马来西亚,Malaysia,2320,0.0,320,27
+15,Europe,卢森堡,Luxembourg,1831,0.0,0,18
+16,Europe,波兰,Poland,1638,0.0,13,18
+18,Europe,罗马尼亚,Romania,1292,0.0,115,24
+19,Asia,菲律宾,Philippines,1075,0.0,35,68
+20,North America,巴拿马,Panama,901,0.0,0,17
+21,North America,墨西哥,Mexico,848,0.0,1,16
+22,South America,阿根廷,Argentina,745,0.0,1,19
+23,South America,秘鲁,Peru,671,0.0,14,16
+24,Asia,新加坡,Singapore,802,0.0,183,2
+25,Africa,埃及,Egypt,576,0.0,121,36
+26,Asia,阿联酋,United Arab Emirates,468,0.0,55,2
+27,Oceania,新西兰,New Zealand,451,4.0,50,0
+28,Africa,阿尔及利亚,Algeria,454,0.0,29,29
+29,Asia,黎巴嫩,Lebanon,412,0.0,27,8
+30,Europe,立陶宛,Lithuania,382,0.0,1,7
+31,Africa,摩洛哥,Morocco,402,0.0,12,25
+32,Asia,亚美尼亚,Armenia,372,0.0,28,1
+33,Europe,乌克兰,Ukraine,356,0.0,5,9
+34,Asia,约旦,Jordan,246,0.0,18,1
+36,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10
+38,Europe,意大利,Italy,93051,0.0,12384,10023
+40,Asia,韩国,Korea,9583,0.0,5033,152
+41,Europe,塞尔维亚,Republic of Serbia,659,0.0,0,10
+112,Europe,西班牙,Spain,72248,0.0,12285,5690
+114,Europe,法国,France,37575,0.0,5700,2314
+115,Asia,伊朗,Iran,35408,0.0,11679,2517
+116,Europe,英国,United Kingdom,17089,0.0,135,1019
+118,Europe,比利时,Belgium,9134,0.0,350,353
+119,Europe,奥地利,Austria,7697,0.0,225,68
+120,Asia,土耳其,Turkey,7402,0.0,70,108
+124,Europe,挪威,Norway,3981,0.0,0,22
+127,Europe,瑞典,Sweden,3447,0.0,17,102
+128,South America,巴西,Brazil,3417,0.0,0,92
+130,Europe,爱尔兰,Ireland,2415,0.0,0,36
+131,Europe,丹麦,Denmark,2201,0.0,1,65
+133,South America,智利,Chile,1909,0.0,43,6
+136,South America,厄瓜多尔,Ecuador,1595,0.0,0,36
+138,Asia,日本,Japan,1724,0.0,372,54
+139,Europe,俄罗斯,Russia,1264,0.0,49,4
+140,Africa,南非,South Africa,1187,0.0,1,2
+141,Asia,沙特阿拉伯,Saudi Arabia,1203,0.0,37,4
+143,Asia,泰国,Thailand,1245,0.0,97,6
+144,Asia,印度尼西亚,Indonesia,1155,0.0,35,102
+145,Europe,希腊,Greece,1061,0.0,19,32
+147,Europe,冰岛,Iceland,963,0.0,97,2
+148,Asia,印度,India,918,0.0,80,19
+154,Europe,爱沙尼亚,Estonia,640,0.0,20,1
+156,South America,哥伦比亚,Colombia,608,0.0,10,6
+157,North America,多米尼加,Dominican Republic,581,0.0,0,20
+158,Asia,卡塔尔,Qatar,590,0.0,45,1
+167,Asia,伊拉克,Iraq,506,0.0,131,42
+169,Europe,保加利亚,Bulgaria,313,0.0,3,3
+170,Europe,拉脱维亚,Latvia,305,0.0,0,0
+171,Europe,安道尔,Andorra,308,0.0,5,3
+172,Europe,匈牙利,Hungary,343,0.0,34,11
+173,North America,哥斯达黎加,Costa Rica,295,0.0,0,2
+174,Europe,斯洛伐克,Slovakia,295,0.0,7,0
+177,Europe,圣马力诺,San Marino,242,0.0,2,21
+178,Asia,巴林,Bahrain,473,0.0,254,4
+179,Europe,北马其顿,North Macedonia,219,0.0,1,3
+180,Asia,哈萨克斯坦,Kazakstan,204,0.0,4,1
+181,Europe,阿尔巴尼亚,Albania,197,0.0,10,10
+182,Africa,布基纳法索,Burkina Faso,207,0.0,21,11
+183,Asia,塞浦路斯,Cyprus,179,0.0,0,5
+184,Asia,科威特,Kuwait,235,0.0,64,0
+185,Asia,阿塞拜疆,Azerbaijan,182,0.0,15,4
+186,Asia,越南,Vietnam,174,0.0,21,0
+187,Europe,法罗群岛,Faroe,144,0.0,0,0
+188,Europe,马耳他,Malta,139,0.0,0,0
+189,Africa,加纳,Ghana,141,0.0,2,5
+190,Asia,阿曼,Oman,152,0.0,23,0
+192,Africa,塞内加尔,Senegal,130,0.0,18,0
+193,Asia,斯里兰卡,SriLanka,113,0.0,6,1
+194,South America,委内瑞拉,Venezuela,107,0.0,0,1
+195,Asia,柬埔寨,Kampuchea (Cambodia ),104,0.0,2,0
+196,Asia,乌兹别克斯坦,Uzbekistan,104,0.0,0,2
+197,Africa,毛里求斯,Mauritius,102,0.0,0,2
+198,Africa,喀麦隆,Cameroon,99,0.0,2,2
+199,Asia,文莱,Brunei,120,0.0,25,1
+200,North America,瓜德罗普岛,,96,0.0,0,2
+201,North America,马提尼克,Martinique,93,0.0,0,1
+202,Africa,尼日利亚,Nigeria,89,0.0,3,1
+203,Asia,巴勒斯坦,Palestine,97,0.0,17,1
+204,North America,古巴,Cuba,80,0.0,0,2
+205,Europe,白俄罗斯,Belarus,94,0.0,22,0
+206,Asia,格鲁吉亚,Georgia,85,0.0,14,0
+207,North America,特立尼达和多巴哥,Trinidad and Tobago,66,0.0,0,2
+208,South America,玻利维亚,Bolivia,61,0.0,0,0
+209,Europe,列支敦士登,Liechtenstein,60,0.0,0,0
+210,Africa,卢旺达,Republic of Rwanda,60,0.0,0,0
+211,Africa,刚果（金）,Democratic Republic of the Congo,65,0.0,3,6
+212,Europe,直布罗陀,Gibraltar,55,0.0,0,0
+213,Europe,泽西岛,Bailiwick of Jersey,52,0.0,0,1
+214,Oceania,关岛,Guam,51,0.0,0,1
+215,South America,巴拉圭,Paraguay,52,0.0,0,3
+216,Europe,摩纳哥,Monaco,43,0.0,1,0
+217,Africa,肯尼亚,Kenya,38,0.0,1,1
+218,Europe,根西岛,Guernsey,36,0.0,0,0
+219,South America,法属圭亚那,French Guiana,31,0.0,0,0
+220,Africa,乌干达,Uganda,30,0.0,0,0
+221,Europe,马恩岛,,29,0.0,0,0
+222,North America,阿鲁巴,,28,0.0,0,0
+223,Africa,赞比亚共和国,,28,0.0,0,0
+224,Africa,马达加斯加,Madagascar,28,0.0,0,0
+225,North America,危地马拉,Guatemala,25,0.0,0,1
+226,North America,巴巴多斯,Barbados,24,0.0,0,0
+227,Africa,多哥,Togo,25,0.0,1,1
+228,Africa,马里,Mali,18,0.0,0,0
+229,Oceania,新喀里多尼亚,,15,0.0,0,0
+230,North America,百慕大,,15,0.0,0,0
+231,Africa,吉布提,Djibouti,14,0.0,0,0
+232,Africa,坦桑尼亚,Tanzania,14,0.0,1,0
+233,Asia,蒙古,Mongolia,12,0.0,0,0
+234,Africa,纳米比亚,Namibia,11,0.0,0,0
+235,Africa,斯威士兰,Swaziland,9,0.0,0,0
+236,North America,巴哈马,Bahamas,9,0.0,0,0
+237,North America,格陵兰,,9,0.0,0,0
+238,South America,苏里南,Suriname,8,0.0,0,0
+239,Africa,莫桑比克,Mozambique,8,0.0,0,0
+240,Asia,缅甸,Burma,8,0.0,0,0
+241,North America,安提瓜和巴布达,Antigua and Barbuda,7,0.0,0,0
+242,Africa,中非共和国,Central African Republic,6,0.0,0,0
+243,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,5,0.0,0,0
+244,North America,圣巴泰勒米岛,,5,0.0,0,0
+245,Africa,安哥拉,Angola,5,0.0,0,0
+246,North America,蒙特塞拉特,,5,0.0,0,0
+247,Asia,尼泊尔,Nepal,5,0.0,1,0
+248,Africa,苏丹,Sudan,5,0.0,0,1
+249,Africa,佛得角,,5,0.0,1,1
+250,North America,尼加拉瓜,Nicaragua,2,0.0,0,1
+485,Europe,斯洛文尼亚,Slovenia,632,0.0,0,9
+488,Europe,克罗地亚,Croatia,586,0.0,37,3
+499,Africa,突尼斯,Tunisia,227,0.0,0,6
+503,Europe,摩尔多瓦,Moldova,199,0.0,10,2
+510,Africa,留尼旺,Reunion,135,0.0,0,0
+517,Africa,科特迪瓦,Ivory Coast,101,0.0,3,0
+618,South America,乌拉圭,Uruguay,238,0.0,6,0

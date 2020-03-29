@@ -1,0 +1,158 @@
+,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+24587,Europe,意大利,Italy,29022,0.0,2749,2158
+24588,Europe,葡萄牙,Portugal,448,0.0,3,1
+24589,Europe,英国,United Kingdom,1950,0.0,18,56
+24591,Asia,斯里兰卡,SriLanka,44,0.0,1,0
+24592,Asia,伊朗,Iran,16169,0.0,5389,988
+24593,Europe,西班牙,Spain,11178,0.0,1028,491
+24594,Europe,德国,Germany,7840,0.0,135,17
+24595,Asia,韩国,Korea,8320,0.0,1401,81
+24596,North America,美国,United States of America,4661,0.0,48,90
+24597,Europe,瑞士,Switzerland,2269,0.0,3,19
+24598,Europe,荷兰,Netherlands,1705,0.0,0,24
+24600,Europe,比利时,Belgium,1243,0.0,1,5
+24601,Asia,日本,Japan,880,0.0,157,29
+24602,Asia,马来西亚,Malaysia,673,0.0,49,2
+24603,North America,加拿大,Canada,436,0.0,4,4
+24605,Asia,巴基斯坦,Pakistan,212,0.0,1,0
+24606,Europe,波兰,Poland,205,0.0,13,3
+24607,Asia,菲律宾,Philippines,187,0.0,1,14
+24608,Asia,印度尼西亚,Indonesia,172,0.0,2,4
+24609,Asia,新加坡,Singapore,266,0.0,105,0
+24610,Asia,巴林,Bahrain,237,0.0,81,1
+24611,Asia,印度,India,137,0.0,3,3
+24612,Asia,黎巴嫩,Lebanon,120,0.0,1,3
+24613,Asia,伊拉克,Iraq,154,0.0,41,11
+24614,Europe,圣马力诺,San Marino,98,0.0,2,7
+24615,North America,墨西哥,Mexico,82,0.0,1,0
+24616,Europe,塞尔维亚,Republic of Serbia,65,0.0,0,0
+24617,Asia,亚美尼亚,Armenia,64,0.0,0,0
+24618,South America,阿根廷,Argentina,65,0.0,1,2
+24619,South America,厄瓜多尔,Ecuador,58,0.0,0,2
+24620,Asia,文莱,Brunei,56,0.0,0,0
+24621,Asia,越南,Vietnam,66,0.0,16,0
+24622,Europe,匈牙利,Hungary,50,0.0,1,1
+24623,Africa,摩洛哥,Morocco,38,0.0,1,2
+24624,Asia,哈萨克斯坦,Kazakstan,32,0.0,0,0
+24625,Asia,阿塞拜疆,Azerbaijan,28,0.0,6,1
+24626,Asia,阿曼,Oman,24,0.0,12,0
+24627,Oceania,新西兰,New Zealand,11,0.0,0,0
+24628,Africa,喀麦隆,Cameroon,10,0.0,0,0
+24629,Africa,科特迪瓦,Ivory Coast,6,0.0,1,0
+24630,Africa,肯尼亚,Kenya,4,0.0,0,0
+24631,Africa,尼日利亚,Nigeria,3,0.0,0,0
+24632,Africa,利比里亚,Liberia,2,0.0,0,0
+24652,Oceania,澳大利亚,Australia,449,0.0,27,5
+24653,Europe,希腊,Greece,352,0.0,0,4
+24654,Asia,以色列,Israel,304,0.0,5,0
+24661,Asia,泰国,Thailand,177,0.0,41,1
+24663,Asia,科威特,Kuwait,130,0.0,12,0
+24673,Asia,巴勒斯坦,Palestine,38,0.0,0,0
+24675,Asia,约旦,Jordan,34,0.0,1,0
+24677,South America,乌拉圭,Uruguay,29,0.0,0,0
+24679,Europe,马耳他,Malta,21,0.0,0,0
+24680,North America,多米尼加,Dominican Republic,21,0.0,0,1
+24681,North America,马提尼克,Martinique,15,0.0,0,0
+24683,Asia,柬埔寨,Kampuchea (Cambodia ),12,0.0,1,0
+24685,South America,玻利维亚,Bolivia,11,0.0,0,0
+24686,Europe,法罗群岛,Faroe,11,0.0,0,0
+24688,North America,牙买加,Jamaica,10,0.0,0,0
+24689,Asia,乌兹别克斯坦,Uzbekistan,10,0.0,0,0
+24690,Europe,摩纳哥,Monaco,9,0.0,0,0
+24691,Africa,留尼旺,Reunion,9,0.0,0,0
+24692,Europe,列支敦士登,Liechtenstein,7,0.0,0,0
+24693,South America,法属圭亚那,French Guiana,7,0.0,0,0
+24694,Africa,卢旺达,Republic of Rwanda,7,0.0,0,0
+24695,North America,瓜德罗普岛,,6,0.0,0,0
+24697,Africa,塞舌尔,Seychelles,4,0.0,0,0
+24699,Oceania,法属波利尼西亚,French Polynesia,3,0.0,0,0
+24700,North America,波多黎各,Puerto Rico,3,0.0,0,0
+24701,North America,圣巴泰勒米岛,,3,0.0,0,0
+24702,North America,特立尼达和多巴哥,Trinidad and Tobago,2,0.0,0,0
+24703,Europe,泽西岛,Bailiwick of Jersey,2,0.0,0,0
+24704,North America,库拉索岛,,2,0.0,0,0
+24706,North America,危地马拉,Guatemala,2,0.0,0,1
+24707,Africa,加蓬,Gabon,1,0.0,0,0
+24708,Europe,根西岛,Guernsey,1,0.0,0,0
+24709,South America,苏里南,Suriname,1,0.0,0,0
+24710,Africa,中非共和国,Central African Republic,1,0.0,0,0
+24711,Africa,刚果（布）,,1,0.0,0,0
+24712,Africa,马约特,,1,0.0,0,0
+24713,South America,圣卢西亚,St.Lucia,1,0.0,0,0
+24714,North America,开曼群岛,Cayman Is,1,0.0,0,1
+24845,Europe,法国,France,6633,0.0,36,148
+24850,Europe,挪威,Norway,1331,0.0,0,3
+24851,Europe,瑞典,Sweden,1119,0.0,0,7
+24853,Europe,奥地利,Austria,1016,0.0,6,3
+24854,Europe,丹麦,Denmark,914,0.0,1,4
+24857,Asia,卡塔尔,Qatar,439,0.0,0,0
+24861,Europe,捷克,Czech Republic,344,0.0,3,0
+24863,Europe,芬兰,Finland,272,0.0,1,0
+24864,Europe,斯洛文尼亚,Slovenia,253,0.0,0,1
+24865,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7
+24867,South America,巴西,Brazil,234,0.0,0,0
+24868,Europe,爱尔兰,Ireland,223,0.0,0,2
+24869,Europe,爱沙尼亚,Estonia,205,0.0,0,0
+24871,Europe,冰岛,Iceland,180,0.0,0,0
+24873,South America,智利,Chile,156,0.0,0,0
+24874,Europe,罗马尼亚,Romania,158,0.0,3,0
+24877,Africa,埃及,Egypt,166,0.0,26,2
+24881,Asia,沙特阿拉伯,Saudi Arabia,133,0.0,6,0
+24887,Europe,俄罗斯,Russia,93,0.0,3,0
+24888,Europe,卢森堡,Luxembourg,81,0.0,0,1
+24889,Asia,阿联酋,United Arab Emirates,98,0.0,23,0
+24890,Europe,斯洛伐克,Slovakia,72,0.0,0,0
+24891,South America,秘鲁,Peru,71,0.0,0,0
+24892,North America,巴拿马,Panama,69,0.0,0,1
+24893,Africa,南非,South Africa,62,0.0,0,0
+24894,Europe,克罗地亚,Croatia,57,0.0,0,0
+24896,South America,哥伦比亚,Colombia,57,0.0,0,0
+24900,Europe,保加利亚,Bulgaria,51,0.0,0,2
+24901,Asia,土耳其,Turkey,47,0.0,0,0
+24902,Africa,阿尔及利亚,Algeria,60,0.0,10,4
+24905,Europe,阿尔巴尼亚,Albania,42,0.0,0,1
+24906,North America,哥斯达黎加,Costa Rica,41,0.0,0,0
+24911,Europe,拉脱维亚,Latvia,34,0.0,0,0
+24912,Europe,白俄罗斯,Belarus,36,0.0,3,0
+24914,Europe,格鲁吉亚,Georgia,33,0.0,0,0
+24915,Asia,塞浦路斯,Cyprus,33,0.0,0,0
+24916,South America,委内瑞拉,Venezuela,33,0.0,0,0
+24920,Africa,塞内加尔,Senegal,27,0.0,2,0
+24921,Europe,波黑,Bosnia and Herzegovina,24,0.0,0,0
+24922,Europe,摩尔多瓦,Moldova,23,0.0,0,0
+24923,Asia,阿富汗,Afghanistan,22,0.0,0,0
+24926,Africa,突尼斯,Tunisia,20,0.0,0,0
+24928,Europe,北马其顿,North Macedonia,18,0.0,0,0
+24929,Europe,立陶宛,Lithuania,17,0.0,0,0
+24930,Africa,布基纳法索,Burkina Faso,15,0.0,0,0
+24932,Europe,安道尔,Andorra,15,0.0,1,0
+24933,Asia,马尔代夫,Maldives,13,0.0,0,0
+24941,South America,巴拉圭,Paraguay,9,0.0,0,0
+24944,Asia,孟加拉国,Bangladesh,8,0.0,0,0
+24949,Africa,加纳,Ghana,6,0.0,0,0
+24951,Europe,乌克兰,Ukraine,7,0.0,0,2
+24953,Africa,埃塞俄比亚,Ethiopia,5,0.0,0,0
+24954,North America,古巴,Cuba,4,0.0,0,0
+24956,South America,圭亚那,Guyana,4,0.0,0,1
+24957,Africa,刚果（金）,Democratic Republic of the Congo,3,0.0,0,0
+24963,North America,洪都拉斯,Honduras,2,0.0,0,0
+24965,North America,圣马丁岛,Sint Maarten,2,0.0,0,0
+24967,Africa,纳米比亚,Namibia,2,0.0,0,0
+24970,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0
+24971,Europe,梵蒂冈,Status Civitatis Vaticanae,1,0.0,0,0
+24972,Africa,多哥,Togo,1,0.0,0,0
+24973,Asia,蒙古,Mongolia,1,0.0,0,0
+24975,North America,圣巴泰勒米,Saint Barthelemy,1,0.0,0,0
+24976,Europe,直布罗陀,Gibraltar,1,0.0,0,0
+24979,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0
+24980,Africa,赤道几内亚,The Republic of Equatorial Guinea,1,0.0,0,0
+24981,Africa,几内亚,Guinea,1,0.0,0,0
+24982,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0
+24983,Africa,斯威士兰,Swaziland,1,0.0,0,0
+24984,North America,安提瓜和巴布达,Antigua and Barbuda,1,0.0,0,0
+24985,North America,巴哈马,Bahamas,1,0.0,0,0
+24989,North America,格陵兰,,1,0.0,0,0
+24990,Africa,坦桑尼亚,Tanzania,1,0.0,0,0
+24992,Asia,尼泊尔,Nepal,1,0.0,1,0
+24993,Africa,苏丹,Sudan,1,0.0,0,1
+25456,Africa,留尼汪,Reunion Island,6,0.0,0,0

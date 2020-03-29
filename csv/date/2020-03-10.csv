@@ -1,0 +1,105 @@
+,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+32976,Europe,西班牙,Spain,1648,0.0,2,35
+32977,Asia,日本,Japan,581,0.0,102,12
+32978,Europe,荷兰,Netherlands,382,0.0,0,4
+32979,Europe,瑞典,Sweden,326,0.0,0,0
+32980,Asia,马来西亚,Malaysia,129,0.0,23,0
+32981,Asia,印度,India,58,0.0,3,0
+32982,Europe,法国,France,1606,0.0,12,30
+32983,Asia,印度尼西亚,Indonesia,27,0.0,2,0
+32984,Europe,波兰,Poland,18,0.0,0,0
+32985,Europe,爱沙尼亚,Estonia,12,0.0,0,0
+32986,Europe,拉脱维亚,Latvia,8,0.0,0,0
+33001,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,427,6
+33004,Europe,丹麦,Denmark,113,0.0,1,0
+33005,Europe,希腊,Greece,89,0.0,0,0
+33006,Asia,科威特,Kuwait,69,0.0,0,0
+33007,Asia,菲律宾,Philippines,33,0.0,1,1
+33008,Asia,泰国,Thailand,53,0.0,31,1
+33009,South America,智利,Chile,13,0.0,0,0
+33010,Asia,阿塞拜疆,Azerbaijan,11,0.0,0,0
+33011,Europe,白俄罗斯,Belarus,9,0.0,2,0
+33012,Europe,塞尔维亚,Republic of Serbia,4,0.0,0,0
+33014,Asia,阿联酋,United Arab Emirates,74,0.0,7,0
+33015,Europe,芬兰,Finland,40,0.0,1,0
+33016,Europe,北马其顿,North Macedonia,7,0.0,0,0
+33017,Europe,阿尔巴尼亚,Albania,6,0.0,0,0
+33018,Europe,瑞士,Switzerland,476,0.0,3,3
+33020,Europe,奥地利,Austria,157,0.0,2,0
+33021,Asia,新加坡,Singapore,166,0.0,82,0
+33023,Europe,捷克,Czech Republic,40,0.0,0,0
+33024,Asia,越南,Vietnam,34,0.0,16,0
+33025,Asia,文莱,Brunei,6,0.0,0,0
+33026,Asia,阿富汗,Afghanistan,5,0.0,0,0
+33027,Africa,摩洛哥,Morocco,3,0.0,0,0
+33028,Europe,德国,Germany,1239,0.0,14,2
+33029,Europe,意大利,Italy,9172,0.0,724,463
+33030,Asia,韩国,Korea,7513,0.0,247,54
+33031,Asia,伊朗,Iran,8042,0.0,2731,291
+33036,North America,美国,United States of America,704,0.0,10,26
+33038,Europe,英国,United Kingdom,319,0.0,8,2
+33041,Europe,比利时,Belgium,239,0.0,1,0
+33043,Europe,挪威,Norway,169,0.0,0,0
+33045,Asia,巴林,Bahrain,109,0.0,14,0
+33048,Oceania,澳大利亚,Australia,101,0.0,22,3
+33049,North America,加拿大,Canada,77,0.0,4,1
+33050,Europe,冰岛,Iceland,60,0.0,0,0
+33054,Asia,伊拉克,Iraq,67,0.0,9,7
+33055,Europe,圣马力诺,San Marino,51,0.0,0,2
+33056,Asia,以色列,Israel,50,0.0,2,0
+33057,Africa,埃及,Egypt,59,0.0,12,0
+33061,Asia,黎巴嫩,Lebanon,32,0.0,1,0
+33062,Europe,葡萄牙,Portugal,30,0.0,0,0
+33064,South America,巴西,Brazil,25,0.0,0,0
+33065,Europe,斯洛文尼亚,Slovenia,25,0.0,0,0
+33066,Europe,爱尔兰,Ireland,24,0.0,0,0
+33068,Asia,沙特阿拉伯,Saudi Arabia,20,0.0,0,0
+33069,Africa,阿尔及利亚,Algeria,19,0.0,0,0
+33070,Asia,巴勒斯坦,Palestine,19,0.0,0,0
+33072,Asia,卡塔尔,Qatar,18,0.0,0,0
+33074,South America,阿根廷,Argentina,17,0.0,0,1
+33075,Asia,巴基斯坦,Pakistan,16,0.0,1,0
+33076,Asia,阿曼,Oman,16,0.0,2,0
+33077,Europe,罗马尼亚,Romania,17,0.0,3,0
+33078,Europe,克罗地亚,Croatia,13,0.0,0,0
+33079,South America,厄瓜多尔,Ecuador,13,0.0,0,0
+33080,Europe,格鲁吉亚,Georgia,13,0.0,0,0
+33082,Europe,匈牙利,Hungary,9,0.0,0,0
+33083,North America,哥斯达黎加,Costa Rica,9,0.0,0,0
+33085,Europe,俄罗斯,Russia,10,0.0,3,0
+33086,Europe,斯洛伐克,Slovakia,7,0.0,0,0
+33088,North America,墨西哥,Mexico,7,0.0,1,0
+33090,South America,秘鲁,Peru,6,0.0,0,0
+33091,Asia,马尔代夫,Maldives,6,0.0,0,0
+33093,Oceania,新西兰,New Zealand,5,0.0,0,0
+33094,Europe,卢森堡,Luxembourg,5,0.0,0,0
+33095,Africa,突尼斯,Tunisia,5,0.0,0,0
+33096,Europe,波黑,Bosnia and Herzegovina,5,0.0,0,0
+33099,Africa,塞内加尔,Senegal,4,0.0,0,0
+33102,Asia,孟加拉国,Bangladesh,3,0.0,0,0
+33103,Africa,尼日利亚,Nigeria,2,0.0,0,0
+33104,Africa,喀麦隆,Cameroon,2,0.0,0,0
+33106,Africa,南非,South Africa,2,0.0,0,0
+33107,Europe,保加利亚,Bulgaria,2,0.0,0,0
+33108,Africa,布基纳法索,Burkina Faso,2,0.0,0,0
+33110,Asia,塞浦路斯,Cyprus,2,0.0,0,0
+33111,Asia,柬埔寨,Kampuchea (Cambodia ),2,0.0,1,0
+33112,Europe,立陶宛,Lithuania,1,0.0,0,0
+33113,Europe,摩纳哥,Monaco,1,0.0,0,0
+33114,Asia,亚美尼亚,Armenia,1,0.0,0,0
+33115,North America,多米尼加,Dominican Republic,1,0.0,0,0
+33116,Europe,安道尔,Andorra,1,0.0,0,0
+33117,Europe,乌克兰,Ukraine,1,0.0,0,0
+33119,Asia,约旦,Jordan,1,0.0,0,0
+33120,Europe,列支敦士登,Liechtenstein,1,0.0,0,0
+33121,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0
+33122,Europe,梵蒂冈,Status Civitatis Vaticanae,1,0.0,0,0
+33123,South America,哥伦比亚,Colombia,1,0.0,0,0
+33124,Africa,多哥,Togo,1,0.0,0,0
+33125,South America,巴拉圭,Paraguay,1,0.0,0,0
+33126,Europe,马耳他,Malta,1,0.0,0,0
+33127,Europe,摩尔多瓦,Moldova,1,0.0,0,0
+33128,Asia,蒙古,Mongolia,1,0.0,0,0
+33129,North America,巴拿马,Panama,1,0.0,0,0
+33131,Asia,尼泊尔,Nepal,1,0.0,1,0
+33132,Asia,斯里兰卡,SriLanka,1,0.0,1,0
