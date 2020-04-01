@@ -26,8 +26,8 @@ def data_each_day_without_china(df_woc,date_name):
         df_woc[df_woc.updateTime == name].drop_duplicates(subset="countryName").drop(columns = ['updateTime']).to_csv('csv/date/'+name+'.csv')
 
 
-def data_of_each_country(df_woc,date_name):
-    data = []
+def data_of_each_country(df_woc,date_name,china_confirmedCount , china_curedCount , china_deadCount):
+    data_province_confirmedCount, data_province_deadCount , data_province_curedCount= [] ,[] ,[]
     country_name = np.array(list(df_woc['countryName']))
     country_name_ = df_woc[['countryName','countryEnglishName']].drop_duplicates()
 
@@ -39,16 +39,24 @@ def data_of_each_country(df_woc,date_name):
     tmp_name = np.insert(tmp_name, 0, 'English Name')
 
     # for name in country_name:
+    days = len(date_name)
     for index, row in country_name_.iterrows():
         name,English_name = row['countryName'],row['countryEnglishName']
         df_country = df_woc[df_woc.countryName == name].drop_duplicates(subset="updateTime")
         # print (df_country)
         df_country.to_csv('csv/country/'+name+'.csv')
 
-        dic_ =  dict.fromkeys(date_name,0)
+        dic_province_confirmedCount , dic_province_deadCount, dic_province_curedCount =  dict.fromkeys(date_name,0),dict.fromkeys(date_name,0),dict.fromkeys(date_name,0)
         for index, row in df_country.iterrows():
-            dic_[row['updateTime']] = row['province_confirmedCount']
-        # print(dic_)
+            dic_province_confirmedCount[row['updateTime']] = row['province_confirmedCount']
+
+
+        for index, row in df_country.iterrows():
+            dic_province_deadCount[row['updateTime']] = row['province_deadCount']
+
+
+        for index, row in df_country.iterrows():
+            dic_province_curedCount[row['updateTime']] = row['province_curedCount']
 
         flag = pd.read_csv('csv/flag.csv')
         country_flag = None
@@ -56,17 +64,43 @@ def data_of_each_country(df_woc,date_name):
             flag, country_name = row['Flag'],row['Name']
             if name == country_name :
                 country_flag = flag
-        l = [English_name]+[name] +[country_flag]+ [dic_[key] for key in dic_]
-        data.append(l)
+        data_province_confirmedCount.append([English_name]+[name] +[country_flag]+ [dic_province_confirmedCount[key] for key in dic_province_confirmedCount])
+        data_province_deadCount.append([English_name] + [name] + [country_flag] + [dic_province_deadCount[key] for key in dic_province_deadCount])
+        data_province_curedCount.append([English_name] + [name] + [country_flag] + [dic_province_curedCount[key] for key in dic_province_curedCount])
 
-    df_country_data = pd.DataFrame(data,columns= tmp_name)
-    df_country_data.to_csv('csv/test.csv')
+    data_province_confirmedCount.append(['China'] + ['中国'] +['https://www.countryflags.io/cn/flat/64.png'] +china_confirmedCount[len(china_confirmedCount)-days:])
+    data_province_deadCount.append(['China'] + ['中国'] +['https://www.countryflags.io/cn/flat/64.png'] +china_deadCount[len(china_deadCount)-days:])
+    data_province_curedCount.append(['China'] + ['中国'] +['https://www.countryflags.io/cn/flat/64.png'] +china_curedCount[len(china_curedCount)-days:])
+
+
+    df_total_confirmed_case = pd.DataFrame(data_province_confirmedCount,columns= tmp_name)
+    df_total_confirmed_case.to_csv('csv/total_confirmed_case.csv')
+
+    df_total_deadCount = pd.DataFrame(data_province_deadCount, columns=tmp_name)
+    df_total_deadCount.to_csv('csv/total_deadCount.csv')
+
+    df_total_cured = pd.DataFrame(data_province_curedCount, columns=tmp_name)
+    df_total_cured.to_csv('csv/total_curedCount.csv')
 
 
 def data_each_day_china(df_china,date_name):
     for name in date_name:
         df_china[df_china.updateTime == name].drop_duplicates(subset="provinceName").drop(columns = ['cityName','cityEnglishName','city_confirmedCount','city_suspectedCount','city_curedCount','city_deadCount',
-             'updateTime']).to_csv('csv/date_china/'+name+'.csv')
+             'updateTime']).to_csv('csv/data_china/'+name+'.csv')
+
+def data_china(date_name):
+    df = pd.read_csv('csv/china.csv')
+    total_confirmedCount = list(df['total_confirmedCount'])
+    total_confirmedCount.reverse()
+
+    total_curedCount = list(df['total_curedCount'])
+    total_curedCount.reverse()
+
+    total_deadCount = list(df['deadCount'])
+    total_deadCount.reverse()
+
+    return total_confirmedCount,total_curedCount,total_deadCount
+
 
 if __name__ == "__main__":
     df_woc, df_china ,df_with_china= drop_china_data()
@@ -77,6 +111,5 @@ if __name__ == "__main__":
     # data_each_day_without_china(df_woc,date_name)
     # data_each_day_without_china(df_with_china,date_name)
     # data_each_day_china(df_china, date_name)
-
-    data_of_each_country(df_woc,date_name)
-    # data_of_each_country(df_woc,date_name)
+    china_confirmedCount , china_curedCount , china_deadCount= data_china(date_name)
+    data_of_each_country(df_woc,date_name,china_confirmedCount , china_curedCount , china_deadCount)
