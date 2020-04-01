@@ -1,19 +1,19 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-61831,Asia,泰国,Thailand,35,0.0,14,0
-61921,Asia,新加坡,Singapore,77,0.0,24,0
-62390,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,454,0.0,0,0
-62392,Asia,韩国,Korea,30,0.0,9,0
-62393,Asia,阿联酋,United Arab Emirates,9,0.0,4,0
-62394,Europe,比利时,Belgium,1,0.0,1,0
-62651,Asia,日本,Japan,62,0.0,12,1
-62654,Asia,马来西亚,Malaysia,22,0.0,7,0
-62655,Europe,法国,France,12,0.0,4,1
-62656,North America,加拿大,Canada,8,0.0,2,0
-62657,Oceania,澳大利亚,Australia,15,0.0,10,0
-62659,Europe,英国,United Kingdom,9,0.0,8,0
-62660,Asia,印度,India,3,0.0,3,0
-63398,Africa,埃及,Egypt,1,0.0,0,0
-63740,Europe,德国,Germany,16,0.0,1,0
-63741,North America,美国,United States of America,15,0.0,3,0
-63742,Asia,越南,Vietnam,16,0.0,7,0
-63750,Europe,俄罗斯,Russia,2,0.0,2,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+68040,Asia,泰国,Thailand,泰国,Thailand,35,0.0,14,0,,,,,,
+68130,Asia,新加坡,Singapore,新加坡,Singapore,77,0.0,24,0,,,,,,
+68599,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,454,0.0,0,0,,,,,,
+68601,Asia,韩国,Korea,韩国,Korea,30,0.0,9,0,,,,,,
+68602,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,9,0.0,4,0,,,,,,
+68603,Europe,比利时,Belgium,比利时,Belgium,1,0.0,1,0,,,,,,
+68860,Asia,日本,Japan,日本,Japan,62,0.0,12,1,,,,,,
+68863,Asia,马来西亚,Malaysia,马来西亚,Malaysia,22,0.0,7,0,,,,,,
+68864,Europe,法国,France,法国,France,12,0.0,4,1,,,,,,
+68865,North America,加拿大,Canada,加拿大,Canada,8,0.0,2,0,,,,,,
+68866,Oceania,澳大利亚,Australia,澳大利亚,Australia,15,0.0,10,0,,,,,,
+68868,Europe,英国,United Kingdom,英国,United Kingdom,9,0.0,8,0,,,,,,
+68869,Asia,印度,India,印度,India,3,0.0,3,0,,,,,,
+69607,Africa,埃及,Egypt,埃及,Egypt,1,0.0,0,0,,,,,,
+69949,Europe,德国,Germany,德国,Germany,16,0.0,1,0,,,,,,
+69950,North America,美国,United States of America,美国,United States of America,15,0.0,3,0,,,,,,
+69951,Asia,越南,Vietnam,越南,Vietnam,16,0.0,7,0,,,,,,
+69959,Europe,俄罗斯,Russia,俄罗斯,Russia,2,0.0,2,0,,,,,,

@@ -1,3 +1,6 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1263,North America,圣其茨和尼维斯,,2,0.0,0,0,2020-03-28
-3294,North America,圣其茨和尼维斯,,2,0.0,0,0,2020-03-27
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+440,North America,圣其茨和尼维斯,,圣其茨和尼维斯,,2,0.0,0,0,,,,,,,2020-03-31
+2395,North America,圣其茨和尼维斯,,圣其茨和尼维斯,,2,0.0,0,0,,,,,,,2020-03-30
+6003,North America,圣其茨和尼维斯,,圣其茨和尼维斯,,2,0.0,0,0,,,,,,,2020-03-29
+7472,North America,圣其茨和尼维斯,,圣其茨和尼维斯,,2,0.0,0,0,,,,,,,2020-03-28
+9503,North America,圣其茨和尼维斯,,圣其茨和尼维斯,,2,0.0,0,0,,,,,,,2020-03-27

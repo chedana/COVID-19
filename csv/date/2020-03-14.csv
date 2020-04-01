@@ -1,129 +1,129 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-29169,Asia,伊朗,Iran,12729,0.0,3529,514
-29170,Europe,西班牙,Spain,5232,0.0,189,120
-29171,Asia,卡塔尔,Qatar,338,0.0,0,0
-29172,Oceania,澳大利亚,Australia,236,0.0,24,3
-29173,Asia,马来西亚,Malaysia,238,0.0,32,0
-29174,Asia,以色列,Israel,154,0.0,2,0
-29175,Europe,罗马尼亚,Romania,97,0.0,3,0
-29176,Asia,文莱,Brunei,40,0.0,0,0
-29177,Asia,越南,Vietnam,53,0.0,16,0
-29178,Africa,阿尔及利亚,Algeria,37,0.0,10,2
-29179,Asia,塞浦路斯,Cyprus,21,0.0,0,0
-29180,Africa,纳米比亚,Namibia,2,0.0,0,0
-29181,Europe,瑞士,Switzerland,1189,0.0,3,4
-29182,Europe,比利时,Belgium,689,0.0,1,3
-29183,Asia,日本,Japan,746,0.0,135,21
-29184,Asia,巴林,Bahrain,211,0.0,35,0
-29185,Asia,黎巴嫩,Lebanon,93,0.0,1,3
-29186,Asia,印度,India,84,0.0,3,0
-29187,Asia,马尔代夫,Maldives,10,0.0,0,0
-29188,Asia,斯里兰卡,SriLanka,8,0.0,1,0
-29191,North America,美国,United States of America,2084,0.0,10,41
-29192,Europe,英国,United Kingdom,798,0.0,8,6
-29194,North America,加拿大,Canada,198,0.0,4,1
-29197,Europe,捷克,Czech Republic,141,0.0,0,0
-29198,Europe,斯洛文尼亚,Slovenia,141,0.0,0,0
-29199,Asia,科威特,Kuwait,100,0.0,0,0
-29200,Asia,印度尼西亚,Indonesia,96,0.0,2,1
-29201,Asia,菲律宾,Philippines,98,0.0,1,6
-29203,Europe,波兰,Poland,68,0.0,0,0
-29204,Asia,泰国,Thailand,82,0.0,34,1
-29205,Europe,俄罗斯,Russia,47,0.0,3,0
-29206,South America,智利,Chile,43,0.0,0,0
-29207,Europe,塞尔维亚,Republic of Serbia,41,0.0,0,0
-29208,Europe,克罗地亚,Croatia,37,0.0,0,0
-29209,North America,巴拿马,Panama,36,0.0,0,1
-29211,Europe,斯洛伐克,Slovakia,32,0.0,0,0
-29212,South America,阿根廷,Argentina,34,0.0,1,2
-29213,Asia,巴基斯坦,Pakistan,29,0.0,1,0
-29214,North America,墨西哥,Mexico,26,0.0,1,0
-29216,Europe,北马其顿,North Macedonia,13,0.0,0,0
-29217,Asia,亚美尼亚,Armenia,13,0.0,0,0
-29218,Asia,阿富汗,Afghanistan,10,0.0,0,0
-29219,Oceania,新西兰,New Zealand,6,0.0,0,0
-29220,South America,巴拉圭,Paraguay,6,0.0,0,0
-29221,Asia,哈萨克斯坦,Kazakstan,6,0.0,0,0
-29222,Africa,摩洛哥,Morocco,7,0.0,0,2
-29223,South America,法属圭亚那,French Guiana,5,0.0,0,0
-29224,South America,乌拉圭,Uruguay,4,0.0,0,0
-29225,Africa,喀麦隆,Cameroon,3,0.0,0,0
-29226,North America,马提尼克,Martinique,3,0.0,0,0
-29227,Asia,留尼汪,Reunion Island,3,0.0,0,0
-29228,North America,圣马丁岛,Sint Maarten,2,0.0,0,0
-29229,Europe,法罗群岛,Faroe,2,0.0,0,0
-29230,Europe,泽西岛,Bailiwick of Jersey,2,0.0,0,0
-29231,North America,圣巴泰勒米,Saint Barthelemy,1,0.0,0,0
-29232,Europe,直布罗陀,Gibraltar,1,0.0,0,0
-29233,Europe,根西岛,Guernsey,1,0.0,0,0
-29234,Oceania,法属波利尼西亚,French Polynesia,1,0.0,0,0
-29235,South America,苏里南,Suriname,1,0.0,0,0
-29236,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0
-29237,Europe,意大利,Italy,17660,0.0,1439,1266
-29238,Asia,韩国,Korea,8086,0.0,510,72
-29240,Europe,法国,France,3661,0.0,12,79
-29242,Europe,丹麦,Denmark,801,0.0,1,0
-29244,Europe,瑞典,Sweden,775,0.0,0,8
-29245,Europe,挪威,Norway,750,0.0,0,0
-29247,Europe,奥地利,Austria,504,0.0,6,1
-29250,Europe,希腊,Greece,190,0.0,0,1
-29255,Europe,冰岛,Iceland,128,0.0,0,0
-29257,South America,巴西,Brazil,98,0.0,0,0
-29260,Europe,爱尔兰,Ireland,90,0.0,0,1
-29261,Asia,沙特阿拉伯,Saudi Arabia,86,0.0,1,0
-29263,Africa,埃及,Egypt,93,0.0,21,2
-29264,Europe,爱沙尼亚,Estonia,68,0.0,0,0
-29266,Europe,圣马力诺,San Marino,73,0.0,2,5
-29267,Asia,伊拉克,Iraq,93,0.0,24,9
-29273,Asia,巴勒斯坦,Palestine,35,0.0,0,0
-29278,Europe,保加利亚,Bulgaria,30,0.0,0,0
-29280,South America,秘鲁,Peru,28,0.0,0,0
-29282,South America,厄瓜多尔,Ecuador,23,0.0,0,1
-29283,Africa,塞内加尔,Senegal,21,0.0,2,0
-29284,Europe,拉脱维亚,Latvia,18,0.0,0,0
-29285,Europe,匈牙利,Hungary,19,0.0,1,0
-29289,South America,哥伦比亚,Colombia,13,0.0,0,0
-29290,Asia,阿曼,Oman,20,0.0,9,0
-29292,Europe,摩尔多瓦,Moldova,8,0.0,0,0
-29293,Europe,立陶宛,Lithuania,6,0.0,0,0
-29299,Asia,土耳其,Turkey,5,0.0,0,0
-29307,South America,委内瑞拉,Venezuela,2,0.0,0,0
-29313,North America,危地马拉,Guatemala,1,0.0,0,0
-29316,Asia,约旦,Jordan,1,0.0,1,0
-29317,Africa,苏丹,Sudan,1,0.0,0,1
-29510,Europe,德国,Germany,3117,0.0,14,7
-29514,Europe,荷兰,Netherlands,804,0.0,0,5
-29522,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7
-29527,Europe,芬兰,Finland,155,0.0,1,0
-29531,Asia,新加坡,Singapore,200,0.0,82,0
-29546,Asia,阿联酋,United Arab Emirates,85,0.0,20,0
-29548,Europe,葡萄牙,Portugal,59,0.0,0,0
-29557,Europe,阿尔巴尼亚,Albania,33,0.0,0,0
-29566,Europe,格鲁吉亚,Georgia,25,0.0,0,0
-29567,Africa,南非,South Africa,24,0.0,0,0
-29569,North America,哥斯达黎加,Costa Rica,22,0.0,0,0
-29573,Asia,阿塞拜疆,Azerbaijan,19,0.0,3,1
-29576,Africa,突尼斯,Tunisia,13,0.0,0,0
-29577,Europe,波黑,Bosnia and Herzegovina,13,0.0,0,0
-29580,Europe,白俄罗斯,Belarus,12,0.0,2,0
-29585,Europe,卢森堡,Luxembourg,7,0.0,0,0
-29588,Europe,马耳他,Malta,6,0.0,0,0
-29592,Asia,柬埔寨,Kampuchea (Cambodia ),5,0.0,1,0
-29595,North America,古巴,Cuba,4,0.0,0,0
-29598,Europe,乌克兰,Ukraine,3,0.0,0,0
-29599,Asia,孟加拉国,Bangladesh,3,0.0,0,0
-29601,Europe,摩纳哥,Monaco,2,0.0,0,0
-29603,Africa,布基纳法索,Burkina Faso,2,0.0,0,0
-29604,Africa,刚果（金）,Democratic Republic of the Congo,2,0.0,0,0
-29605,South America,玻利维亚,Bolivia,2,0.0,0,0
-29606,North America,洪都拉斯,Honduras,2,0.0,0,0
-29607,Africa,加纳,Ghana,2,0.0,0,0
-29611,Europe,安道尔,Andorra,2,0.0,1,0
-29612,Asia,蒙古,Mongolia,1,0.0,0,0
-29613,North America,牙买加,Jamaica,1,0.0,0,0
-29614,Africa,科特迪瓦,Ivory Coast,1,0.0,0,0
-29615,North America,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0
-29616,Africa,加蓬,Gabon,1,0.0,0,0
-29617,Africa,肯尼亚,Kenya,1,0.0,0,0
-29622,Africa,埃塞俄比亚,Ethiopia,1,0.0,0,0
-29626,South America,圭亚那,Guyana,1,0.0,0,1
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+35378,Asia,伊朗,Iran,伊朗,Iran,12729,0.0,3529,514,,,,,,
+35379,Europe,西班牙,Spain,西班牙,Spain,5232,0.0,189,120,,,,,,
+35380,Asia,卡塔尔,Qatar,卡塔尔,Qatar,338,0.0,0,0,,,,,,
+35381,Oceania,澳大利亚,Australia,澳大利亚,Australia,236,0.0,24,3,,,,,,
+35382,Asia,马来西亚,Malaysia,马来西亚,Malaysia,238,0.0,32,0,,,,,,
+35383,Asia,以色列,Israel,以色列,Israel,154,0.0,2,0,,,,,,
+35384,Europe,罗马尼亚,Romania,罗马尼亚,Romania,97,0.0,3,0,,,,,,
+35385,Asia,文莱,Brunei,文莱,Brunei,40,0.0,0,0,,,,,,
+35386,Asia,越南,Vietnam,越南,Vietnam,53,0.0,16,0,,,,,,
+35387,Africa,阿尔及利亚,Algeria,阿尔及利亚,Algeria,37,0.0,10,2,,,,,,
+35388,Asia,塞浦路斯,Cyprus,塞浦路斯,Cyprus,21,0.0,0,0,,,,,,
+35389,Africa,纳米比亚,Namibia,纳米比亚,Namibia,2,0.0,0,0,,,,,,
+35390,Europe,瑞士,Switzerland,瑞士,Switzerland,1189,0.0,3,4,,,,,,
+35391,Europe,比利时,Belgium,比利时,Belgium,689,0.0,1,3,,,,,,
+35392,Asia,日本,Japan,日本,Japan,746,0.0,135,21,,,,,,
+35393,Asia,巴林,Bahrain,巴林,Bahrain,211,0.0,35,0,,,,,,
+35394,Asia,黎巴嫩,Lebanon,黎巴嫩,Lebanon,93,0.0,1,3,,,,,,
+35395,Asia,印度,India,印度,India,84,0.0,3,0,,,,,,
+35396,Asia,马尔代夫,Maldives,马尔代夫,Maldives,10,0.0,0,0,,,,,,
+35397,Asia,斯里兰卡,SriLanka,斯里兰卡,SriLanka,8,0.0,1,0,,,,,,
+35400,North America,美国,United States of America,美国,United States of America,2084,0.0,10,41,,,,,,
+35401,Europe,英国,United Kingdom,英国,United Kingdom,798,0.0,8,6,,,,,,
+35403,North America,加拿大,Canada,加拿大,Canada,198,0.0,4,1,,,,,,
+35406,Europe,捷克,Czech Republic,捷克,Czech Republic,141,0.0,0,0,,,,,,
+35407,Europe,斯洛文尼亚,Slovenia,斯洛文尼亚,Slovenia,141,0.0,0,0,,,,,,
+35408,Asia,科威特,Kuwait,科威特,Kuwait,100,0.0,0,0,,,,,,
+35409,Asia,印度尼西亚,Indonesia,印度尼西亚,Indonesia,96,0.0,2,1,,,,,,
+35410,Asia,菲律宾,Philippines,菲律宾,Philippines,98,0.0,1,6,,,,,,
+35412,Europe,波兰,Poland,波兰,Poland,68,0.0,0,0,,,,,,
+35413,Asia,泰国,Thailand,泰国,Thailand,82,0.0,34,1,,,,,,
+35414,Europe,俄罗斯,Russia,俄罗斯,Russia,47,0.0,3,0,,,,,,
+35415,South America,智利,Chile,智利,Chile,43,0.0,0,0,,,,,,
+35416,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,41,0.0,0,0,,,,,,
+35417,Europe,克罗地亚,Croatia,克罗地亚,Croatia,37,0.0,0,0,,,,,,
+35418,North America,巴拿马,Panama,巴拿马,Panama,36,0.0,0,1,,,,,,
+35420,Europe,斯洛伐克,Slovakia,斯洛伐克,Slovakia,32,0.0,0,0,,,,,,
+35421,South America,阿根廷,Argentina,阿根廷,Argentina,34,0.0,1,2,,,,,,
+35422,Asia,巴基斯坦,Pakistan,巴基斯坦,Pakistan,29,0.0,1,0,,,,,,
+35423,North America,墨西哥,Mexico,墨西哥,Mexico,26,0.0,1,0,,,,,,
+35425,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,13,0.0,0,0,,,,,,
+35426,Asia,亚美尼亚,Armenia,亚美尼亚,Armenia,13,0.0,0,0,,,,,,
+35427,Asia,阿富汗,Afghanistan,阿富汗,Afghanistan,10,0.0,0,0,,,,,,
+35428,Oceania,新西兰,New Zealand,新西兰,New Zealand,6,0.0,0,0,,,,,,
+35429,South America,巴拉圭,Paraguay,巴拉圭,Paraguay,6,0.0,0,0,,,,,,
+35430,Asia,哈萨克斯坦,Kazakhstan,哈萨克斯坦,Kazakhstan,6,0.0,0,0,,,,,,
+35431,Africa,摩洛哥,Morocco,摩洛哥,Morocco,7,0.0,0,2,,,,,,
+35432,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,5,0.0,0,0,,,,,,
+35433,South America,乌拉圭,Uruguay,乌拉圭,Uruguay,4,0.0,0,0,,,,,,
+35434,Africa,喀麦隆,Cameroon,喀麦隆,Cameroon,3,0.0,0,0,,,,,,
+35435,North America,马提尼克,Martinique,马提尼克,Martinique,3,0.0,0,0,,,,,,
+35436,Asia,留尼汪,Reunion Island,留尼汪,Reunion Island,3,0.0,0,0,,,,,,
+35437,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,
+35438,Europe,法罗群岛,Faroe,法罗群岛,Faroe,2,0.0,0,0,,,,,,
+35439,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,2,0.0,0,0,,,,,,
+35440,North America,圣巴泰勒米,Saint Barthelemy,圣巴泰勒米,Saint Barthelemy,1,0.0,0,0,,,,,,
+35441,Europe,直布罗陀,Gibraltar,直布罗陀,Gibraltar,1,0.0,0,0,,,,,,
+35442,Europe,根西岛,Guernsey,根西岛,Guernsey,1,0.0,0,0,,,,,,
+35443,Oceania,法属波利尼西亚,French Polynesia,法属波利尼西亚,French Polynesia,1,0.0,0,0,,,,,,
+35444,South America,苏里南,Suriname,苏里南,Suriname,1,0.0,0,0,,,,,,
+35445,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,
+35446,Europe,意大利,Italy,意大利,Italy,17660,0.0,1439,1266,,,,,,
+35447,Asia,韩国,Korea,韩国,Korea,8086,0.0,510,72,,,,,,
+35449,Europe,法国,France,法国,France,3661,0.0,12,79,,,,,,
+35451,Europe,丹麦,Denmark,丹麦,Denmark,801,0.0,1,0,,,,,,
+35453,Europe,瑞典,Sweden,瑞典,Sweden,775,0.0,0,8,,,,,,
+35454,Europe,挪威,Norway,挪威,Norway,750,0.0,0,0,,,,,,
+35456,Europe,奥地利,Austria,奥地利,Austria,504,0.0,6,1,,,,,,
+35459,Europe,希腊,Greece,希腊,Greece,190,0.0,0,1,,,,,,
+35464,Europe,冰岛,Iceland,冰岛,Iceland,128,0.0,0,0,,,,,,
+35466,South America,巴西,Brazil,巴西,Brazil,98,0.0,0,0,,,,,,
+35469,Europe,爱尔兰,Ireland,爱尔兰,Ireland,90,0.0,0,1,,,,,,
+35470,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,86,0.0,1,0,,,,,,
+35472,Africa,埃及,Egypt,埃及,Egypt,93,0.0,21,2,,,,,,
+35473,Europe,爱沙尼亚,Estonia,爱沙尼亚,Estonia,68,0.0,0,0,,,,,,
+35475,Europe,圣马力诺,San Marino,圣马力诺,San Marino,73,0.0,2,5,,,,,,
+35476,Asia,伊拉克,Iraq,伊拉克,Iraq,93,0.0,24,9,,,,,,
+35482,Asia,巴勒斯坦,Palestine,巴勒斯坦,Palestine,35,0.0,0,0,,,,,,
+35487,Europe,保加利亚,Bulgaria,保加利亚,Bulgaria,30,0.0,0,0,,,,,,
+35489,South America,秘鲁,Peru,秘鲁,Peru,28,0.0,0,0,,,,,,
+35491,South America,厄瓜多尔,Ecuador,厄瓜多尔,Ecuador,23,0.0,0,1,,,,,,
+35492,Africa,塞内加尔,Senegal,塞内加尔,Senegal,21,0.0,2,0,,,,,,
+35493,Europe,拉脱维亚,Latvia,拉脱维亚,Latvia,18,0.0,0,0,,,,,,
+35494,Europe,匈牙利,Hungary,匈牙利,Hungary,19,0.0,1,0,,,,,,
+35498,South America,哥伦比亚,Colombia,哥伦比亚,Colombia,13,0.0,0,0,,,,,,
+35499,Asia,阿曼,Oman,阿曼,Oman,20,0.0,9,0,,,,,,
+35501,Europe,摩尔多瓦,Moldova,摩尔多瓦,Moldova,8,0.0,0,0,,,,,,
+35502,Europe,立陶宛,Lithuania,立陶宛,Lithuania,6,0.0,0,0,,,,,,
+35508,Asia,土耳其,Turkey,土耳其,Turkey,5,0.0,0,0,,,,,,
+35516,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,2,0.0,0,0,,,,,,
+35522,North America,危地马拉,Guatemala,危地马拉,Guatemala,1,0.0,0,0,,,,,,
+35525,Asia,约旦,Jordan,约旦,Jordan,1,0.0,1,0,,,,,,
+35526,Africa,苏丹,Sudan,苏丹,Sudan,1,0.0,0,1,,,,,,
+35719,Europe,德国,Germany,德国,Germany,3117,0.0,14,7,,,,,,
+35723,Europe,荷兰,Netherlands,荷兰,Netherlands,804,0.0,0,5,,,,,,
+35731,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,,,,,,
+35736,Europe,芬兰,Finland,芬兰,Finland,155,0.0,1,0,,,,,,
+35740,Asia,新加坡,Singapore,新加坡,Singapore,200,0.0,82,0,,,,,,
+35755,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,85,0.0,20,0,,,,,,
+35757,Europe,葡萄牙,Portugal,葡萄牙,Portugal,59,0.0,0,0,,,,,,
+35766,Europe,阿尔巴尼亚,Albania,阿尔巴尼亚,Albania,33,0.0,0,0,,,,,,
+35775,Europe,格鲁吉亚,Georgia,格鲁吉亚,Georgia,25,0.0,0,0,,,,,,
+35776,Africa,南非,South Africa,南非,South Africa,24,0.0,0,0,,,,,,
+35778,North America,哥斯达黎加,Costa Rica,哥斯达黎加,Costa Rica,22,0.0,0,0,,,,,,
+35782,Asia,阿塞拜疆,Azerbaijan,阿塞拜疆,Azerbaijan,19,0.0,3,1,,,,,,
+35785,Africa,突尼斯,Tunisia,突尼斯,Tunisia,13,0.0,0,0,,,,,,
+35786,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,13,0.0,0,0,,,,,,
+35789,Europe,白俄罗斯,Belarus,白俄罗斯,Belarus,12,0.0,2,0,,,,,,
+35794,Europe,卢森堡,Luxembourg,卢森堡,Luxembourg,7,0.0,0,0,,,,,,
+35797,Europe,马耳他,Malta,马耳他,Malta,6,0.0,0,0,,,,,,
+35801,Asia,柬埔寨,Kampuchea (Cambodia ),柬埔寨,Kampuchea (Cambodia ),5,0.0,1,0,,,,,,
+35804,North America,古巴,Cuba,古巴,Cuba,4,0.0,0,0,,,,,,
+35807,Europe,乌克兰,Ukraine,乌克兰,Ukraine,3,0.0,0,0,,,,,,
+35808,Asia,孟加拉国,Bangladesh,孟加拉国,Bangladesh,3,0.0,0,0,,,,,,
+35810,Europe,摩纳哥,Monaco,摩纳哥,Monaco,2,0.0,0,0,,,,,,
+35812,Africa,布基纳法索,Burkina Faso,布基纳法索,Burkina Faso,2,0.0,0,0,,,,,,
+35813,Africa,刚果（金）,Democratic Republic of the Congo,刚果（金）,Democratic Republic of the Congo,2,0.0,0,0,,,,,,
+35814,South America,玻利维亚,Bolivia,玻利维亚,Bolivia,2,0.0,0,0,,,,,,
+35815,North America,洪都拉斯,Honduras,洪都拉斯,Honduras,2,0.0,0,0,,,,,,
+35816,Africa,加纳,Ghana,加纳,Ghana,2,0.0,0,0,,,,,,
+35820,Europe,安道尔,Andorra,安道尔,Andorra,2,0.0,1,0,,,,,,
+35821,Asia,蒙古,Mongolia,蒙古,Mongolia,1,0.0,0,0,,,,,,
+35822,North America,牙买加,Jamaica,牙买加,Jamaica,1,0.0,0,0,,,,,,
+35823,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,1,0.0,0,0,,,,,,
+35824,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,,,,,,
+35825,Africa,加蓬,Gabon,加蓬,Gabon,1,0.0,0,0,,,,,,
+35826,Africa,肯尼亚,Kenya,肯尼亚,Kenya,1,0.0,0,0,,,,,,
+35831,Africa,埃塞俄比亚,Ethiopia,埃塞俄比亚,Ethiopia,1,0.0,0,0,,,,,,
+35835,South America,圭亚那,Guyana,圭亚那,Guyana,1,0.0,0,1,,,,,,

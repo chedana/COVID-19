@@ -1,16 +1,16 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-58081,Asia,日本,Japan,84,0.0,12,1
-58082,Asia,韩国,Korea,51,0.0,16,0
-58189,Asia,新加坡,Singapore,84,0.0,34,0
-58190,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,621,0.0,0,0
-58491,Asia,马来西亚,Malaysia,22,0.0,15,0
-58492,Asia,尼泊尔,Nepal,1,0.0,1,0
-58493,Asia,斯里兰卡,SriLanka,1,0.0,1,0
-58494,Europe,西班牙,Spain,2,0.0,2,0
-59185,Asia,泰国,Thailand,35,0.0,15,0
-59773,Europe,法国,France,12,0.0,4,1
-59774,Oceania,澳大利亚,Australia,15,0.0,10,0
-59775,Asia,阿联酋,United Arab Emirates,9,0.0,4,0
-59776,Europe,英国,United Kingdom,9,0.0,8,0
-59777,Asia,印度,India,3,0.0,3,0
-59778,Europe,比利时,Belgium,1,0.0,1,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+64290,Asia,日本,Japan,日本,Japan,84,0.0,12,1,,,,,,
+64291,Asia,韩国,Korea,韩国,Korea,51,0.0,16,0,,,,,,
+64398,Asia,新加坡,Singapore,新加坡,Singapore,84,0.0,34,0,,,,,,
+64399,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,621,0.0,0,0,,,,,,
+64700,Asia,马来西亚,Malaysia,马来西亚,Malaysia,22,0.0,15,0,,,,,,
+64701,Asia,尼泊尔,Nepal,尼泊尔,Nepal,1,0.0,1,0,,,,,,
+64702,Asia,斯里兰卡,SriLanka,斯里兰卡,SriLanka,1,0.0,1,0,,,,,,
+64703,Europe,西班牙,Spain,西班牙,Spain,2,0.0,2,0,,,,,,
+65394,Asia,泰国,Thailand,泰国,Thailand,35,0.0,15,0,,,,,,
+65982,Europe,法国,France,法国,France,12,0.0,4,1,,,,,,
+65983,Oceania,澳大利亚,Australia,澳大利亚,Australia,15,0.0,10,0,,,,,,
+65984,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,9,0.0,4,0,,,,,,
+65985,Europe,英国,United Kingdom,英国,United Kingdom,9,0.0,8,0,,,,,,
+65986,Asia,印度,India,印度,India,3,0.0,3,0,,,,,,
+65987,Europe,比利时,Belgium,比利时,Belgium,1,0.0,1,0,,,,,,

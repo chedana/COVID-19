@@ -1,25 +1,27 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-41,Europe,塞尔维亚,Republic of Serbia,659,0.0,0,10,2020-03-29
-736,Europe,塞尔维亚,Republic of Serbia,659,0.0,0,10,2020-03-28
-3009,Europe,塞尔维亚,Republic of Serbia,528,0.0,0,5,2020-03-27
-5545,Europe,塞尔维亚,Republic of Serbia,457,0.0,0,6,2020-03-26
-9613,Europe,塞尔维亚,Republic of Serbia,384,0.0,0,4,2020-03-25
-11334,Europe,塞尔维亚,Republic of Serbia,280,0.0,0,4,2020-03-24
-14669,Europe,塞尔维亚,Republic of Serbia,222,0.0,0,2,2020-03-23
-17335,Europe,塞尔维亚,Republic of Serbia,171,0.0,0,1,2020-03-22
-18769,Europe,塞尔维亚,Republic of Serbia,149,0.0,0,1,2020-03-21
-19639,Europe,塞尔维亚,Republic of Serbia,118,0.0,0,0,2020-03-20
-20901,Europe,塞尔维亚,Republic of Serbia,89,0.0,0,0,2020-03-19
-22783,Europe,塞尔维亚,Republic of Serbia,83,0.0,0,0,2020-03-18
-24616,Europe,塞尔维亚,Republic of Serbia,65,0.0,0,0,2020-03-17
-26985,Europe,塞尔维亚,Republic of Serbia,48,0.0,0,0,2020-03-16
-28078,Europe,塞尔维亚,Republic of Serbia,46,0.0,0,0,2020-03-15
-29207,Europe,塞尔维亚,Republic of Serbia,41,0.0,0,0,2020-03-14
-30172,Europe,塞尔维亚,Republic of Serbia,31,0.0,0,0,2020-03-13
-31048,Europe,塞尔维亚,Republic of Serbia,19,0.0,0,0,2020-03-12
-32107,Europe,塞尔维亚,Republic of Serbia,5,0.0,0,0,2020-03-11
-33012,Europe,塞尔维亚,Republic of Serbia,4,0.0,0,0,2020-03-10
-34679,Europe,塞尔维亚,Republic of Serbia,1,0.0,0,0,2020-03-09
-35918,Europe,塞尔维亚,Republic of Serbia,1,0.0,0,0,2020-03-08
-36202,Europe,塞尔维亚,Republic of Serbia,1,0.0,0,0,2020-03-07
-36915,Europe,塞尔维亚,Republic of Serbia,1,0.0,0,0,2020-03-06
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+186,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,900,0.0,0,23,,,,,,,2020-03-31
+2137,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,785,0.0,0,16,,,,,,,2020-03-30
+5106,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,741,0.0,0,13,,,,,,,2020-03-29
+6945,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,659,0.0,0,10,,,,,,,2020-03-28
+9218,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,528,0.0,0,5,,,,,,,2020-03-27
+11754,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,457,0.0,0,6,,,,,,,2020-03-26
+15822,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,384,0.0,0,4,,,,,,,2020-03-25
+17543,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,280,0.0,0,4,,,,,,,2020-03-24
+20878,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,222,0.0,0,2,,,,,,,2020-03-23
+23544,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,171,0.0,0,1,,,,,,,2020-03-22
+24978,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,149,0.0,0,1,,,,,,,2020-03-21
+25848,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,118,0.0,0,0,,,,,,,2020-03-20
+27110,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,89,0.0,0,0,,,,,,,2020-03-19
+28992,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,83,0.0,0,0,,,,,,,2020-03-18
+30825,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,65,0.0,0,0,,,,,,,2020-03-17
+33194,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,48,0.0,0,0,,,,,,,2020-03-16
+34287,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,46,0.0,0,0,,,,,,,2020-03-15
+35416,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,41,0.0,0,0,,,,,,,2020-03-14
+36381,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,31,0.0,0,0,,,,,,,2020-03-13
+37257,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,19,0.0,0,0,,,,,,,2020-03-12
+38316,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,5,0.0,0,0,,,,,,,2020-03-11
+39221,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,4,0.0,0,0,,,,,,,2020-03-10
+40888,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,1,0.0,0,0,,,,,,,2020-03-09
+42127,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,1,0.0,0,0,,,,,,,2020-03-08
+42411,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,1,0.0,0,0,,,,,,,2020-03-07
+43124,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,1,0.0,0,0,,,,,,,2020-03-06

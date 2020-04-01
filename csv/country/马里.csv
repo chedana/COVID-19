@@ -1,6 +1,8 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-228,Africa,马里,Mali,18,0.0,0,0,2020-03-29
-986,Africa,马里,Mali,18,0.0,0,0,2020-03-28
-3278,Africa,马里,Mali,4,0.0,0,0,2020-03-27
-5782,Africa,马里,Mali,2,0.0,0,0,2020-03-26
-9833,Africa,马里,Mali,2,0.0,0,0,2020-03-25
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+388,Africa,马里,Mali,马里,Mali,28,0.0,0,2,,,,,,,2020-03-31
+2337,Africa,马里,Mali,马里,Mali,25,0.0,0,2,,,,,,,2020-03-30
+5261,Africa,马里,Mali,马里,Mali,18,0.0,0,1,,,,,,,2020-03-29
+7195,Africa,马里,Mali,马里,Mali,18,0.0,0,0,,,,,,,2020-03-28
+9487,Africa,马里,Mali,马里,Mali,4,0.0,0,0,,,,,,,2020-03-27
+11991,Africa,马里,Mali,马里,Mali,2,0.0,0,0,,,,,,,2020-03-26
+16042,Africa,马里,Mali,马里,Mali,2,0.0,0,0,,,,,,,2020-03-25

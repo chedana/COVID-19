@@ -1,5 +1,8 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1477,Africa,几内亚比绍,,2,0.0,0,0,2020-03-28
-3293,Africa,几内亚比绍,,2,0.0,0,0,2020-03-27
-5783,Africa,几内亚比绍,,2,0.0,0,0,2020-03-26
-9834,Africa,几内亚比绍,,2,0.0,0,0,2020-03-25
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+1158,Africa,几内亚比绍,,几内亚比绍,,2,0.0,0,0,,,,,,,2020-03-31
+2394,Africa,几内亚比绍,,几内亚比绍,,2,0.0,0,0,,,,,,,2020-03-30
+6203,Africa,几内亚比绍,,几内亚比绍,,2,0.0,0,0,,,,,,,2020-03-29
+7686,Africa,几内亚比绍,,几内亚比绍,,2,0.0,0,0,,,,,,,2020-03-28
+9502,Africa,几内亚比绍,,几内亚比绍,,2,0.0,0,0,,,,,,,2020-03-27
+11992,Africa,几内亚比绍,,几内亚比绍,,2,0.0,0,0,,,,,,,2020-03-26
+16043,Africa,几内亚比绍,,几内亚比绍,,2,0.0,0,0,,,,,,,2020-03-25

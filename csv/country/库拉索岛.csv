@@ -1,13 +1,16 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1252,North America,库拉索岛,,7,0.0,0,1,2020-03-28
-3265,North America,库拉索岛,,6,0.0,0,1,2020-03-27
-5762,North America,库拉索岛,,6,0.0,0,1,2020-03-26
-9995,North America,库拉索岛,,4,0.0,0,1,2020-03-25
-11442,North America,库拉索岛,,3,0.0,0,1,2020-03-24
-14772,North America,库拉索岛,,3,0.0,0,1,2020-03-23
-17791,North America,库拉索岛,,3,0.0,0,0,2020-03-22
-18858,North America,库拉索岛,,3,0.0,0,0,2020-03-21
-19724,North America,库拉索岛,,3,0.0,0,0,2020-03-20
-20973,North America,库拉索岛,,3,0.0,0,0,2020-03-19
-23310,North America,库拉索岛,,3,0.0,0,0,2020-03-18
-24704,North America,库拉索岛,,2,0.0,0,0,2020-03-17
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+421,North America,库拉索岛,,库拉索岛,,7,0.0,0,1,,,,,,,2020-03-31
+2369,North America,库拉索岛,,库拉索岛,,7,0.0,0,1,,,,,,,2020-03-30
+5983,North America,库拉索岛,,库拉索岛,,7,0.0,0,1,,,,,,,2020-03-29
+7461,North America,库拉索岛,,库拉索岛,,7,0.0,0,1,,,,,,,2020-03-28
+9474,North America,库拉索岛,,库拉索岛,,6,0.0,0,1,,,,,,,2020-03-27
+11971,North America,库拉索岛,,库拉索岛,,6,0.0,0,1,,,,,,,2020-03-26
+16204,North America,库拉索岛,,库拉索岛,,4,0.0,0,1,,,,,,,2020-03-25
+17651,North America,库拉索岛,,库拉索岛,,3,0.0,0,1,,,,,,,2020-03-24
+20981,North America,库拉索岛,,库拉索岛,,3,0.0,0,1,,,,,,,2020-03-23
+24000,North America,库拉索岛,,库拉索岛,,3,0.0,0,0,,,,,,,2020-03-22
+25067,North America,库拉索岛,,库拉索岛,,3,0.0,0,0,,,,,,,2020-03-21
+25933,North America,库拉索岛,,库拉索岛,,3,0.0,0,0,,,,,,,2020-03-20
+27182,North America,库拉索岛,,库拉索岛,,3,0.0,0,0,,,,,,,2020-03-19
+29519,North America,库拉索岛,,库拉索岛,,3,0.0,0,0,,,,,,,2020-03-18
+30913,North America,库拉索岛,,库拉索岛,,2,0.0,0,0,,,,,,,2020-03-17

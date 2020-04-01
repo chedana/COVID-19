@@ -1,17 +1,19 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-213,Europe,泽西岛,Bailiwick of Jersey,52,0.0,0,1,2020-03-29
-1237,Europe,泽西岛,Bailiwick of Jersey,32,0.0,0,1,2020-03-28
-3237,Europe,泽西岛,Bailiwick of Jersey,18,0.0,0,0,2020-03-27
-5743,Europe,泽西岛,Bailiwick of Jersey,18,0.0,0,0,2020-03-26
-9962,Europe,泽西岛,Bailiwick of Jersey,18,0.0,0,0,2020-03-25
-11410,Europe,泽西岛,Bailiwick of Jersey,15,0.0,0,0,2020-03-24
-14741,Europe,泽西岛,Bailiwick of Jersey,15,0.0,0,0,2020-03-23
-17277,Europe,泽西岛,Bailiwick of Jersey,15,0.0,0,0,2020-03-22
-18831,Europe,泽西岛,Bailiwick of Jersey,12,0.0,0,0,2020-03-21
-19691,Europe,泽西岛,Bailiwick of Jersey,12,0.0,0,0,2020-03-20
-20962,Europe,泽西岛,Bailiwick of Jersey,5,0.0,0,0,2020-03-19
-23313,Europe,泽西岛,Bailiwick of Jersey,2,0.0,0,0,2020-03-18
-24703,Europe,泽西岛,Bailiwick of Jersey,2,0.0,0,0,2020-03-17
-27043,Europe,泽西岛,Bailiwick of Jersey,2,0.0,0,0,2020-03-16
-28138,Europe,泽西岛,Bailiwick of Jersey,2,0.0,0,0,2020-03-15
-29230,Europe,泽西岛,Bailiwick of Jersey,2,0.0,0,0,2020-03-14
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+374,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,63,0.0,0,2,,,,,,,2020-03-31
+2319,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,61,0.0,0,1,,,,,,,2020-03-30
+5938,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,52,0.0,0,1,,,,,,,2020-03-29
+7446,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,32,0.0,0,1,,,,,,,2020-03-28
+9446,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,18,0.0,0,0,,,,,,,2020-03-27
+11952,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,18,0.0,0,0,,,,,,,2020-03-26
+16171,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,18,0.0,0,0,,,,,,,2020-03-25
+17619,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,15,0.0,0,0,,,,,,,2020-03-24
+20950,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,15,0.0,0,0,,,,,,,2020-03-23
+23486,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,15,0.0,0,0,,,,,,,2020-03-22
+25040,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,12,0.0,0,0,,,,,,,2020-03-21
+25900,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,12,0.0,0,0,,,,,,,2020-03-20
+27171,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,5,0.0,0,0,,,,,,,2020-03-19
+29522,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,2,0.0,0,0,,,,,,,2020-03-18
+30912,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,2,0.0,0,0,,,,,,,2020-03-17
+33252,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,2,0.0,0,0,,,,,,,2020-03-16
+34347,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,2,0.0,0,0,,,,,,,2020-03-15
+35439,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,2,0.0,0,0,,,,,,,2020-03-14

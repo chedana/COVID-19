@@ -1,14 +1,14 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-54981,Asia,韩国,Korea,204,0.0,16,2
-54982,Asia,日本,Japan,105,0.0,22,1
-54983,Asia,伊朗,Iran,18,0.0,0,4
-55210,Oceania,澳大利亚,Australia,17,0.0,11,0
-55573,Asia,新加坡,Singapore,85,0.0,37,0
-55574,Asia,泰国,Thailand,35,0.0,17,0
-55575,Europe,德国,Germany,16,0.0,7,0
-55577,Asia,越南,Vietnam,16,0.0,14,0
-55808,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2
-55908,Asia,马来西亚,Malaysia,22,0.0,15,0
-55910,Asia,尼泊尔,Nepal,1,0.0,1,0
-55911,Asia,斯里兰卡,SriLanka,1,0.0,1,0
-55912,Europe,西班牙,Spain,2,0.0,2,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+61190,Asia,韩国,Korea,韩国,Korea,204,0.0,16,2,,,,,,
+61191,Asia,日本,Japan,日本,Japan,105,0.0,22,1,,,,,,
+61192,Asia,伊朗,Iran,伊朗,Iran,18,0.0,0,4,,,,,,
+61419,Oceania,澳大利亚,Australia,澳大利亚,Australia,17,0.0,11,0,,,,,,
+61782,Asia,新加坡,Singapore,新加坡,Singapore,85,0.0,37,0,,,,,,
+61783,Asia,泰国,Thailand,泰国,Thailand,35,0.0,17,0,,,,,,
+61784,Europe,德国,Germany,德国,Germany,16,0.0,7,0,,,,,,
+61786,Asia,越南,Vietnam,越南,Vietnam,16,0.0,14,0,,,,,,
+62017,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,,,,,,
+62117,Asia,马来西亚,Malaysia,马来西亚,Malaysia,22,0.0,15,0,,,,,,
+62119,Asia,尼泊尔,Nepal,尼泊尔,Nepal,1,0.0,1,0,,,,,,
+62120,Asia,斯里兰卡,SriLanka,斯里兰卡,SriLanka,1,0.0,1,0,,,,,,
+62121,Europe,西班牙,Spain,西班牙,Spain,2,0.0,2,0,,,,,,

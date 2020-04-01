@@ -1,53 +1,56 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-26,Asia,阿联酋,United Arab Emirates,468,0.0,55,2,2020-03-29
-744,Asia,阿联酋,United Arab Emirates,468,0.0,55,2,2020-03-28
-3164,Asia,阿联酋,United Arab Emirates,333,0.0,52,2,2020-03-27
-5609,Asia,阿联酋,United Arab Emirates,333,0.0,52,2,2020-03-26
-9619,Asia,阿联酋,United Arab Emirates,333,0.0,52,2,2020-03-25
-11348,Asia,阿联酋,United Arab Emirates,198,0.0,41,2,2020-03-24
-14680,Asia,阿联酋,United Arab Emirates,198,0.0,41,2,2020-03-23
-17345,Asia,阿联酋,United Arab Emirates,153,0.0,38,2,2020-03-22
-18643,Asia,阿联酋,United Arab Emirates,153,0.0,38,2,2020-03-21
-19640,Asia,阿联酋,United Arab Emirates,140,0.0,31,0,2020-03-20
-20894,Asia,阿联酋,United Arab Emirates,140,0.0,31,0,2020-03-19
-23234,Asia,阿联酋,United Arab Emirates,113,0.0,26,0,2020-03-18
-24889,Asia,阿联酋,United Arab Emirates,98,0.0,23,0,2020-03-17
-26972,Asia,阿联酋,United Arab Emirates,98,0.0,23,0,2020-03-16
-28018,Asia,阿联酋,United Arab Emirates,86,0.0,23,0,2020-03-15
-29546,Asia,阿联酋,United Arab Emirates,85,0.0,20,0,2020-03-14
-30348,Asia,阿联酋,United Arab Emirates,85,0.0,20,0,2020-03-13
-31283,Asia,阿联酋,United Arab Emirates,74,0.0,7,0,2020-03-12
-32372,Asia,阿联酋,United Arab Emirates,74,0.0,7,0,2020-03-11
-33014,Asia,阿联酋,United Arab Emirates,74,0.0,7,0,2020-03-10
-34582,Asia,阿联酋,United Arab Emirates,45,0.0,7,0,2020-03-09
-35537,Asia,阿联酋,United Arab Emirates,45,0.0,7,0,2020-03-08
-36172,Asia,阿联酋,United Arab Emirates,45,0.0,7,0,2020-03-07
-37492,Asia,阿联酋,United Arab Emirates,29,0.0,5,0,2020-03-06
-38077,Asia,阿联酋,United Arab Emirates,28,0.0,5,0,2020-03-05
-39444,Asia,阿联酋,United Arab Emirates,27,0.0,5,0,2020-03-04
-41181,Asia,阿联酋,United Arab Emirates,21,0.0,5,0,2020-03-03
-42686,Asia,阿联酋,United Arab Emirates,21,0.0,5,0,2020-03-02
-43532,Asia,阿联酋,United Arab Emirates,21,0.0,5,0,2020-03-01
-44227,Asia,阿联酋,United Arab Emirates,21,0.0,5,0,2020-02-29
-45977,Asia,阿联酋,United Arab Emirates,19,0.0,5,0,2020-02-28
-48641,Asia,阿联酋,United Arab Emirates,13,0.0,4,0,2020-02-26
-50432,Asia,阿联酋,United Arab Emirates,13,0.0,4,0,2020-02-25
-51198,Asia,阿联酋,United Arab Emirates,13,0.0,4,0,2020-02-24
-52878,Asia,阿联酋,United Arab Emirates,13,0.0,4,0,2020-02-23
-53341,Asia,阿联酋,United Arab Emirates,13,0.0,4,0,2020-02-22
-57949,Asia,阿联酋,United Arab Emirates,9,0.0,4,0,2020-02-20
-59775,Asia,阿联酋,United Arab Emirates,9,0.0,4,0,2020-02-19
-61173,Asia,阿联酋,United Arab Emirates,9,0.0,4,0,2020-02-18
-62393,Asia,阿联酋,United Arab Emirates,9,0.0,4,0,2020-02-17
-63831,Asia,阿联酋,United Arab Emirates,8,0.0,4,0,2020-02-16
-65764,Asia,阿联酋,United Arab Emirates,8,0.0,3,0,2020-02-15
-69167,Asia,阿联酋,United Arab Emirates,8,0.0,1,0,2020-02-14
-70015,Asia,阿联酋,United Arab Emirates,8,0.0,1,0,2020-02-13
-72144,Asia,阿联酋,United Arab Emirates,8,0.0,1,0,2020-02-12
-74446,Asia,阿联酋,United Arab Emirates,8,0.0,0,0,2020-02-11
-76347,Asia,阿联酋,United Arab Emirates,7,0.0,0,0,2020-02-10
-82177,Asia,阿联酋,United Arab Emirates,7,0.0,0,0,2020-02-08
-94860,Asia,阿联酋,United Arab Emirates,5,0.0,0,0,2020-02-02
-97682,Asia,阿联酋,United Arab Emirates,4,0.0,0,0,2020-02-01
-99366,Asia,阿联酋,United Arab Emirates,4,0.0,0,0,2020-01-30
-100885,Asia,阿联酋,United Arab Emirates,1,0.0,0,0,2020-01-29
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+106,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,664,0.0,61,6,,,,,,,2020-04-01
+193,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,664,0.0,61,6,,,,,,,2020-03-31
+2143,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,611,0.0,61,5,,,,,,,2020-03-30
+5203,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,468,0.0,55,2,,,,,,,2020-03-29
+6953,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,468,0.0,55,2,,,,,,,2020-03-28
+9373,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,333,0.0,52,2,,,,,,,2020-03-27
+11818,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,333,0.0,52,2,,,,,,,2020-03-26
+15828,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,333,0.0,52,2,,,,,,,2020-03-25
+17557,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,198,0.0,41,2,,,,,,,2020-03-24
+20889,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,198,0.0,41,2,,,,,,,2020-03-23
+23554,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,153,0.0,38,2,,,,,,,2020-03-22
+24852,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,153,0.0,38,2,,,,,,,2020-03-21
+25849,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,140,0.0,31,0,,,,,,,2020-03-20
+27103,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,140,0.0,31,0,,,,,,,2020-03-19
+29443,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,113,0.0,26,0,,,,,,,2020-03-18
+31098,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,98,0.0,23,0,,,,,,,2020-03-17
+33181,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,98,0.0,23,0,,,,,,,2020-03-16
+34227,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,86,0.0,23,0,,,,,,,2020-03-15
+35755,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,85,0.0,20,0,,,,,,,2020-03-14
+36557,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,85,0.0,20,0,,,,,,,2020-03-13
+37492,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,74,0.0,7,0,,,,,,,2020-03-12
+38581,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,74,0.0,7,0,,,,,,,2020-03-11
+39223,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,74,0.0,7,0,,,,,,,2020-03-10
+40791,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,45,0.0,7,0,,,,,,,2020-03-09
+41746,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,45,0.0,7,0,,,,,,,2020-03-08
+42381,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,45,0.0,7,0,,,,,,,2020-03-07
+43701,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,29,0.0,5,0,,,,,,,2020-03-06
+44286,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,28,0.0,5,0,,,,,,,2020-03-05
+45653,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,27,0.0,5,0,,,,,,,2020-03-04
+47390,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,21,0.0,5,0,,,,,,,2020-03-03
+48895,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,21,0.0,5,0,,,,,,,2020-03-02
+49741,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,21,0.0,5,0,,,,,,,2020-03-01
+50436,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,21,0.0,5,0,,,,,,,2020-02-29
+52186,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,19,0.0,5,0,,,,,,,2020-02-28
+54850,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,13,0.0,4,0,,,,,,,2020-02-26
+56641,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,13,0.0,4,0,,,,,,,2020-02-25
+57407,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,13,0.0,4,0,,,,,,,2020-02-24
+59087,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,13,0.0,4,0,,,,,,,2020-02-23
+59550,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,13,0.0,4,0,,,,,,,2020-02-22
+64158,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,9,0.0,4,0,,,,,,,2020-02-20
+65984,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,9,0.0,4,0,,,,,,,2020-02-19
+67382,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,9,0.0,4,0,,,,,,,2020-02-18
+68602,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,9,0.0,4,0,,,,,,,2020-02-17
+70040,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,8,0.0,4,0,,,,,,,2020-02-16
+71973,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,8,0.0,3,0,,,,,,,2020-02-15
+75376,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,8,0.0,1,0,,,,,,,2020-02-14
+76224,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,8,0.0,1,0,,,,,,,2020-02-13
+78353,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,8,0.0,1,0,,,,,,,2020-02-12
+80655,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,8,0.0,0,0,,,,,,,2020-02-11
+82556,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,7,0.0,0,0,,,,,,,2020-02-10
+88386,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,7,0.0,0,0,,,,,,,2020-02-08
+101069,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,5,0.0,0,0,,,,,,,2020-02-02
+103891,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,4,0.0,0,0,,,,,,,2020-02-01
+105575,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,4,0.0,0,0,,,,,,,2020-01-30
+107094,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,1,0.0,0,0,,,,,,,2020-01-29

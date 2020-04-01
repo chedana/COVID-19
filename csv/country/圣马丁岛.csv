@@ -1,17 +1,20 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1434,North America,圣马丁岛,Sint Maarten,11,0.0,0,0,2020-03-28
-3251,North America,圣马丁岛,Sint Maarten,11,0.0,0,0,2020-03-27
-5755,North America,圣马丁岛,Sint Maarten,8,0.0,0,0,2020-03-26
-9977,North America,圣马丁岛,Sint Maarten,8,0.0,0,0,2020-03-25
-11424,North America,圣马丁岛,Sint Maarten,5,0.0,0,0,2020-03-24
-14759,North America,圣马丁岛,Sint Maarten,4,0.0,0,0,2020-03-23
-17414,North America,圣马丁岛,Sint Maarten,4,0.0,0,0,2020-03-22
-18850,North America,圣马丁岛,Sint Maarten,4,0.0,0,0,2020-03-21
-19715,North America,圣马丁岛,Sint Maarten,4,0.0,0,0,2020-03-20
-20976,North America,圣马丁岛,Sint Maarten,2,0.0,0,0,2020-03-19
-23312,North America,圣马丁岛,Sint Maarten,2,0.0,0,0,2020-03-18
-24965,North America,圣马丁岛,Sint Maarten,2,0.0,0,0,2020-03-17
-27040,North America,圣马丁岛,Sint Maarten,2,0.0,0,0,2020-03-16
-28136,North America,圣马丁岛,Sint Maarten,2,0.0,0,0,2020-03-15
-29228,North America,圣马丁岛,Sint Maarten,2,0.0,0,0,2020-03-14
-30151,North America,圣马丁岛,Sint Maarten,2,0.0,0,0,2020-03-13
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+408,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,12,0.0,0,0,,,,,,,2020-03-31
+2350,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,12,0.0,0,0,,,,,,,2020-03-30
+5968,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,11,0.0,0,0,,,,,,,2020-03-29
+7643,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,11,0.0,0,0,,,,,,,2020-03-28
+9460,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,11,0.0,0,0,,,,,,,2020-03-27
+11964,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,8,0.0,0,0,,,,,,,2020-03-26
+16186,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,8,0.0,0,0,,,,,,,2020-03-25
+17633,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,5,0.0,0,0,,,,,,,2020-03-24
+20968,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,4,0.0,0,0,,,,,,,2020-03-23
+23623,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,4,0.0,0,0,,,,,,,2020-03-22
+25059,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,4,0.0,0,0,,,,,,,2020-03-21
+25924,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,4,0.0,0,0,,,,,,,2020-03-20
+27185,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,,2020-03-19
+29521,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,,2020-03-18
+31174,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,,2020-03-17
+33249,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,,2020-03-16
+34345,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,,2020-03-15
+35437,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,,2020-03-14
+36360,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,2,0.0,0,0,,,,,,,2020-03-13

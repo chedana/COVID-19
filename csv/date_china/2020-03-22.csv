@@ -1,0 +1,20 @@
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+23452,Asia,中国,China,甘肃省,Gansu,136,0.0,114,2
+23464,Asia,中国,China,澳门,Macau,20,0.0,10,0
+23466,Asia,中国,China,中国,China,81566,0.0,72390,3267
+23811,Asia,中国,China,重庆市,Chongqing,577,1.0,570,6
+24059,Asia,中国,China,湖北省,Hubei,67800,0.0,59433,3144
+24076,Asia,中国,China,香港,Hong Kong,317,0.0,100,4
+24081,Asia,中国,China,台湾,Taiwan,169,0.0,28,2
+24083,Asia,中国,China,山东省,Shandong,766,0.0,750,7
+24477,Asia,中国,China,北京市,Beijing,514,0.0,400,8
+24495,Asia,中国,China,广东省,Guangdong,1407,0.0,1329,8
+24516,Asia,中国,China,上海市,Shanghai,394,0.0,328,4
+24535,Asia,中国,China,浙江省,Zhejiang,1237,0.0,1219,1
+24547,Asia,中国,China,福建省,Fujian,307,0.0,295,1
+24574,Asia,中国,China,黑龙江省,Heilongjiang,484,0.0,466,13
+24588,Asia,中国,China,四川省,Sichuan,543,0.0,536,3
+24609,Asia,中国,China,河北省,Hebei,319,0.0,310,6
+24620,Asia,中国,China,江苏省,Jiangsu,633,0.0,631,0
+24633,Asia,中国,China,江西省,Jiangxi,936,0.0,934,1
+24645,Asia,中国,China,辽宁省,Liaoning,126,0.0,124,2

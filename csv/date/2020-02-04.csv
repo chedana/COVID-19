@@ -1,11 +1,11 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-90835,Asia,泰国,Thailand,25,0.0,5,0
-90836,Asia,新加坡,Singapore,24,0.0,0,0
-90837,Asia,韩国,Korea,16,0.0,0,0
-90838,Oceania,澳大利亚,Australia,13,0.0,2,0
-90839,Asia,印度,India,3,0.0,0,0
-91405,Europe,比利时,Belgium,1,0.0,0,0
-91406,Asia,越南,Vietnam,10,0.0,1,0
-91542,Asia,马来西亚,Malaysia,10,0.0,0,0
-91930,Europe,德国,Germany,12,0.0,0,0
-92308,North America,美国,United States of America,11,0.0,0,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+97044,Asia,泰国,Thailand,泰国,Thailand,25,0.0,5,0,,,,,,
+97045,Asia,新加坡,Singapore,新加坡,Singapore,24,0.0,0,0,,,,,,
+97046,Asia,韩国,Korea,韩国,Korea,16,0.0,0,0,,,,,,
+97047,Oceania,澳大利亚,Australia,澳大利亚,Australia,13,0.0,2,0,,,,,,
+97048,Asia,印度,India,印度,India,3,0.0,0,0,,,,,,
+97614,Europe,比利时,Belgium,比利时,Belgium,1,0.0,0,0,,,,,,
+97615,Asia,越南,Vietnam,越南,Vietnam,10,0.0,1,0,,,,,,
+97751,Asia,马来西亚,Malaysia,马来西亚,Malaysia,10,0.0,0,0,,,,,,
+98139,Europe,德国,Germany,德国,Germany,12,0.0,0,0,,,,,,
+98517,North America,美国,United States of America,美国,United States of America,11,0.0,0,0,,,,,,

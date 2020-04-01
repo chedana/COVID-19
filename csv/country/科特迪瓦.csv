@@ -1,19 +1,21 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-517,Africa,科特迪瓦,Ivory Coast,101,0.0,3,0,2020-03-29
-780,Africa,科特迪瓦,Ivory Coast,101,0.0,3,0,2020-03-28
-3200,Africa,科特迪瓦,Ivory Coast,96,0.0,3,0,2020-03-27
-5710,Africa,科特迪瓦,Ivory Coast,73,0.0,3,0,2020-03-26
-9931,Africa,科特迪瓦,Ivory Coast,73,0.0,3,0,2020-03-25
-11396,Africa,科特迪瓦,Ivory Coast,25,0.0,1,0,2020-03-24
-14723,Africa,科特迪瓦,Ivory Coast,25,0.0,1,0,2020-03-23
-17401,Africa,科特迪瓦,Ivory Coast,14,0.0,1,0,2020-03-22
-18827,Africa,科特迪瓦,Ivory Coast,14,0.0,1,0,2020-03-21
-19701,Africa,科特迪瓦,Ivory Coast,9,0.0,1,0,2020-03-20
-20954,Africa,科特迪瓦,Ivory Coast,9,0.0,1,0,2020-03-19
-23296,Africa,科特迪瓦,Ivory Coast,6,0.0,1,0,2020-03-18
-24629,Africa,科特迪瓦,Ivory Coast,6,0.0,1,0,2020-03-17
-27026,Africa,科特迪瓦,Ivory Coast,4,0.0,0,0,2020-03-16
-28122,Africa,科特迪瓦,Ivory Coast,4,0.0,0,0,2020-03-15
-29614,Africa,科特迪瓦,Ivory Coast,1,0.0,0,0,2020-03-14
-30415,Africa,科特迪瓦,Ivory Coast,1,0.0,0,0,2020-03-13
-31350,Africa,科特迪瓦,Ivory Coast,1,0.0,0,0,2020-03-12
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+228,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,168,0.0,6,1,,,,,,,2020-03-31
+2161,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,165,0.0,4,1,,,,,,,2020-03-30
+5351,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,101,0.0,3,0,,,,,,,2020-03-29
+6989,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,101,0.0,3,0,,,,,,,2020-03-28
+9409,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,96,0.0,3,0,,,,,,,2020-03-27
+11919,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,73,0.0,3,0,,,,,,,2020-03-26
+16140,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,73,0.0,3,0,,,,,,,2020-03-25
+17605,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,25,0.0,1,0,,,,,,,2020-03-24
+20932,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,25,0.0,1,0,,,,,,,2020-03-23
+23610,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,14,0.0,1,0,,,,,,,2020-03-22
+25036,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,14,0.0,1,0,,,,,,,2020-03-21
+25910,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,9,0.0,1,0,,,,,,,2020-03-20
+27163,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,9,0.0,1,0,,,,,,,2020-03-19
+29505,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,6,0.0,1,0,,,,,,,2020-03-18
+30838,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,6,0.0,1,0,,,,,,,2020-03-17
+33235,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,4,0.0,0,0,,,,,,,2020-03-16
+34331,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,4,0.0,0,0,,,,,,,2020-03-15
+35823,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,1,0.0,0,0,,,,,,,2020-03-14
+36624,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,1,0.0,0,0,,,,,,,2020-03-13
+37559,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,1,0.0,0,0,,,,,,,2020-03-12

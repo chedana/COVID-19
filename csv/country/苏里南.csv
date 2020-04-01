@@ -1,17 +1,19 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-238,South America,苏里南,Suriname,8,0.0,0,0,2020-03-29
-1443,South America,苏里南,Suriname,7,0.0,0,0,2020-03-28
-3257,South America,苏里南,Suriname,7,0.0,0,0,2020-03-27
-5759,South America,苏里南,Suriname,6,0.0,0,0,2020-03-26
-9982,South America,苏里南,Suriname,6,0.0,0,0,2020-03-25
-11421,South America,苏里南,Suriname,6,0.0,0,0,2020-03-24
-14754,South America,苏里南,Suriname,5,0.0,0,0,2020-03-23
-17410,South America,苏里南,Suriname,5,0.0,0,0,2020-03-22
-18863,South America,苏里南,Suriname,2,0.0,0,0,2020-03-21
-19725,South America,苏里南,Suriname,2,0.0,0,0,2020-03-20
-20990,South America,苏里南,Suriname,1,0.0,0,0,2020-03-19
-23327,South America,苏里南,Suriname,1,0.0,0,0,2020-03-18
-24709,South America,苏里南,Suriname,1,0.0,0,0,2020-03-17
-27060,South America,苏里南,Suriname,1,0.0,0,0,2020-03-16
-28158,South America,苏里南,Suriname,1,0.0,0,0,2020-03-15
-29235,South America,苏里南,Suriname,1,0.0,0,0,2020-03-14
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+415,South America,苏里南,Suriname,苏里南,Suriname,8,0.0,0,0,,,,,,,2020-03-31
+2360,South America,苏里南,Suriname,苏里南,Suriname,8,0.0,0,0,,,,,,,2020-03-30
+5975,South America,苏里南,Suriname,苏里南,Suriname,8,0.0,0,0,,,,,,,2020-03-29
+7652,South America,苏里南,Suriname,苏里南,Suriname,7,0.0,0,0,,,,,,,2020-03-28
+9466,South America,苏里南,Suriname,苏里南,Suriname,7,0.0,0,0,,,,,,,2020-03-27
+11968,South America,苏里南,Suriname,苏里南,Suriname,6,0.0,0,0,,,,,,,2020-03-26
+16191,South America,苏里南,Suriname,苏里南,Suriname,6,0.0,0,0,,,,,,,2020-03-25
+17630,South America,苏里南,Suriname,苏里南,Suriname,6,0.0,0,0,,,,,,,2020-03-24
+20963,South America,苏里南,Suriname,苏里南,Suriname,5,0.0,0,0,,,,,,,2020-03-23
+23619,South America,苏里南,Suriname,苏里南,Suriname,5,0.0,0,0,,,,,,,2020-03-22
+25072,South America,苏里南,Suriname,苏里南,Suriname,2,0.0,0,0,,,,,,,2020-03-21
+25934,South America,苏里南,Suriname,苏里南,Suriname,2,0.0,0,0,,,,,,,2020-03-20
+27199,South America,苏里南,Suriname,苏里南,Suriname,1,0.0,0,0,,,,,,,2020-03-19
+29536,South America,苏里南,Suriname,苏里南,Suriname,1,0.0,0,0,,,,,,,2020-03-18
+30918,South America,苏里南,Suriname,苏里南,Suriname,1,0.0,0,0,,,,,,,2020-03-17
+33269,South America,苏里南,Suriname,苏里南,Suriname,1,0.0,0,0,,,,,,,2020-03-16
+34367,South America,苏里南,Suriname,苏里南,Suriname,1,0.0,0,0,,,,,,,2020-03-15
+35444,South America,苏里南,Suriname,苏里南,Suriname,1,0.0,0,0,,,,,,,2020-03-14

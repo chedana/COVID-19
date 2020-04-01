@@ -1,22 +1,25 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1260,Asia,不丹,Kingdom of Bhutan,3,0.0,0,0,2020-03-28
-3288,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0,2020-03-27
-6970,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0,2020-03-26
-10010,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0,2020-03-25
-11443,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0,2020-03-24
-14773,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0,2020-03-23
-17425,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0,2020-03-22
-18862,Asia,不丹,Kingdom of Bhutan,2,0.0,0,0,2020-03-21
-19736,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-20
-20986,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-19
-23322,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-18
-24970,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-17
-27049,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-16
-28144,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-15
-31664,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-12
-32432,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-11
-33121,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-10
-34677,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-09
-35916,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-08
-36344,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-07
-37154,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0,2020-03-06
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+436,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,3,0.0,0,0,,,,,,,2020-03-31
+2387,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,3,0.0,0,0,,,,,,,2020-03-30
+5999,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,3,0.0,0,0,,,,,,,2020-03-29
+7469,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,3,0.0,0,0,,,,,,,2020-03-28
+9497,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,2,0.0,0,0,,,,,,,2020-03-27
+13179,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,2,0.0,0,0,,,,,,,2020-03-26
+16219,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,2,0.0,0,0,,,,,,,2020-03-25
+17652,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,2,0.0,0,0,,,,,,,2020-03-24
+20982,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,2,0.0,0,0,,,,,,,2020-03-23
+23634,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,2,0.0,0,0,,,,,,,2020-03-22
+25071,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,2,0.0,0,0,,,,,,,2020-03-21
+25945,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-20
+27195,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-19
+29531,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-18
+31179,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-17
+33258,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-16
+34353,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-15
+37873,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-12
+38641,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-11
+39330,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-10
+40886,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-09
+42125,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-08
+42553,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-07
+43363,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,,2020-03-06

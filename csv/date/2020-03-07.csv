@@ -1,75 +1,75 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-36118,Asia,伊朗,Iran,5823,0.0,1669,145
-36149,Asia,韩国,Korea,7041,0.0,108,47
-36150,Europe,意大利,Italy,4636,0.0,523,197
-36152,Europe,德国,Germany,687,0.0,14,0
-36153,Europe,法国,France,613,0.0,12,9
-36154,Europe,西班牙,Spain,387,0.0,2,1
-36155,Asia,日本,Japan,420,0.0,46,6
-36156,North America,美国,United States of America,324,0.0,10,14
-36157,Europe,瑞士,Switzerland,210,0.0,3,1
-36158,Europe,英国,United Kingdom,163,0.0,8,1
-36159,Europe,瑞典,Sweden,137,0.0,0,0
-36160,Europe,荷兰,Netherlands,128,0.0,0,1
-36161,Europe,挪威,Norway,113,0.0,0,0
-36162,Europe,比利时,Belgium,109,0.0,1,0
-36163,Asia,马来西亚,Malaysia,83,0.0,23,0
-36164,Europe,奥地利,Austria,55,0.0,0,0
-36165,Asia,巴林,Bahrain,56,0.0,4,0
-36166,North America,加拿大,Canada,53,0.0,4,0
-36167,Asia,新加坡,Singapore,130,0.0,82,0
-36168,Europe,希腊,Greece,46,0.0,0,0
-36169,Europe,冰岛,Iceland,45,0.0,0,0
-36170,Asia,伊拉克,Iraq,46,0.0,0,4
-36171,Oceania,澳大利亚,Australia,64,0.0,22,2
-36172,Asia,阿联酋,United Arab Emirates,45,0.0,7,0
-36173,Asia,印度,India,33,0.0,3,0
-36174,Europe,圣马力诺,San Marino,23,0.0,0,0
-36175,Europe,丹麦,Denmark,23,0.0,1,0
-36176,Others,至尊公主邮轮,Grand Princess,21,0.0,0,0
-36177,Asia,以色列,Israel,21,0.0,2,0
-36178,Asia,泰国,Thailand,50,0.0,31,1
-36179,Europe,爱尔兰,Ireland,18,0.0,0,0
-36180,Europe,捷克,Czech Republic,18,0.0,0,0
-36181,Asia,巴勒斯坦,Palestine,16,0.0,0,0
-36182,Europe,芬兰,Finland,15,0.0,1,0
-36183,Africa,埃及,Egypt,15,0.0,1,0
-36184,South America,巴西,Brazil,13,0.0,0,0
-36185,Europe,克罗地亚,Croatia,12,0.0,0,0
-36186,Asia,卡塔尔,Qatar,11,0.0,0,0
-36187,Europe,爱沙尼亚,Estonia,10,0.0,0,0
-36188,Asia,格鲁吉亚,Georgia,9,0.0,0,0
-36189,Europe,葡萄牙,Portugal,8,0.0,0,0
-36190,South America,阿根廷,Argentina,8,0.0,0,0
-36191,Europe,俄罗斯,Russia,8,0.0,2,0
-36192,Europe,罗马尼亚,Romania,9,0.0,3,0
-36193,Europe,斯洛文尼亚,Slovenia,6,0.0,0,0
-36194,Oceania,新西兰,New Zealand,5,0.0,0,0
-36195,Europe,波兰,Poland,5,0.0,0,0
-36196,Asia,菲律宾,Philippines,6,0.0,1,1
-36197,Asia,印度尼西亚,Indonesia,4,0.0,0,0
-36198,Europe,卢森堡,Luxembourg,3,0.0,0,0
-36199,Asia,越南,Vietnam,18,0.0,16,0
-36200,Africa,喀麦隆,Cameroon,2,0.0,0,0
-36201,Europe,梵蒂冈,Status Civitatis Vaticanae,1,0.0,0,0
-36202,Europe,塞尔维亚,Republic of Serbia,1,0.0,0,0
-36203,Africa,南非,South Africa,1,0.0,0,0
-36204,South America,秘鲁,Peru,1,0.0,0,0
-36205,North America,哥斯达黎加,Costa Rica,1,0.0,0,0
-36206,South America,哥伦比亚,Colombia,1,0.0,0,0
-36207,Africa,多哥,Togo,1,0.0,0,0
-36288,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6
-36301,Asia,科威特,Kuwait,58,0.0,0,0
-36318,Africa,阿尔及利亚,Algeria,17,0.0,0,0
-36323,Asia,阿曼,Oman,16,0.0,2,0
-36325,South America,厄瓜多尔,Ecuador,13,0.0,0,0
-36333,Asia,巴基斯坦,Pakistan,6,0.0,0,0
-36339,South America,智利,Chile,4,0.0,0,0
-36342,Europe,匈牙利,Hungary,3,0.0,0,0
-36344,Asia,不丹,Kingdom of Bhutan,1,0.0,0,0
-36747,Asia,黎巴嫩,Lebanon,15,0.0,1,0
-36757,Europe,白俄罗斯,Belarus,6,0.0,0,0
-36761,North America,墨西哥,Mexico,6,0.0,1,0
-36765,Africa,塞内加尔,Senegal,4,0.0,0,0
-36769,Asia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0
-36772,Europe,波黑,Bosnia and Herzegovina,1,0.0,0,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+42327,Asia,伊朗,Iran,伊朗,Iran,5823,0.0,1669,145,,,,,,
+42358,Asia,韩国,Korea,韩国,Korea,7041,0.0,108,47,,,,,,
+42359,Europe,意大利,Italy,意大利,Italy,4636,0.0,523,197,,,,,,
+42361,Europe,德国,Germany,德国,Germany,687,0.0,14,0,,,,,,
+42362,Europe,法国,France,法国,France,613,0.0,12,9,,,,,,
+42363,Europe,西班牙,Spain,西班牙,Spain,387,0.0,2,1,,,,,,
+42364,Asia,日本,Japan,日本,Japan,420,0.0,46,6,,,,,,
+42365,North America,美国,United States of America,美国,United States of America,324,0.0,10,14,,,,,,
+42366,Europe,瑞士,Switzerland,瑞士,Switzerland,210,0.0,3,1,,,,,,
+42367,Europe,英国,United Kingdom,英国,United Kingdom,163,0.0,8,1,,,,,,
+42368,Europe,瑞典,Sweden,瑞典,Sweden,137,0.0,0,0,,,,,,
+42369,Europe,荷兰,Netherlands,荷兰,Netherlands,128,0.0,0,1,,,,,,
+42370,Europe,挪威,Norway,挪威,Norway,113,0.0,0,0,,,,,,
+42371,Europe,比利时,Belgium,比利时,Belgium,109,0.0,1,0,,,,,,
+42372,Asia,马来西亚,Malaysia,马来西亚,Malaysia,83,0.0,23,0,,,,,,
+42373,Europe,奥地利,Austria,奥地利,Austria,55,0.0,0,0,,,,,,
+42374,Asia,巴林,Bahrain,巴林,Bahrain,56,0.0,4,0,,,,,,
+42375,North America,加拿大,Canada,加拿大,Canada,53,0.0,4,0,,,,,,
+42376,Asia,新加坡,Singapore,新加坡,Singapore,130,0.0,82,0,,,,,,
+42377,Europe,希腊,Greece,希腊,Greece,46,0.0,0,0,,,,,,
+42378,Europe,冰岛,Iceland,冰岛,Iceland,45,0.0,0,0,,,,,,
+42379,Asia,伊拉克,Iraq,伊拉克,Iraq,46,0.0,0,4,,,,,,
+42380,Oceania,澳大利亚,Australia,澳大利亚,Australia,64,0.0,22,2,,,,,,
+42381,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,45,0.0,7,0,,,,,,
+42382,Asia,印度,India,印度,India,33,0.0,3,0,,,,,,
+42383,Europe,圣马力诺,San Marino,圣马力诺,San Marino,23,0.0,0,0,,,,,,
+42384,Europe,丹麦,Denmark,丹麦,Denmark,23,0.0,1,0,,,,,,
+42385,Others,至尊公主邮轮,Grand Princess,至尊公主邮轮,Grand Princess,21,0.0,0,0,,,,,,
+42386,Asia,以色列,Israel,以色列,Israel,21,0.0,2,0,,,,,,
+42387,Asia,泰国,Thailand,泰国,Thailand,50,0.0,31,1,,,,,,
+42388,Europe,爱尔兰,Ireland,爱尔兰,Ireland,18,0.0,0,0,,,,,,
+42389,Europe,捷克,Czech Republic,捷克,Czech Republic,18,0.0,0,0,,,,,,
+42390,Asia,巴勒斯坦,Palestine,巴勒斯坦,Palestine,16,0.0,0,0,,,,,,
+42391,Europe,芬兰,Finland,芬兰,Finland,15,0.0,1,0,,,,,,
+42392,Africa,埃及,Egypt,埃及,Egypt,15,0.0,1,0,,,,,,
+42393,South America,巴西,Brazil,巴西,Brazil,13,0.0,0,0,,,,,,
+42394,Europe,克罗地亚,Croatia,克罗地亚,Croatia,12,0.0,0,0,,,,,,
+42395,Asia,卡塔尔,Qatar,卡塔尔,Qatar,11,0.0,0,0,,,,,,
+42396,Europe,爱沙尼亚,Estonia,爱沙尼亚,Estonia,10,0.0,0,0,,,,,,
+42397,Asia,格鲁吉亚,Georgia,格鲁吉亚,Georgia,9,0.0,0,0,,,,,,
+42398,Europe,葡萄牙,Portugal,葡萄牙,Portugal,8,0.0,0,0,,,,,,
+42399,South America,阿根廷,Argentina,阿根廷,Argentina,8,0.0,0,0,,,,,,
+42400,Europe,俄罗斯,Russia,俄罗斯,Russia,8,0.0,2,0,,,,,,
+42401,Europe,罗马尼亚,Romania,罗马尼亚,Romania,9,0.0,3,0,,,,,,
+42402,Europe,斯洛文尼亚,Slovenia,斯洛文尼亚,Slovenia,6,0.0,0,0,,,,,,
+42403,Oceania,新西兰,New Zealand,新西兰,New Zealand,5,0.0,0,0,,,,,,
+42404,Europe,波兰,Poland,波兰,Poland,5,0.0,0,0,,,,,,
+42405,Asia,菲律宾,Philippines,菲律宾,Philippines,6,0.0,1,1,,,,,,
+42406,Asia,印度尼西亚,Indonesia,印度尼西亚,Indonesia,4,0.0,0,0,,,,,,
+42407,Europe,卢森堡,Luxembourg,卢森堡,Luxembourg,3,0.0,0,0,,,,,,
+42408,Asia,越南,Vietnam,越南,Vietnam,18,0.0,16,0,,,,,,
+42409,Africa,喀麦隆,Cameroon,喀麦隆,Cameroon,2,0.0,0,0,,,,,,
+42410,Europe,梵蒂冈,Status Civitatis Vaticanae,梵蒂冈,Status Civitatis Vaticanae,1,0.0,0,0,,,,,,
+42411,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,1,0.0,0,0,,,,,,
+42412,Africa,南非,South Africa,南非,South Africa,1,0.0,0,0,,,,,,
+42413,South America,秘鲁,Peru,秘鲁,Peru,1,0.0,0,0,,,,,,
+42414,North America,哥斯达黎加,Costa Rica,哥斯达黎加,Costa Rica,1,0.0,0,0,,,,,,
+42415,South America,哥伦比亚,Colombia,哥伦比亚,Colombia,1,0.0,0,0,,,,,,
+42416,Africa,多哥,Togo,多哥,Togo,1,0.0,0,0,,,,,,
+42497,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,,,,,,
+42510,Asia,科威特,Kuwait,科威特,Kuwait,58,0.0,0,0,,,,,,
+42527,Africa,阿尔及利亚,Algeria,阿尔及利亚,Algeria,17,0.0,0,0,,,,,,
+42532,Asia,阿曼,Oman,阿曼,Oman,16,0.0,2,0,,,,,,
+42534,South America,厄瓜多尔,Ecuador,厄瓜多尔,Ecuador,13,0.0,0,0,,,,,,
+42542,Asia,巴基斯坦,Pakistan,巴基斯坦,Pakistan,6,0.0,0,0,,,,,,
+42548,South America,智利,Chile,智利,Chile,4,0.0,0,0,,,,,,
+42551,Europe,匈牙利,Hungary,匈牙利,Hungary,3,0.0,0,0,,,,,,
+42553,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,1,0.0,0,0,,,,,,
+42956,Asia,黎巴嫩,Lebanon,黎巴嫩,Lebanon,15,0.0,1,0,,,,,,
+42966,Europe,白俄罗斯,Belarus,白俄罗斯,Belarus,6,0.0,0,0,,,,,,
+42970,North America,墨西哥,Mexico,墨西哥,Mexico,6,0.0,1,0,,,,,,
+42974,Africa,塞内加尔,Senegal,塞内加尔,Senegal,4,0.0,0,0,,,,,,
+42978,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0,,,,,,
+42981,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,1,0.0,0,0,,,,,,

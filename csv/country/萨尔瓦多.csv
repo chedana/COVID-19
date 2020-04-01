@@ -1,11 +1,14 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1428,North America,萨尔瓦多,EI Salvador,13,0.0,0,0,2020-03-28
-3244,North America,萨尔瓦多,EI Salvador,13,0.0,0,0,2020-03-27
-5764,North America,萨尔瓦多,EI Salvador,5,0.0,0,0,2020-03-26
-10000,North America,萨尔瓦多,EI Salvador,3,0.0,0,0,2020-03-25
-11463,North America,萨尔瓦多,EI Salvador,1,0.0,0,0,2020-03-24
-14794,North America,萨尔瓦多,EI Salvador,1,0.0,0,0,2020-03-23
-17815,North America,萨尔瓦多,EI Salvador,1,0.0,0,0,2020-03-22
-18886,North America,萨尔瓦多,EI Salvador,1,0.0,0,0,2020-03-21
-19746,North America,萨尔瓦多,EI Salvador,1,0.0,0,0,2020-03-20
-21249,North America,萨尔瓦多,EI Salvador,1,0.0,0,0,2020-03-19
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+391,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,24,0.0,0,0,,,,,,,2020-03-31
+2341,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,19,0.0,0,0,,,,,,,2020-03-30
+5964,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,13,0.0,0,0,,,,,,,2020-03-29
+7637,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,13,0.0,0,0,,,,,,,2020-03-28
+9453,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,13,0.0,0,0,,,,,,,2020-03-27
+11973,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,5,0.0,0,0,,,,,,,2020-03-26
+16209,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,3,0.0,0,0,,,,,,,2020-03-25
+17672,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,1,0.0,0,0,,,,,,,2020-03-24
+21003,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,1,0.0,0,0,,,,,,,2020-03-23
+24024,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,1,0.0,0,0,,,,,,,2020-03-22
+25095,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,1,0.0,0,0,,,,,,,2020-03-21
+25955,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,1,0.0,0,0,,,,,,,2020-03-20
+27458,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,1,0.0,0,0,,,,,,,2020-03-19

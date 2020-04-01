@@ -1,26 +1,28 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-4,Europe,波黑,Bosnia and Herzegovina,233,0.0,5,4,2020-03-29
-758,Europe,波黑,Bosnia and Herzegovina,230,0.0,5,4,2020-03-28
-3091,Europe,波黑,Bosnia and Herzegovina,176,0.0,2,3,2020-03-27
-5683,Europe,波黑,Bosnia and Herzegovina,176,0.0,2,3,2020-03-26
-9638,Europe,波黑,Bosnia and Herzegovina,131,0.0,2,1,2020-03-25
-11355,Europe,波黑,Bosnia and Herzegovina,131,0.0,2,1,2020-03-24
-14688,Europe,波黑,Bosnia and Herzegovina,126,0.0,0,1,2020-03-23
-17726,Europe,波黑,Bosnia and Herzegovina,64,0.0,0,0,2020-03-22
-18793,Europe,波黑,Bosnia and Herzegovina,64,0.0,0,0,2020-03-21
-19656,Europe,波黑,Bosnia and Herzegovina,64,0.0,0,0,2020-03-20
-20933,Europe,波黑,Bosnia and Herzegovina,24,0.0,0,0,2020-03-19
-23267,Europe,波黑,Bosnia and Herzegovina,24,0.0,0,0,2020-03-18
-24921,Europe,波黑,Bosnia and Herzegovina,24,0.0,0,0,2020-03-17
-26998,Europe,波黑,Bosnia and Herzegovina,24,0.0,0,0,2020-03-16
-28099,Europe,波黑,Bosnia and Herzegovina,21,0.0,0,0,2020-03-15
-29577,Europe,波黑,Bosnia and Herzegovina,13,0.0,0,0,2020-03-14
-30094,Europe,波黑,Bosnia and Herzegovina,13,0.0,0,0,2020-03-13
-31004,Europe,波黑,Bosnia and Herzegovina,11,0.0,0,0,2020-03-12
-32104,Europe,波黑,Bosnia and Herzegovina,7,0.0,0,0,2020-03-11
-33096,Europe,波黑,Bosnia and Herzegovina,5,0.0,0,0,2020-03-10
-34618,Europe,波黑,Bosnia and Herzegovina,3,0.0,0,0,2020-03-09
-35138,Europe,波黑,Bosnia and Herzegovina,3,0.0,0,0,2020-03-08
-36772,Europe,波黑,Bosnia and Herzegovina,1,0.0,0,0,2020-03-07
-37500,Europe,波黑,Bosnia and Herzegovina,1,0.0,0,0,2020-03-06
-38100,Europe,波黑,Bosnia and Herzegovina,1,0.0,0,0,2020-03-05
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+209,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,358,0.0,17,9,,,,,,,2020-03-31
+2151,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,324,0.0,8,6,,,,,,,2020-03-30
+5111,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,233,0.0,5,4,,,,,,,2020-03-29
+6967,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,230,0.0,5,4,,,,,,,2020-03-28
+9300,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,176,0.0,2,3,,,,,,,2020-03-27
+11892,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,176,0.0,2,3,,,,,,,2020-03-26
+15847,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,131,0.0,2,1,,,,,,,2020-03-25
+17564,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,131,0.0,2,1,,,,,,,2020-03-24
+20897,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,126,0.0,0,1,,,,,,,2020-03-23
+23935,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,64,0.0,0,0,,,,,,,2020-03-22
+25002,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,64,0.0,0,0,,,,,,,2020-03-21
+25865,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,64,0.0,0,0,,,,,,,2020-03-20
+27142,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,24,0.0,0,0,,,,,,,2020-03-19
+29476,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,24,0.0,0,0,,,,,,,2020-03-18
+31130,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,24,0.0,0,0,,,,,,,2020-03-17
+33207,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,24,0.0,0,0,,,,,,,2020-03-16
+34308,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,21,0.0,0,0,,,,,,,2020-03-15
+35786,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,13,0.0,0,0,,,,,,,2020-03-14
+36303,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,13,0.0,0,0,,,,,,,2020-03-13
+37213,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,11,0.0,0,0,,,,,,,2020-03-12
+38313,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,7,0.0,0,0,,,,,,,2020-03-11
+39305,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,5,0.0,0,0,,,,,,,2020-03-10
+40827,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,3,0.0,0,0,,,,,,,2020-03-09
+41347,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,3,0.0,0,0,,,,,,,2020-03-08
+42981,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,1,0.0,0,0,,,,,,,2020-03-07
+43709,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,1,0.0,0,0,,,,,,,2020-03-06
+44309,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,1,0.0,0,0,,,,,,,2020-03-05

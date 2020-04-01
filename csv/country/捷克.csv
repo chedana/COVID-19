@@ -1,29 +1,32 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-13,Europe,捷克,Czech Republic,2622,0.0,11,11,2020-03-29
-717,Europe,捷克,Czech Republic,2422,0.0,11,9,2020-03-28
-3098,Europe,捷克,Czech Republic,2062,0.0,10,9,2020-03-27
-5635,Europe,捷克,Czech Republic,1654,0.0,10,10,2020-03-26
-9592,Europe,捷克,Czech Republic,1497,0.0,10,5,2020-03-25
-11304,Europe,捷克,Czech Republic,1236,0.0,7,1,2020-03-24
-14639,Europe,捷克,Czech Republic,1165,0.0,7,1,2020-03-23
-17301,Europe,捷克,Czech Republic,1047,0.0,6,0,2020-03-22
-18735,Europe,捷克,Czech Republic,833,0.0,4,0,2020-03-21
-19600,Europe,捷克,Czech Republic,774,0.0,3,0,2020-03-20
-20860,Europe,捷克,Czech Republic,572,0.0,3,0,2020-03-19
-23203,Europe,捷克,Czech Republic,434,0.0,3,0,2020-03-18
-24861,Europe,捷克,Czech Republic,344,0.0,3,0,2020-03-17
-26791,Europe,捷克,Czech Republic,298,0.0,0,0,2020-03-16
-28052,Europe,捷克,Czech Republic,189,0.0,0,0,2020-03-15
-29197,Europe,捷克,Czech Republic,141,0.0,0,0,2020-03-14
-30340,Europe,捷克,Czech Republic,96,0.0,0,0,2020-03-13
-31278,Europe,捷克,Czech Republic,91,0.0,0,0,2020-03-12
-32073,Europe,捷克,Czech Republic,61,0.0,0,0,2020-03-11
-33023,Europe,捷克,Czech Republic,40,0.0,0,0,2020-03-10
-34352,Europe,捷克,Czech Republic,32,0.0,0,0,2020-03-09
-35116,Europe,捷克,Czech Republic,21,0.0,0,0,2020-03-08
-36180,Europe,捷克,Czech Republic,18,0.0,0,0,2020-03-07
-37142,Europe,捷克,Czech Republic,12,0.0,0,0,2020-03-06
-38760,Europe,捷克,Czech Republic,5,0.0,0,0,2020-03-05
-39451,Europe,捷克,Czech Republic,5,0.0,0,0,2020-03-04
-40303,Europe,捷克,Czech Republic,5,0.0,0,0,2020-03-03
-41830,Europe,捷克,Czech Republic,3,0.0,0,0,2020-03-02
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+25,Europe,捷克,Czech Republic,捷克,Czech Republic,2976,0.0,25,23,,,,,,,2020-04-01
+161,Europe,捷克,Czech Republic,捷克,Czech Republic,2976,0.0,25,23,,,,,,,2020-03-31
+2181,Europe,捷克,Czech Republic,捷克,Czech Republic,2837,0.0,11,17,,,,,,,2020-03-30
+5193,Europe,捷克,Czech Republic,捷克,Czech Republic,2669,0.0,11,13,,,,,,,2020-03-29
+6926,Europe,捷克,Czech Republic,捷克,Czech Republic,2422,0.0,11,9,,,,,,,2020-03-28
+9307,Europe,捷克,Czech Republic,捷克,Czech Republic,2062,0.0,10,9,,,,,,,2020-03-27
+11844,Europe,捷克,Czech Republic,捷克,Czech Republic,1654,0.0,10,10,,,,,,,2020-03-26
+15801,Europe,捷克,Czech Republic,捷克,Czech Republic,1497,0.0,10,5,,,,,,,2020-03-25
+17513,Europe,捷克,Czech Republic,捷克,Czech Republic,1236,0.0,7,1,,,,,,,2020-03-24
+20848,Europe,捷克,Czech Republic,捷克,Czech Republic,1165,0.0,7,1,,,,,,,2020-03-23
+23510,Europe,捷克,Czech Republic,捷克,Czech Republic,1047,0.0,6,0,,,,,,,2020-03-22
+24944,Europe,捷克,Czech Republic,捷克,Czech Republic,833,0.0,4,0,,,,,,,2020-03-21
+25809,Europe,捷克,Czech Republic,捷克,Czech Republic,774,0.0,3,0,,,,,,,2020-03-20
+27069,Europe,捷克,Czech Republic,捷克,Czech Republic,572,0.0,3,0,,,,,,,2020-03-19
+29412,Europe,捷克,Czech Republic,捷克,Czech Republic,434,0.0,3,0,,,,,,,2020-03-18
+31070,Europe,捷克,Czech Republic,捷克,Czech Republic,344,0.0,3,0,,,,,,,2020-03-17
+33000,Europe,捷克,Czech Republic,捷克,Czech Republic,298,0.0,0,0,,,,,,,2020-03-16
+34261,Europe,捷克,Czech Republic,捷克,Czech Republic,189,0.0,0,0,,,,,,,2020-03-15
+35406,Europe,捷克,Czech Republic,捷克,Czech Republic,141,0.0,0,0,,,,,,,2020-03-14
+36549,Europe,捷克,Czech Republic,捷克,Czech Republic,96,0.0,0,0,,,,,,,2020-03-13
+37487,Europe,捷克,Czech Republic,捷克,Czech Republic,91,0.0,0,0,,,,,,,2020-03-12
+38282,Europe,捷克,Czech Republic,捷克,Czech Republic,61,0.0,0,0,,,,,,,2020-03-11
+39232,Europe,捷克,Czech Republic,捷克,Czech Republic,40,0.0,0,0,,,,,,,2020-03-10
+40561,Europe,捷克,Czech Republic,捷克,Czech Republic,32,0.0,0,0,,,,,,,2020-03-09
+41325,Europe,捷克,Czech Republic,捷克,Czech Republic,21,0.0,0,0,,,,,,,2020-03-08
+42389,Europe,捷克,Czech Republic,捷克,Czech Republic,18,0.0,0,0,,,,,,,2020-03-07
+43351,Europe,捷克,Czech Republic,捷克,Czech Republic,12,0.0,0,0,,,,,,,2020-03-06
+44969,Europe,捷克,Czech Republic,捷克,Czech Republic,5,0.0,0,0,,,,,,,2020-03-05
+45660,Europe,捷克,Czech Republic,捷克,Czech Republic,5,0.0,0,0,,,,,,,2020-03-04
+46512,Europe,捷克,Czech Republic,捷克,Czech Republic,5,0.0,0,0,,,,,,,2020-03-03
+48039,Europe,捷克,Czech Republic,捷克,Czech Republic,3,0.0,0,0,,,,,,,2020-03-02

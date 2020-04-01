@@ -1,54 +1,57 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-0,North America,美国,United States of America,124217,0.0,1095,2185,2020-03-29
-703,North America,美国,United States of America,105470,0.0,2072,1710,2020-03-28
-3105,North America,美国,United States of America,85840,0.0,713,1296,2020-03-27
-5613,North America,美国,United States of America,69194,0.0,619,1050,2020-03-26
-9583,North America,美国,United States of America,55243,0.0,354,802,2020-03-25
-11282,North America,美国,United States of America,46450,0.0,178,593,2020-03-24
-14618,North America,美国,United States of America,35360,0.0,178,473,2020-03-23
-17217,North America,美国,United States of America,26997,0.0,176,340,2020-03-22
-18716,North America,美国,United States of America,19624,0.0,147,260,2020-03-21
-19584,North America,美国,United States of America,14250,0.0,121,208,2020-03-20
-20837,North America,美国,United States of America,10259,0.0,106,153,2020-03-19
-23188,North America,美国,United States of America,6420,0.0,74,108,2020-03-18
-24596,North America,美国,United States of America,4661,0.0,48,90,2020-03-17
-26788,North America,美国,United States of America,3700,0.0,10,66,2020-03-16
-27974,North America,美国,United States of America,2885,0.0,10,60,2020-03-15
-29191,North America,美国,United States of America,2084,0.0,10,41,2020-03-14
-30092,North America,美国,United States of America,1635,0.0,10,39,2020-03-13
-31261,North America,美国,United States of America,1004,0.0,10,31,2020-03-12
-32354,North America,美国,United States of America,1004,0.0,10,31,2020-03-11
-33036,North America,美国,United States of America,704,0.0,10,26,2020-03-10
-34340,North America,美国,United States of America,572,0.0,10,21,2020-03-09
-35094,North America,美国,United States of America,445,0.0,10,19,2020-03-08
-36156,North America,美国,United States of America,324,0.0,10,14,2020-03-07
-37488,North America,美国,United States of America,232,0.0,3,14,2020-03-06
-38069,North America,美国,United States of America,153,0.0,3,11,2020-03-05
-39432,North America,美国,United States of America,122,0.0,3,9,2020-03-04
-40841,North America,美国,United States of America,100,0.0,3,6,2020-03-03
-41814,North America,美国,United States of America,77,0.0,3,1,2020-03-02
-43525,North America,美国,United States of America,63,0.0,3,1,2020-03-01
-44372,North America,美国,United States of America,63,0.0,3,0,2020-02-29
-45971,North America,美国,United States of America,60,0.0,3,0,2020-02-28
-46735,North America,美国,United States of America,60,0.0,3,0,2020-02-27
-47857,North America,美国,United States of America,57,0.0,3,0,2020-02-26
-49955,North America,美国,United States of America,53,0.0,3,0,2020-02-25
-51195,North America,美国,United States of America,35,0.0,3,0,2020-02-24
-52875,North America,美国,United States of America,35,0.0,3,0,2020-02-23
-53340,North America,美国,United States of America,35,0.0,3,0,2020-02-22
-57943,North America,美国,United States of America,15,0.0,3,0,2020-02-20
-63741,North America,美国,United States of America,15,0.0,3,0,2020-02-17
-63826,North America,美国,United States of America,15,0.0,3,0,2020-02-16
-66654,North America,美国,United States of America,15,0.0,3,0,2020-02-15
-67738,North America,美国,United States of America,15,0.0,3,0,2020-02-14
-70012,North America,美国,United States of America,14,0.0,3,0,2020-02-13
-72142,North America,美国,United States of America,13,0.0,3,0,2020-02-12
-74444,North America,美国,United States of America,13,0.0,0,0,2020-02-11
-76344,North America,美国,United States of America,12,0.0,0,0,2020-02-10
-87768,North America,美国,United States of America,12,0.0,0,0,2020-02-06
-92308,North America,美国,United States of America,11,0.0,0,0,2020-02-04
-93891,North America,美国,United States of America,9,0.0,0,0,2020-02-03
-95627,North America,美国,United States of America,8,0.0,0,0,2020-02-02
-97679,North America,美国,United States of America,6,0.0,0,0,2020-02-01
-99212,,美国,United States of America,6,0.0,0,0,2020-01-31
-102531,,美国,United States of America,5,0.0,0,0,2020-01-27
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+0,North America,美国,United States of America,美国,United States of America,164603,0.0,5896,3170,,,,,,,2020-04-01
+140,North America,美国,United States of America,美国,United States of America,164603,0.0,5896,3170,,,,,,,2020-03-31
+2111,North America,美国,United States of America,美国,United States of America,143101,0.0,4865,2517,,,,,,,2020-03-30
+5222,North America,美国,United States of America,美国,United States of America,124686,0.0,2612,2191,,,,,,,2020-03-29
+6912,North America,美国,United States of America,美国,United States of America,105470,0.0,2072,1710,,,,,,,2020-03-28
+9314,North America,美国,United States of America,美国,United States of America,85840,0.0,713,1296,,,,,,,2020-03-27
+11822,North America,美国,United States of America,美国,United States of America,69194,0.0,619,1050,,,,,,,2020-03-26
+15792,North America,美国,United States of America,美国,United States of America,55243,0.0,354,802,,,,,,,2020-03-25
+17491,North America,美国,United States of America,美国,United States of America,46450,0.0,178,593,,,,,,,2020-03-24
+20827,North America,美国,United States of America,美国,United States of America,35360,0.0,178,473,,,,,,,2020-03-23
+23426,North America,美国,United States of America,美国,United States of America,26997,0.0,176,340,,,,,,,2020-03-22
+24925,North America,美国,United States of America,美国,United States of America,19624,0.0,147,260,,,,,,,2020-03-21
+25793,North America,美国,United States of America,美国,United States of America,14250,0.0,121,208,,,,,,,2020-03-20
+27046,North America,美国,United States of America,美国,United States of America,10259,0.0,106,153,,,,,,,2020-03-19
+29397,North America,美国,United States of America,美国,United States of America,6420,0.0,74,108,,,,,,,2020-03-18
+30805,North America,美国,United States of America,美国,United States of America,4661,0.0,48,90,,,,,,,2020-03-17
+32997,North America,美国,United States of America,美国,United States of America,3700,0.0,10,66,,,,,,,2020-03-16
+34183,North America,美国,United States of America,美国,United States of America,2885,0.0,10,60,,,,,,,2020-03-15
+35400,North America,美国,United States of America,美国,United States of America,2084,0.0,10,41,,,,,,,2020-03-14
+36301,North America,美国,United States of America,美国,United States of America,1635,0.0,10,39,,,,,,,2020-03-13
+37470,North America,美国,United States of America,美国,United States of America,1004,0.0,10,31,,,,,,,2020-03-12
+38563,North America,美国,United States of America,美国,United States of America,1004,0.0,10,31,,,,,,,2020-03-11
+39245,North America,美国,United States of America,美国,United States of America,704,0.0,10,26,,,,,,,2020-03-10
+40549,North America,美国,United States of America,美国,United States of America,572,0.0,10,21,,,,,,,2020-03-09
+41303,North America,美国,United States of America,美国,United States of America,445,0.0,10,19,,,,,,,2020-03-08
+42365,North America,美国,United States of America,美国,United States of America,324,0.0,10,14,,,,,,,2020-03-07
+43697,North America,美国,United States of America,美国,United States of America,232,0.0,3,14,,,,,,,2020-03-06
+44278,North America,美国,United States of America,美国,United States of America,153,0.0,3,11,,,,,,,2020-03-05
+45641,North America,美国,United States of America,美国,United States of America,122,0.0,3,9,,,,,,,2020-03-04
+47050,North America,美国,United States of America,美国,United States of America,100,0.0,3,6,,,,,,,2020-03-03
+48023,North America,美国,United States of America,美国,United States of America,77,0.0,3,1,,,,,,,2020-03-02
+49734,North America,美国,United States of America,美国,United States of America,63,0.0,3,1,,,,,,,2020-03-01
+50581,North America,美国,United States of America,美国,United States of America,63,0.0,3,0,,,,,,,2020-02-29
+52180,North America,美国,United States of America,美国,United States of America,60,0.0,3,0,,,,,,,2020-02-28
+52944,North America,美国,United States of America,美国,United States of America,60,0.0,3,0,,,,,,,2020-02-27
+54066,North America,美国,United States of America,美国,United States of America,57,0.0,3,0,,,,,,,2020-02-26
+56164,North America,美国,United States of America,美国,United States of America,53,0.0,3,0,,,,,,,2020-02-25
+57404,North America,美国,United States of America,美国,United States of America,35,0.0,3,0,,,,,,,2020-02-24
+59084,North America,美国,United States of America,美国,United States of America,35,0.0,3,0,,,,,,,2020-02-23
+59549,North America,美国,United States of America,美国,United States of America,35,0.0,3,0,,,,,,,2020-02-22
+64152,North America,美国,United States of America,美国,United States of America,15,0.0,3,0,,,,,,,2020-02-20
+69950,North America,美国,United States of America,美国,United States of America,15,0.0,3,0,,,,,,,2020-02-17
+70035,North America,美国,United States of America,美国,United States of America,15,0.0,3,0,,,,,,,2020-02-16
+72863,North America,美国,United States of America,美国,United States of America,15,0.0,3,0,,,,,,,2020-02-15
+73947,North America,美国,United States of America,美国,United States of America,15,0.0,3,0,,,,,,,2020-02-14
+76221,North America,美国,United States of America,美国,United States of America,14,0.0,3,0,,,,,,,2020-02-13
+78351,North America,美国,United States of America,美国,United States of America,13,0.0,3,0,,,,,,,2020-02-12
+80653,North America,美国,United States of America,美国,United States of America,13,0.0,0,0,,,,,,,2020-02-11
+82553,North America,美国,United States of America,美国,United States of America,12,0.0,0,0,,,,,,,2020-02-10
+93977,North America,美国,United States of America,美国,United States of America,12,0.0,0,0,,,,,,,2020-02-06
+98517,North America,美国,United States of America,美国,United States of America,11,0.0,0,0,,,,,,,2020-02-04
+100100,North America,美国,United States of America,美国,United States of America,9,0.0,0,0,,,,,,,2020-02-03
+101836,North America,美国,United States of America,美国,United States of America,8,0.0,0,0,,,,,,,2020-02-02
+103888,North America,美国,United States of America,美国,United States of America,6,0.0,0,0,,,,,,,2020-02-01
+105421,,美国,United States of America,美国,United States of America,6,0.0,0,0,,,,,,,2020-01-31
+108740,,美国,United States of America,美国,United States of America,5,0.0,0,0,,,,,,,2020-01-27

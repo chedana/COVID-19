@@ -1,7 +1,9 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-240,Asia,缅甸,Burma,8,0.0,0,0,2020-03-29
-1250,Asia,缅甸,Burma,8,0.0,0,0,2020-03-28
-3272,Asia,缅甸,Burma,5,0.0,0,0,2020-03-27
-5775,Asia,缅甸,Burma,3,0.0,0,0,2020-03-26
-10013,Asia,缅甸,Burma,2,0.0,0,0,2020-03-25
-11454,Asia,缅甸,Burma,2,0.0,0,0,2020-03-24
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+251,Asia,缅甸,Burma,缅甸,Burma,15,0.0,0,1,,,,,,,2020-03-31
+2201,Asia,缅甸,Burma,缅甸,Burma,14,0.0,0,0,,,,,,,2020-03-30
+5978,Asia,缅甸,Burma,缅甸,Burma,8,0.0,0,0,,,,,,,2020-03-29
+7459,Asia,缅甸,Burma,缅甸,Burma,8,0.0,0,0,,,,,,,2020-03-28
+9481,Asia,缅甸,Burma,缅甸,Burma,5,0.0,0,0,,,,,,,2020-03-27
+11984,Asia,缅甸,Burma,缅甸,Burma,3,0.0,0,0,,,,,,,2020-03-26
+16222,Asia,缅甸,Burma,缅甸,Burma,2,0.0,0,0,,,,,,,2020-03-25
+17663,Asia,缅甸,Burma,缅甸,Burma,2,0.0,0,0,,,,,,,2020-03-24

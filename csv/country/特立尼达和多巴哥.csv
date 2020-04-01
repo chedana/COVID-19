@@ -1,18 +1,20 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-207,North America,特立尼达和多巴哥,Trinidad and Tobago,66,0.0,0,2,2020-03-29
-1226,North America,特立尼达和多巴哥,Trinidad and Tobago,61,0.0,0,1,2020-03-28
-3212,North America,特立尼达和多巴哥,Trinidad and Tobago,60,0.0,0,1,2020-03-27
-5715,North America,特立尼达和多巴哥,Trinidad and Tobago,57,0.0,0,0,2020-03-26
-9938,North America,特立尼达和多巴哥,Trinidad and Tobago,51,0.0,0,0,2020-03-25
-11381,North America,特立尼达和多巴哥,Trinidad and Tobago,50,0.0,0,0,2020-03-24
-14749,North America,特立尼达和多巴哥,Trinidad and Tobago,9,0.0,0,0,2020-03-23
-17407,North America,特立尼达和多巴哥,Trinidad and Tobago,9,0.0,0,0,2020-03-22
-18838,North America,特立尼达和多巴哥,Trinidad and Tobago,9,0.0,0,0,2020-03-21
-19703,North America,特立尼达和多巴哥,Trinidad and Tobago,7,0.0,0,0,2020-03-20
-20961,North America,特立尼达和多巴哥,Trinidad and Tobago,5,0.0,0,0,2020-03-19
-23298,North America,特立尼达和多巴哥,Trinidad and Tobago,5,0.0,0,0,2020-03-18
-24702,North America,特立尼达和多巴哥,Trinidad and Tobago,2,0.0,0,0,2020-03-17
-27054,North America,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,2020-03-16
-28149,North America,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,2020-03-15
-29615,North America,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,2020-03-14
-30416,North America,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,2020-03-13
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+368,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,76,0.0,0,3,,,,,,,2020-03-31
+2312,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,74,0.0,0,2,,,,,,,2020-03-30
+5930,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,66,0.0,0,2,,,,,,,2020-03-29
+7435,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,61,0.0,0,1,,,,,,,2020-03-28
+9421,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,60,0.0,0,1,,,,,,,2020-03-27
+11924,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,57,0.0,0,0,,,,,,,2020-03-26
+16147,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,51,0.0,0,0,,,,,,,2020-03-25
+17590,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,50,0.0,0,0,,,,,,,2020-03-24
+20958,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,9,0.0,0,0,,,,,,,2020-03-23
+23616,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,9,0.0,0,0,,,,,,,2020-03-22
+25047,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,9,0.0,0,0,,,,,,,2020-03-21
+25912,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,7,0.0,0,0,,,,,,,2020-03-20
+27170,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,5,0.0,0,0,,,,,,,2020-03-19
+29507,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,5,0.0,0,0,,,,,,,2020-03-18
+30911,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,2,0.0,0,0,,,,,,,2020-03-17
+33263,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,,,,,,,2020-03-16
+34358,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,,,,,,,2020-03-15
+35824,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,,,,,,,2020-03-14
+36625,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,1,0.0,0,0,,,,,,,2020-03-13

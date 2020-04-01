@@ -1,18 +1,20 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-219,South America,法属圭亚那,French Guiana,31,0.0,0,0,2020-03-29
-1413,South America,法属圭亚那,French Guiana,28,0.0,0,0,2020-03-28
-3228,South America,法属圭亚那,French Guiana,28,0.0,0,0,2020-03-27
-5736,South America,法属圭亚那,French Guiana,23,0.0,0,0,2020-03-26
-9956,South America,法属圭亚那,French Guiana,20,0.0,0,0,2020-03-25
-11403,South America,法属圭亚那,French Guiana,18,0.0,0,0,2020-03-24
-14739,South America,法属圭亚那,French Guiana,15,0.0,0,0,2020-03-23
-17397,South America,法属圭亚那,French Guiana,15,0.0,0,0,2020-03-22
-18824,South America,法属圭亚那,French Guiana,15,0.0,0,0,2020-03-21
-19696,South America,法属圭亚那,French Guiana,11,0.0,0,0,2020-03-20
-20957,South America,法属圭亚那,French Guiana,7,0.0,0,0,2020-03-19
-23293,South America,法属圭亚那,French Guiana,7,0.0,0,0,2020-03-18
-24693,South America,法属圭亚那,French Guiana,7,0.0,0,0,2020-03-17
-27022,South America,法属圭亚那,French Guiana,5,0.0,0,0,2020-03-16
-28120,South America,法属圭亚那,French Guiana,5,0.0,0,0,2020-03-15
-29223,South America,法属圭亚那,French Guiana,5,0.0,0,0,2020-03-14
-30149,South America,法属圭亚那,French Guiana,5,0.0,0,0,2020-03-13
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+387,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,31,0.0,0,0,,,,,,,2020-03-31
+2333,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,31,0.0,0,0,,,,,,,2020-03-30
+5946,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,31,0.0,0,0,,,,,,,2020-03-29
+7622,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,28,0.0,0,0,,,,,,,2020-03-28
+9437,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,28,0.0,0,0,,,,,,,2020-03-27
+11945,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,23,0.0,0,0,,,,,,,2020-03-26
+16165,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,20,0.0,0,0,,,,,,,2020-03-25
+17612,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,18,0.0,0,0,,,,,,,2020-03-24
+20948,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,15,0.0,0,0,,,,,,,2020-03-23
+23606,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,15,0.0,0,0,,,,,,,2020-03-22
+25033,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,15,0.0,0,0,,,,,,,2020-03-21
+25905,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,11,0.0,0,0,,,,,,,2020-03-20
+27166,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,7,0.0,0,0,,,,,,,2020-03-19
+29502,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,7,0.0,0,0,,,,,,,2020-03-18
+30902,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,7,0.0,0,0,,,,,,,2020-03-17
+33231,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,5,0.0,0,0,,,,,,,2020-03-16
+34329,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,5,0.0,0,0,,,,,,,2020-03-15
+35432,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,5,0.0,0,0,,,,,,,2020-03-14
+36358,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,5,0.0,0,0,,,,,,,2020-03-13

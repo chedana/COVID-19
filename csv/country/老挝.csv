@@ -1,6 +1,9 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1455,Asia,老挝,Laos,6,0.0,0,0,2020-03-28
-3264,Asia,老挝,Laos,6,0.0,0,0,2020-03-27
-5761,Asia,老挝,Laos,6,0.0,0,0,2020-03-26
-10006,Asia,老挝,Laos,3,0.0,0,0,2020-03-25
-11455,Asia,老挝,Laos,2,0.0,0,0,2020-03-24
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+1140,Asia,老挝,Laos,老挝,Laos,6,0.0,0,0,,,,,,,2020-03-31
+2374,Asia,老挝,Laos,老挝,Laos,6,0.0,0,0,,,,,,,2020-03-30
+5988,Asia,老挝,Laos,老挝,Laos,6,0.0,0,0,,,,,,,2020-03-29
+7664,Asia,老挝,Laos,老挝,Laos,6,0.0,0,0,,,,,,,2020-03-28
+9473,Asia,老挝,Laos,老挝,Laos,6,0.0,0,0,,,,,,,2020-03-27
+11970,Asia,老挝,Laos,老挝,Laos,6,0.0,0,0,,,,,,,2020-03-26
+16215,Asia,老挝,Laos,老挝,Laos,3,0.0,0,0,,,,,,,2020-03-25
+17664,Asia,老挝,Laos,老挝,Laos,2,0.0,0,0,,,,,,,2020-03-24

@@ -1,6 +1,9 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1251,North America,格林那达,,7,0.0,0,0,2020-03-28
-3299,North America,格林那达,,1,0.0,0,0,2020-03-27
-6984,North America,格林那达,,1,0.0,0,0,2020-03-26
-10025,North America,格林那达,,1,0.0,0,0,2020-03-25
-11472,North America,格林那达,,1,0.0,0,0,2020-03-24
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+420,North America,格林那达,,格林那达,,7,0.0,0,0,,,,,,,2020-03-31
+2366,North America,格林那达,,格林那达,,7,0.0,0,0,,,,,,,2020-03-30
+5981,North America,格林那达,,格林那达,,7,0.0,0,0,,,,,,,2020-03-29
+7460,North America,格林那达,,格林那达,,7,0.0,0,0,,,,,,,2020-03-28
+9508,North America,格林那达,,格林那达,,1,0.0,0,0,,,,,,,2020-03-27
+13193,North America,格林那达,,格林那达,,1,0.0,0,0,,,,,,,2020-03-26
+16234,North America,格林那达,,格林那达,,1,0.0,0,0,,,,,,,2020-03-25
+17681,North America,格林那达,,格林那达,,1,0.0,0,0,,,,,,,2020-03-24

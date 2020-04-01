@@ -1,16 +1,18 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-243,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,5,0.0,0,0,2020-03-29
-1465,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0,2020-03-28
-3279,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0,2020-03-27
-5582,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0,2020-03-26
-10011,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,2020-03-25
-11445,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,2020-03-24
-14775,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,2020-03-23
-17798,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,2020-03-22
-18865,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,2020-03-21
-19728,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,2020-03-20
-20993,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,2020-03-19
-23331,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,2020-03-18
-24982,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,2020-03-17
-27064,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,2020-03-16
-28163,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,2020-03-15
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+432,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,5,0.0,2,0,,,,,,,2020-03-31
+2383,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,5,0.0,2,0,,,,,,,2020-03-30
+5989,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,5,0.0,0,0,,,,,,,2020-03-29
+7674,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0,,,,,,,2020-03-28
+9488,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0,,,,,,,2020-03-27
+11791,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,3,0.0,0,0,,,,,,,2020-03-26
+16220,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,,,,,,,2020-03-25
+17654,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,,,,,,,2020-03-24
+20984,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,,,,,,,2020-03-23
+24007,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,,,,,,,2020-03-22
+25074,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,,,,,,,2020-03-21
+25937,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,2,0.0,0,0,,,,,,,2020-03-20
+27202,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,,,,,,,2020-03-19
+29540,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,,,,,,,2020-03-18
+31191,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,,,,,,,2020-03-17
+33273,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,,,,,,,2020-03-16
+34372,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,1,0.0,0,0,,,,,,,2020-03-15

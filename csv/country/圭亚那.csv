@@ -1,18 +1,19 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1460,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-28
-3273,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-27
-6949,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-26
-9988,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-25
-11429,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-24
-14757,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-23
-17781,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-22
-18849,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-21
-19714,South America,圭亚那,Guyana,5,0.0,0,1,2020-03-20
-20967,South America,圭亚那,Guyana,4,0.0,0,1,2020-03-19
-23302,South America,圭亚那,Guyana,4,0.0,0,1,2020-03-18
-24956,South America,圭亚那,Guyana,4,0.0,0,1,2020-03-17
-27032,South America,圭亚那,Guyana,4,0.0,0,1,2020-03-16
-28168,South America,圭亚那,Guyana,1,0.0,0,1,2020-03-15
-29626,South America,圭亚那,Guyana,1,0.0,0,1,2020-03-14
-30418,South America,圭亚那,Guyana,1,0.0,0,1,2020-03-13
-31056,South America,圭亚那,Guyana,1,0.0,0,1,2020-03-12
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+2382,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-30
+7669,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-28
+9482,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-27
+13158,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-26
+16197,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-25
+17638,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-24
+20966,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-23
+23990,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-22
+25058,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-21
+25923,South America,圭亚那,Guyana,圭亚那,Guyana,5,0.0,0,1,,,,,,,2020-03-20
+27176,South America,圭亚那,Guyana,圭亚那,Guyana,4,0.0,0,1,,,,,,,2020-03-19
+29511,South America,圭亚那,Guyana,圭亚那,Guyana,4,0.0,0,1,,,,,,,2020-03-18
+31165,South America,圭亚那,Guyana,圭亚那,Guyana,4,0.0,0,1,,,,,,,2020-03-17
+33241,South America,圭亚那,Guyana,圭亚那,Guyana,4,0.0,0,1,,,,,,,2020-03-16
+34377,South America,圭亚那,Guyana,圭亚那,Guyana,1,0.0,0,1,,,,,,,2020-03-15
+35835,South America,圭亚那,Guyana,圭亚那,Guyana,1,0.0,0,1,,,,,,,2020-03-14
+36627,South America,圭亚那,Guyana,圭亚那,Guyana,1,0.0,0,1,,,,,,,2020-03-13
+37265,South America,圭亚那,Guyana,圭亚那,Guyana,1,0.0,0,1,,,,,,,2020-03-12

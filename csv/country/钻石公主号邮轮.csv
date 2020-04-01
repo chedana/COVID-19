@@ -1,44 +1,46 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-36,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,2020-03-29
-773,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,2020-03-28
-3035,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,2020-03-27
-5695,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,2020-03-26
-9818,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,2020-03-25
-11354,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,2020-03-24
-14687,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,2020-03-23
-17689,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,2020-03-22
-18758,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,2020-03-21
-19622,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,2020-03-20
-20874,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,2020-03-19
-23210,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,2020-03-18
-24865,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,2020-03-17
-26793,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,2020-03-16
-28046,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,2020-03-15
-29522,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,2020-03-14
-30330,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,2020-03-13
-31002,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,2020-03-12
-32066,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,427,7,2020-03-11
-33001,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,427,6,2020-03-10
-34943,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,2020-03-09
-35853,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,2020-03-08
-36288,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,2020-03-07
-37483,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,2020-03-06
-38779,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,2020-03-05
-40003,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,2020-03-04
-40838,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,2020-03-03
-41683,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,2020-03-02
-43520,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,6,2020-03-01
-44369,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,6,2020-02-29
-45245,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,5,2020-02-28
-46731,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,4,2020-02-27
-47855,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,4,2020-02-26
-50424,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3,2020-02-25
-51190,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3,2020-02-24
-51583,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3,2020-02-23
-54452,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,2020-02-22
-55808,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,2020-02-21
-56497,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,2020-02-20
-58190,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,621,0.0,0,0,2020-02-19
-59862,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,542,0.0,0,0,2020-02-18
-62390,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,454,0.0,0,0,2020-02-17
-63819,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,355,0.0,0,0,2020-02-16
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+135,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-31
+2170,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-30
+5114,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-29
+6982,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-28
+9244,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-27
+11904,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-26
+16027,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-25
+17563,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-24
+20896,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,574,10,,,,,,,2020-03-23
+23898,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,,,,,,,2020-03-22
+24967,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,,,,,,,2020-03-21
+25831,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,,,,,,,2020-03-20
+27083,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,,,,,,,2020-03-19
+29419,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,,,,,,,2020-03-18
+31074,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,,,,,,,2020-03-17
+33002,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,712,0.0,458,7,,,,,,,2020-03-16
+34255,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,,,,,,,2020-03-15
+35731,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,,,,,,,2020-03-14
+36539,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,,,,,,,2020-03-13
+37211,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,697,0.0,427,7,,,,,,,2020-03-12
+38275,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,427,7,,,,,,,2020-03-11
+39210,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,427,6,,,,,,,2020-03-10
+41152,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,,,,,,,2020-03-09
+42062,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,,,,,,,2020-03-08
+42497,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,,,,,,,2020-03-07
+43692,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,696,0.0,0,6,,,,,,,2020-03-06
+44988,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,,,,,,,2020-03-05
+46212,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,,,,,,,2020-03-04
+47047,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,,,,,,,2020-03-03
+47892,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,,,,,,,2020-03-02
+49729,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,6,,,,,,,2020-03-01
+50578,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,6,,,,,,,2020-02-29
+51454,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,5,,,,,,,2020-02-28
+52940,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,4,,,,,,,2020-02-27
+54064,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,705,0.0,0,4,,,,,,,2020-02-26
+56633,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3,,,,,,,2020-02-25
+57399,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3,,,,,,,2020-02-24
+57792,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3,,,,,,,2020-02-23
+60661,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,,,,,,,2020-02-22
+62017,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,,,,,,,2020-02-21
+62706,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,,,,,,,2020-02-20
+64399,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,621,0.0,0,0,,,,,,,2020-02-19
+66071,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,542,0.0,0,0,,,,,,,2020-02-18
+68599,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,454,0.0,0,0,,,,,,,2020-02-17
+70028,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,355,0.0,0,0,,,,,,,2020-02-16

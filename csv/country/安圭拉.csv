@@ -1,2 +1,5 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1264,North America,安圭拉,,2,0.0,0,0,2020-03-28
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+441,North America,安圭拉,,安圭拉,,2,0.0,0,0,,,,,,,2020-03-31
+2396,North America,安圭拉,,安圭拉,,2,0.0,0,0,,,,,,,2020-03-30
+6004,North America,安圭拉,,安圭拉,,2,0.0,0,0,,,,,,,2020-03-29
+7473,North America,安圭拉,,安圭拉,,2,0.0,0,0,,,,,,,2020-03-28

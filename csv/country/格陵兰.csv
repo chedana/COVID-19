@@ -1,15 +1,17 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-237,North America,格陵兰,,9,0.0,0,0,2020-03-29
-1255,North America,格陵兰,,6,0.0,0,0,2020-03-28
-3268,North America,格陵兰,,5,0.0,0,0,2020-03-27
-5769,North America,格陵兰,,4,0.0,0,0,2020-03-26
-9994,North America,格陵兰,,4,0.0,0,0,2020-03-25
-11446,North America,格陵兰,,2,0.0,0,0,2020-03-24
-14776,North America,格陵兰,,2,0.0,0,0,2020-03-23
-17427,North America,格陵兰,,2,0.0,0,0,2020-03-22
-18866,North America,格陵兰,,2,0.0,0,0,2020-03-21
-19729,North America,格陵兰,,2,0.0,0,0,2020-03-20
-20999,North America,格陵兰,,1,0.0,0,0,2020-03-19
-23338,North America,格陵兰,,1,0.0,0,0,2020-03-18
-24989,North America,格陵兰,,1,0.0,0,0,2020-03-17
-26658,North America,格陵兰,,1,0.0,0,0,2020-03-16
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+412,North America,格陵兰,,格陵兰,,10,0.0,0,0,,,,,,,2020-03-31
+2355,North America,格陵兰,,格陵兰,,10,0.0,0,0,,,,,,,2020-03-30
+5974,North America,格陵兰,,格陵兰,,9,0.0,0,0,,,,,,,2020-03-29
+7464,North America,格陵兰,,格陵兰,,6,0.0,0,0,,,,,,,2020-03-28
+9477,North America,格陵兰,,格陵兰,,5,0.0,0,0,,,,,,,2020-03-27
+11978,North America,格陵兰,,格陵兰,,4,0.0,0,0,,,,,,,2020-03-26
+16203,North America,格陵兰,,格陵兰,,4,0.0,0,0,,,,,,,2020-03-25
+17655,North America,格陵兰,,格陵兰,,2,0.0,0,0,,,,,,,2020-03-24
+20985,North America,格陵兰,,格陵兰,,2,0.0,0,0,,,,,,,2020-03-23
+23636,North America,格陵兰,,格陵兰,,2,0.0,0,0,,,,,,,2020-03-22
+25075,North America,格陵兰,,格陵兰,,2,0.0,0,0,,,,,,,2020-03-21
+25938,North America,格陵兰,,格陵兰,,2,0.0,0,0,,,,,,,2020-03-20
+27208,North America,格陵兰,,格陵兰,,1,0.0,0,0,,,,,,,2020-03-19
+29547,North America,格陵兰,,格陵兰,,1,0.0,0,0,,,,,,,2020-03-18
+31198,North America,格陵兰,,格陵兰,,1,0.0,0,0,,,,,,,2020-03-17
+32867,North America,格陵兰,,格陵兰,,1,0.0,0,0,,,,,,,2020-03-16

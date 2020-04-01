@@ -1,0 +1,20 @@
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
+17474,Asia,中国,China,天津市,Tianjin,145,0.0,133,3
+17500,Asia,中国,China,中国,China,81806,0.0,73303,3283
+17682,Asia,中国,China,甘肃省,Gansu,136,0.0,119,2
+17894,Asia,中国,China,湖北省,Hubei,67801,0.0,60324,3160
+18428,Asia,中国,China,香港,Hong Kong,386,0.0,101,4
+18689,Asia,中国,China,上海市,Shanghai,414,0.0,330,4
+19132,Asia,中国,China,台湾,Taiwan,215,0.0,29,2
+19134,Asia,中国,China,北京市,Beijing,558,0.0,401,8
+19527,Asia,中国,China,海南省,Hainan,168,0.0,168,6
+19765,Asia,中国,China,浙江省,Zhejiang,1240,0.0,1221,1
+19778,Asia,中国,China,澳门,Macau,25,0.0,10,0
+19779,Asia,中国,China,江苏省,Jiangsu,636,0.0,631,0
+19953,Asia,中国,China,陕西省,Shaanxi,249,0.0,240,3
+20117,Asia,中国,China,广东省,Guangdong,1428,0.0,1333,8
+20269,Asia,中国,China,福建省,Fujian,318,0.0,295,1
+20279,Asia,中国,China,四川省,Sichuan,545,0.0,536,3
+20325,Asia,中国,China,黑龙江省,Heilongjiang,484,0.0,468,13
+20347,Asia,中国,China,重庆市,Chongqing,578,1.0,570,6
+20391,Asia,中国,China,山西省,Shanxi,134,0.0,133,0

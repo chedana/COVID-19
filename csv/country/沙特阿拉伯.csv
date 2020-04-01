@@ -1,28 +1,30 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-141,Asia,沙特阿拉伯,Saudi Arabia,1203,0.0,37,4,2020-03-29
-727,Asia,沙特阿拉伯,Saudi Arabia,1203,0.0,37,4,2020-03-28
-3027,Asia,沙特阿拉伯,Saudi Arabia,1104,0.0,29,3,2020-03-27
-5583,Asia,沙特阿拉伯,Saudi Arabia,1012,0.0,29,3,2020-03-26
-9598,Asia,沙特阿拉伯,Saudi Arabia,900,0.0,29,2,2020-03-25
-11310,Asia,沙特阿拉伯,Saudi Arabia,767,0.0,28,1,2020-03-24
-14652,Asia,沙特阿拉伯,Saudi Arabia,511,0.0,16,0,2020-03-23
-17225,Asia,沙特阿拉伯,Saudi Arabia,511,0.0,16,0,2020-03-22
-18748,Asia,沙特阿拉伯,Saudi Arabia,392,0.0,16,0,2020-03-21
-19617,Asia,沙特阿拉伯,Saudi Arabia,274,0.0,6,0,2020-03-20
-20876,Asia,沙特阿拉伯,Saudi Arabia,238,0.0,6,0,2020-03-19
-22775,Asia,沙特阿拉伯,Saudi Arabia,171,0.0,6,0,2020-03-18
-24881,Asia,沙特阿拉伯,Saudi Arabia,133,0.0,6,0,2020-03-17
-26966,Asia,沙特阿拉伯,Saudi Arabia,103,0.0,1,0,2020-03-16
-28064,Asia,沙特阿拉伯,Saudi Arabia,103,0.0,1,0,2020-03-15
-29261,Asia,沙特阿拉伯,Saudi Arabia,86,0.0,1,0,2020-03-14
-30350,Asia,沙特阿拉伯,Saudi Arabia,62,0.0,1,0,2020-03-13
-31043,Asia,沙特阿拉伯,Saudi Arabia,45,0.0,0,0,2020-03-12
-32090,Asia,沙特阿拉伯,Saudi Arabia,21,0.0,0,0,2020-03-11
-33068,Asia,沙特阿拉伯,Saudi Arabia,20,0.0,0,0,2020-03-10
-34606,Asia,沙特阿拉伯,Saudi Arabia,7,0.0,0,0,2020-03-09
-35128,Asia,沙特阿拉伯,Saudi Arabia,7,0.0,0,0,2020-03-08
-36769,Asia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0,2020-03-07
-37854,Asia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0,2020-03-06
-38096,Asia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0,2020-03-05
-39683,Asia,沙特阿拉伯,Saudi Arabia,1,0.0,0,0,2020-03-04
-40851,Asia,沙特阿拉伯,Saudi Arabia,1,0.0,0,0,2020-03-03
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+175,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1563,0.0,165,10,,,,,,,2020-03-31
+2129,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1453,0.0,115,8,,,,,,,2020-03-30
+5197,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1299,0.0,66,8,,,,,,,2020-03-29
+6936,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1203,0.0,37,4,,,,,,,2020-03-28
+9236,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1104,0.0,29,3,,,,,,,2020-03-27
+11792,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1012,0.0,29,3,,,,,,,2020-03-26
+15807,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,900,0.0,29,2,,,,,,,2020-03-25
+17519,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,767,0.0,28,1,,,,,,,2020-03-24
+20861,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,511,0.0,16,0,,,,,,,2020-03-23
+23434,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,511,0.0,16,0,,,,,,,2020-03-22
+24957,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,392,0.0,16,0,,,,,,,2020-03-21
+25826,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,274,0.0,6,0,,,,,,,2020-03-20
+27085,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,238,0.0,6,0,,,,,,,2020-03-19
+28984,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,171,0.0,6,0,,,,,,,2020-03-18
+31090,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,133,0.0,6,0,,,,,,,2020-03-17
+33175,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,103,0.0,1,0,,,,,,,2020-03-16
+34273,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,103,0.0,1,0,,,,,,,2020-03-15
+35470,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,86,0.0,1,0,,,,,,,2020-03-14
+36559,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,62,0.0,1,0,,,,,,,2020-03-13
+37252,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,45,0.0,0,0,,,,,,,2020-03-12
+38299,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,21,0.0,0,0,,,,,,,2020-03-11
+39277,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,20,0.0,0,0,,,,,,,2020-03-10
+40815,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,7,0.0,0,0,,,,,,,2020-03-09
+41337,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,7,0.0,0,0,,,,,,,2020-03-08
+42978,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0,,,,,,,2020-03-07
+44063,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0,,,,,,,2020-03-06
+44305,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,2,0.0,0,0,,,,,,,2020-03-05
+45892,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1,0.0,0,0,,,,,,,2020-03-04
+47060,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1,0.0,0,0,,,,,,,2020-03-03

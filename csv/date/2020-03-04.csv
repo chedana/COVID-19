@@ -1,62 +1,62 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-39425,Asia,韩国,Korea,5621,0.0,41,33
-39426,Asia,伊朗,Iran,2922,0.0,552,92
-39427,Europe,意大利,Italy,2502,0.0,160,79
-39428,Asia,日本,Japan,304,0.0,46,6
-39429,Europe,德国,Germany,240,0.0,14,0
-39430,Europe,法国,France,212,0.0,12,4
-39431,Europe,西班牙,Spain,165,0.0,2,1
-39432,North America,美国,United States of America,122,0.0,3,9
-39433,Europe,瑞士,Switzerland,58,0.0,2,0
-39434,Asia,巴林,Bahrain,49,0.0,0,0
-39435,Europe,英国,United Kingdom,51,0.0,8,0
-39436,Asia,新加坡,Singapore,110,0.0,74,0
-39437,Europe,挪威,Norway,33,0.0,0,0
-39438,Asia,伊拉克,Iraq,32,0.0,0,1
-39439,Europe,瑞典,Sweden,30,0.0,0,0
-39440,Asia,马来西亚,Malaysia,50,0.0,22,0
-39441,North America,加拿大,Canada,30,0.0,4,0
-39442,Europe,奥地利,Austria,24,0.0,0,0
-39443,Europe,荷兰,Netherlands,24,0.0,0,0
-39444,Asia,阿联酋,United Arab Emirates,27,0.0,5,0
-39445,Oceania,澳大利亚,Australia,41,0.0,21,1
-39446,Europe,冰岛,Iceland,14,0.0,0,0
-39447,Asia,印度,India,15,0.0,3,0
-39448,Asia,阿曼,Oman,12,0.0,2,0
-39449,Europe,丹麦,Denmark,10,0.0,0,0
-39450,South America,厄瓜多尔,Ecuador,7,0.0,0,0
-39451,Europe,捷克,Czech Republic,5,0.0,0,0
-39452,Europe,白俄罗斯,Belarus,4,0.0,0,0
-39453,Europe,罗马尼亚,Romania,4,0.0,1,0
-39454,Oceania,新西兰,New Zealand,2,0.0,0,0
-39455,Europe,爱尔兰,Ireland,2,0.0,0,0
-39456,Europe,葡萄牙,Portugal,2,0.0,0,0
-39457,Africa,塞内加尔,Senegal,1,0.0,0,0
-39458,Africa,摩洛哥,Morocco,1,0.0,0,0
-39459,Asia,约旦,Jordan,1,0.0,0,0
-39460,South America,智利,Chile,1,0.0,0,0
-39461,South America,阿根廷,Argentina,1,0.0,0,0
-39462,Europe,列支敦士登,Liechtenstein,1,0.0,0,0
-39463,Africa,突尼斯,Tunisia,1,0.0,0,0
-39464,Europe,拉脱维亚,Latvia,1,0.0,0,0
-39465,Europe,波兰,Poland,1,0.0,0,0
-39652,Asia,科威特,Kuwait,56,0.0,0,0
-39667,Europe,比利时,Belgium,13,0.0,1,0
-39668,Asia,黎巴嫩,Lebanon,10,0.0,0,0
-39671,Europe,克罗地亚,Croatia,9,0.0,0,0
-39672,Asia,卡塔尔,Qatar,7,0.0,0,0
-39674,Asia,巴基斯坦,Pakistan,5,0.0,0,0
-39677,North America,墨西哥,Mexico,5,0.0,1,0
-39683,Asia,沙特阿拉伯,Saudi Arabia,1,0.0,0,0
-39684,Europe,乌克兰,Ukraine,1,0.0,0,0
-40003,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6
-40023,Asia,泰国,Thailand,43,0.0,31,1
-40026,Asia,以色列,Israel,10,0.0,1,0
-40029,Europe,希腊,Greece,7,0.0,0,0
-40033,Europe,芬兰,Finland,6,0.0,1,0
-40039,Asia,格鲁吉亚,Georgia,3,0.0,0,0
-40041,Asia,印度尼西亚,Indonesia,2,0.0,0,0
-40043,Africa,埃及,Egypt,2,0.0,1,0
-40044,Asia,亚美尼亚,Armenia,1,0.0,0,0
-40045,North America,多米尼加,Dominican Republic,1,0.0,0,0
-40046,Europe,安道尔,Andorra,1,0.0,0,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+45634,Asia,韩国,Korea,韩国,Korea,5621,0.0,41,33,,,,,,
+45635,Asia,伊朗,Iran,伊朗,Iran,2922,0.0,552,92,,,,,,
+45636,Europe,意大利,Italy,意大利,Italy,2502,0.0,160,79,,,,,,
+45637,Asia,日本,Japan,日本,Japan,304,0.0,46,6,,,,,,
+45638,Europe,德国,Germany,德国,Germany,240,0.0,14,0,,,,,,
+45639,Europe,法国,France,法国,France,212,0.0,12,4,,,,,,
+45640,Europe,西班牙,Spain,西班牙,Spain,165,0.0,2,1,,,,,,
+45641,North America,美国,United States of America,美国,United States of America,122,0.0,3,9,,,,,,
+45642,Europe,瑞士,Switzerland,瑞士,Switzerland,58,0.0,2,0,,,,,,
+45643,Asia,巴林,Bahrain,巴林,Bahrain,49,0.0,0,0,,,,,,
+45644,Europe,英国,United Kingdom,英国,United Kingdom,51,0.0,8,0,,,,,,
+45645,Asia,新加坡,Singapore,新加坡,Singapore,110,0.0,74,0,,,,,,
+45646,Europe,挪威,Norway,挪威,Norway,33,0.0,0,0,,,,,,
+45647,Asia,伊拉克,Iraq,伊拉克,Iraq,32,0.0,0,1,,,,,,
+45648,Europe,瑞典,Sweden,瑞典,Sweden,30,0.0,0,0,,,,,,
+45649,Asia,马来西亚,Malaysia,马来西亚,Malaysia,50,0.0,22,0,,,,,,
+45650,North America,加拿大,Canada,加拿大,Canada,30,0.0,4,0,,,,,,
+45651,Europe,奥地利,Austria,奥地利,Austria,24,0.0,0,0,,,,,,
+45652,Europe,荷兰,Netherlands,荷兰,Netherlands,24,0.0,0,0,,,,,,
+45653,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,27,0.0,5,0,,,,,,
+45654,Oceania,澳大利亚,Australia,澳大利亚,Australia,41,0.0,21,1,,,,,,
+45655,Europe,冰岛,Iceland,冰岛,Iceland,14,0.0,0,0,,,,,,
+45656,Asia,印度,India,印度,India,15,0.0,3,0,,,,,,
+45657,Asia,阿曼,Oman,阿曼,Oman,12,0.0,2,0,,,,,,
+45658,Europe,丹麦,Denmark,丹麦,Denmark,10,0.0,0,0,,,,,,
+45659,South America,厄瓜多尔,Ecuador,厄瓜多尔,Ecuador,7,0.0,0,0,,,,,,
+45660,Europe,捷克,Czech Republic,捷克,Czech Republic,5,0.0,0,0,,,,,,
+45661,Europe,白俄罗斯,Belarus,白俄罗斯,Belarus,4,0.0,0,0,,,,,,
+45662,Europe,罗马尼亚,Romania,罗马尼亚,Romania,4,0.0,1,0,,,,,,
+45663,Oceania,新西兰,New Zealand,新西兰,New Zealand,2,0.0,0,0,,,,,,
+45664,Europe,爱尔兰,Ireland,爱尔兰,Ireland,2,0.0,0,0,,,,,,
+45665,Europe,葡萄牙,Portugal,葡萄牙,Portugal,2,0.0,0,0,,,,,,
+45666,Africa,塞内加尔,Senegal,塞内加尔,Senegal,1,0.0,0,0,,,,,,
+45667,Africa,摩洛哥,Morocco,摩洛哥,Morocco,1,0.0,0,0,,,,,,
+45668,Asia,约旦,Jordan,约旦,Jordan,1,0.0,0,0,,,,,,
+45669,South America,智利,Chile,智利,Chile,1,0.0,0,0,,,,,,
+45670,South America,阿根廷,Argentina,阿根廷,Argentina,1,0.0,0,0,,,,,,
+45671,Europe,列支敦士登,Liechtenstein,列支敦士登,Liechtenstein,1,0.0,0,0,,,,,,
+45672,Africa,突尼斯,Tunisia,突尼斯,Tunisia,1,0.0,0,0,,,,,,
+45673,Europe,拉脱维亚,Latvia,拉脱维亚,Latvia,1,0.0,0,0,,,,,,
+45674,Europe,波兰,Poland,波兰,Poland,1,0.0,0,0,,,,,,
+45861,Asia,科威特,Kuwait,科威特,Kuwait,56,0.0,0,0,,,,,,
+45876,Europe,比利时,Belgium,比利时,Belgium,13,0.0,1,0,,,,,,
+45877,Asia,黎巴嫩,Lebanon,黎巴嫩,Lebanon,10,0.0,0,0,,,,,,
+45880,Europe,克罗地亚,Croatia,克罗地亚,Croatia,9,0.0,0,0,,,,,,
+45881,Asia,卡塔尔,Qatar,卡塔尔,Qatar,7,0.0,0,0,,,,,,
+45883,Asia,巴基斯坦,Pakistan,巴基斯坦,Pakistan,5,0.0,0,0,,,,,,
+45886,North America,墨西哥,Mexico,墨西哥,Mexico,5,0.0,1,0,,,,,,
+45892,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,1,0.0,0,0,,,,,,
+45893,Europe,乌克兰,Ukraine,乌克兰,Ukraine,1,0.0,0,0,,,,,,
+46212,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,706,0.0,0,6,,,,,,
+46232,Asia,泰国,Thailand,泰国,Thailand,43,0.0,31,1,,,,,,
+46235,Asia,以色列,Israel,以色列,Israel,10,0.0,1,0,,,,,,
+46238,Europe,希腊,Greece,希腊,Greece,7,0.0,0,0,,,,,,
+46242,Europe,芬兰,Finland,芬兰,Finland,6,0.0,1,0,,,,,,
+46248,Asia,格鲁吉亚,Georgia,格鲁吉亚,Georgia,3,0.0,0,0,,,,,,
+46250,Asia,印度尼西亚,Indonesia,印度尼西亚,Indonesia,2,0.0,0,0,,,,,,
+46252,Africa,埃及,Egypt,埃及,Egypt,2,0.0,1,0,,,,,,
+46253,Asia,亚美尼亚,Armenia,亚美尼亚,Armenia,1,0.0,0,0,,,,,,
+46254,North America,多米尼加,Dominican Republic,多米尼加,Dominican Republic,1,0.0,0,0,,,,,,
+46255,Europe,安道尔,Andorra,安道尔,Andorra,1,0.0,0,0,,,,,,

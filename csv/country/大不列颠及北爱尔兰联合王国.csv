@@ -1,2 +1,2 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-44718,Europe,大不列颠及北爱尔兰联合王国,United Kingdom of Great Britain and Ireland,20,0.0,8,0,2020-02-29
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+50927,Europe,大不列颠及北爱尔兰联合王国,United Kingdom of Great Britain and Ireland,大不列颠及北爱尔兰联合王国,United Kingdom of Great Britain and Ireland,20,0.0,8,0,,,,,,,2020-02-29

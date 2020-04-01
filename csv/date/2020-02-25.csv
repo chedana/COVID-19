@@ -1,26 +1,26 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-49183,Europe,意大利,Italy,283,0.0,1,7
-49184,Asia,日本,Japan,170,0.0,22,1
-49185,Asia,伊朗,Iran,95,0.0,0,16
-49186,Europe,克罗地亚,Croatia,1,0.0,0,0
-49313,Asia,韩国,Korea,977,0.0,22,10
-49317,Asia,泰国,Thailand,37,0.0,22,0
-49318,Asia,科威特,Kuwait,8,0.0,0,0
-49319,Asia,巴林,Bahrain,8,0.0,0,0
-49320,Europe,法国,France,12,0.0,11,1
-49321,Asia,越南,Vietnam,16,0.0,16,0
-49501,Asia,以色列,Israel,6,0.0,0,0
-49955,North America,美国,United States of America,53,0.0,3,0
-49957,Asia,新加坡,Singapore,90,0.0,53,0
-49958,Oceania,澳大利亚,Australia,22,0.0,15,0
-49959,North America,加拿大,Canada,11,0.0,4,0
-49960,Europe,英国,United Kingdom,13,0.0,8,0
-49962,Asia,马来西亚,Malaysia,22,0.0,18,0
-49963,Europe,德国,Germany,16,0.0,14,0
-49966,Asia,阿曼,Oman,2,0.0,0,0
-49967,Europe,西班牙,Spain,3,0.0,2,0
-49968,Asia,阿富汗,Afghanistan,1,0.0,0,0
-50424,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3
-50432,Asia,阿联酋,United Arab Emirates,13,0.0,4,0
-50439,Asia,黎巴嫩,Lebanon,1,0.0,0,0
-50440,Asia,伊拉克,Iraq,1,0.0,0,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+55392,Europe,意大利,Italy,意大利,Italy,283,0.0,1,7,,,,,,
+55393,Asia,日本,Japan,日本,Japan,170,0.0,22,1,,,,,,
+55394,Asia,伊朗,Iran,伊朗,Iran,95,0.0,0,16,,,,,,
+55395,Europe,克罗地亚,Croatia,克罗地亚,Croatia,1,0.0,0,0,,,,,,
+55522,Asia,韩国,Korea,韩国,Korea,977,0.0,22,10,,,,,,
+55526,Asia,泰国,Thailand,泰国,Thailand,37,0.0,22,0,,,,,,
+55527,Asia,科威特,Kuwait,科威特,Kuwait,8,0.0,0,0,,,,,,
+55528,Asia,巴林,Bahrain,巴林,Bahrain,8,0.0,0,0,,,,,,
+55529,Europe,法国,France,法国,France,12,0.0,11,1,,,,,,
+55530,Asia,越南,Vietnam,越南,Vietnam,16,0.0,16,0,,,,,,
+55710,Asia,以色列,Israel,以色列,Israel,6,0.0,0,0,,,,,,
+56164,North America,美国,United States of America,美国,United States of America,53,0.0,3,0,,,,,,
+56166,Asia,新加坡,Singapore,新加坡,Singapore,90,0.0,53,0,,,,,,
+56167,Oceania,澳大利亚,Australia,澳大利亚,Australia,22,0.0,15,0,,,,,,
+56168,North America,加拿大,Canada,加拿大,Canada,11,0.0,4,0,,,,,,
+56169,Europe,英国,United Kingdom,英国,United Kingdom,13,0.0,8,0,,,,,,
+56171,Asia,马来西亚,Malaysia,马来西亚,Malaysia,22,0.0,18,0,,,,,,
+56172,Europe,德国,Germany,德国,Germany,16,0.0,14,0,,,,,,
+56175,Asia,阿曼,Oman,阿曼,Oman,2,0.0,0,0,,,,,,
+56176,Europe,西班牙,Spain,西班牙,Spain,3,0.0,2,0,,,,,,
+56177,Asia,阿富汗,Afghanistan,阿富汗,Afghanistan,1,0.0,0,0,,,,,,
+56633,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,691,0.0,0,3,,,,,,
+56641,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,13,0.0,4,0,,,,,,
+56648,Asia,黎巴嫩,Lebanon,黎巴嫩,Lebanon,1,0.0,0,0,,,,,,
+56649,Asia,伊拉克,Iraq,伊拉克,Iraq,1,0.0,0,0,,,,,,

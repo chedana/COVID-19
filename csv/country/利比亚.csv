@@ -1,5 +1,8 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1485,Africa,利比亚,Libya,1,0.0,0,0,2020-03-28
-3301,Africa,利比亚,Libya,1,0.0,0,0,2020-03-27
-5785,Africa,利比亚,Libya,1,0.0,0,0,2020-03-26
-9719,Africa,利比亚,Libya,1,0.0,0,0,2020-03-25
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+417,Africa,利比亚,Libya,利比亚,Libya,8,0.0,0,0,,,,,,,2020-03-31
+2391,Africa,利比亚,Libya,利比亚,Libya,3,0.0,0,0,,,,,,,2020-03-30
+6208,Africa,利比亚,Libya,利比亚,Libya,1,0.0,0,0,,,,,,,2020-03-29
+7694,Africa,利比亚,Libya,利比亚,Libya,1,0.0,0,0,,,,,,,2020-03-28
+9510,Africa,利比亚,Libya,利比亚,Libya,1,0.0,0,0,,,,,,,2020-03-27
+11994,Africa,利比亚,Libya,利比亚,Libya,1,0.0,0,0,,,,,,,2020-03-26
+15928,Africa,利比亚,Libya,利比亚,Libya,1,0.0,0,0,,,,,,,2020-03-25

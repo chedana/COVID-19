@@ -1,17 +1,20 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-194,South America,委内瑞拉,Venezuela,107,0.0,0,1,2020-03-29
-776,South America,委内瑞拉,Venezuela,107,0.0,0,1,2020-03-28
-3194,South America,委内瑞拉,Venezuela,107,0.0,0,0,2020-03-27
-5700,South America,委内瑞拉,Venezuela,106,0.0,0,0,2020-03-26
-9923,South America,委内瑞拉,Venezuela,84,0.0,0,0,2020-03-25
-11367,South America,委内瑞拉,Venezuela,84,0.0,0,0,2020-03-24
-14700,South America,委内瑞拉,Venezuela,77,0.0,0,0,2020-03-23
-17361,South America,委内瑞拉,Venezuela,70,0.0,0,0,2020-03-22
-18804,South America,委内瑞拉,Venezuela,42,0.0,0,0,2020-03-21
-19666,South America,委内瑞拉,Venezuela,42,0.0,0,0,2020-03-20
-20928,South America,委内瑞拉,Venezuela,33,0.0,0,0,2020-03-19
-23260,South America,委内瑞拉,Venezuela,33,0.0,0,0,2020-03-18
-24916,South America,委内瑞拉,Venezuela,33,0.0,0,0,2020-03-17
-27015,South America,委内瑞拉,Venezuela,10,0.0,0,0,2020-03-16
-28113,South America,委内瑞拉,Venezuela,10,0.0,0,0,2020-03-15
-29307,South America,委内瑞拉,Venezuela,2,0.0,0,0,2020-03-14
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+56,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,135,0.0,0,2,,,,,,,2020-04-01
+134,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,135,0.0,0,2,,,,,,,2020-03-31
+2109,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,113,0.0,0,2,,,,,,,2020-03-30
+5349,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,107,0.0,0,1,,,,,,,2020-03-29
+6985,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,107,0.0,0,1,,,,,,,2020-03-28
+9403,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,107,0.0,0,0,,,,,,,2020-03-27
+11909,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,106,0.0,0,0,,,,,,,2020-03-26
+16132,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,84,0.0,0,0,,,,,,,2020-03-25
+17576,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,84,0.0,0,0,,,,,,,2020-03-24
+20909,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,77,0.0,0,0,,,,,,,2020-03-23
+23570,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,70,0.0,0,0,,,,,,,2020-03-22
+25013,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,42,0.0,0,0,,,,,,,2020-03-21
+25875,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,42,0.0,0,0,,,,,,,2020-03-20
+27137,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,33,0.0,0,0,,,,,,,2020-03-19
+29469,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,33,0.0,0,0,,,,,,,2020-03-18
+31125,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,33,0.0,0,0,,,,,,,2020-03-17
+33224,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,10,0.0,0,0,,,,,,,2020-03-16
+34322,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,10,0.0,0,0,,,,,,,2020-03-15
+35516,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,2,0.0,0,0,,,,,,,2020-03-14

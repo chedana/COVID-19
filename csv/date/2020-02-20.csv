@@ -1,23 +1,23 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-56497,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2
-56716,Asia,韩国,Korea,104,0.0,16,1
-56717,Asia,伊朗,Iran,2,0.0,0,2
-57539,Asia,日本,Japan,84,0.0,12,1
-57541,Asia,新加坡,Singapore,84,0.0,34,0
-57542,Asia,马来西亚,Malaysia,22,0.0,15,0
-57543,Asia,尼泊尔,Nepal,1,0.0,1,0
-57544,Asia,斯里兰卡,SriLanka,1,0.0,1,0
-57545,Europe,西班牙,Spain,2,0.0,2,0
-57941,Asia,泰国,Thailand,35,0.0,15,0
-57942,Europe,德国,Germany,16,0.0,1,0
-57943,North America,美国,United States of America,15,0.0,3,0
-57944,Asia,越南,Vietnam,16,0.0,7,0
-57946,Europe,法国,France,12,0.0,4,1
-57947,North America,加拿大,Canada,8,0.0,2,0
-57948,Oceania,澳大利亚,Australia,15,0.0,10,0
-57949,Asia,阿联酋,United Arab Emirates,9,0.0,4,0
-57950,Europe,英国,United Kingdom,9,0.0,8,0
-57951,Africa,埃及,Egypt,1,0.0,0,0
-57954,Asia,印度,India,3,0.0,3,0
-57955,Europe,俄罗斯,Russia,2,0.0,2,0
-57957,Europe,比利时,Belgium,1,0.0,1,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+62706,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,634,0.0,0,2,,,,,,
+62925,Asia,韩国,Korea,韩国,Korea,104,0.0,16,1,,,,,,
+62926,Asia,伊朗,Iran,伊朗,Iran,2,0.0,0,2,,,,,,
+63748,Asia,日本,Japan,日本,Japan,84,0.0,12,1,,,,,,
+63750,Asia,新加坡,Singapore,新加坡,Singapore,84,0.0,34,0,,,,,,
+63751,Asia,马来西亚,Malaysia,马来西亚,Malaysia,22,0.0,15,0,,,,,,
+63752,Asia,尼泊尔,Nepal,尼泊尔,Nepal,1,0.0,1,0,,,,,,
+63753,Asia,斯里兰卡,SriLanka,斯里兰卡,SriLanka,1,0.0,1,0,,,,,,
+63754,Europe,西班牙,Spain,西班牙,Spain,2,0.0,2,0,,,,,,
+64150,Asia,泰国,Thailand,泰国,Thailand,35,0.0,15,0,,,,,,
+64151,Europe,德国,Germany,德国,Germany,16,0.0,1,0,,,,,,
+64152,North America,美国,United States of America,美国,United States of America,15,0.0,3,0,,,,,,
+64153,Asia,越南,Vietnam,越南,Vietnam,16,0.0,7,0,,,,,,
+64155,Europe,法国,France,法国,France,12,0.0,4,1,,,,,,
+64156,North America,加拿大,Canada,加拿大,Canada,8,0.0,2,0,,,,,,
+64157,Oceania,澳大利亚,Australia,澳大利亚,Australia,15,0.0,10,0,,,,,,
+64158,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,9,0.0,4,0,,,,,,
+64159,Europe,英国,United Kingdom,英国,United Kingdom,9,0.0,8,0,,,,,,
+64160,Africa,埃及,Egypt,埃及,Egypt,1,0.0,0,0,,,,,,
+64163,Asia,印度,India,印度,India,3,0.0,3,0,,,,,,
+64164,Europe,俄罗斯,Russia,俄罗斯,Russia,2,0.0,2,0,,,,,,
+64166,Europe,比利时,Belgium,比利时,Belgium,1,0.0,1,0,,,,,,

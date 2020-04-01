@@ -1,29 +1,31 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-177,Europe,圣马力诺,San Marino,242,0.0,2,21,2020-03-29
-760,Europe,圣马力诺,San Marino,242,0.0,2,21,2020-03-28
-3033,Europe,圣马力诺,San Marino,208,0.0,2,21,2020-03-27
-5686,Europe,圣马力诺,San Marino,187,0.0,2,21,2020-03-26
-9632,Europe,圣马力诺,San Marino,187,0.0,2,20,2020-03-25
-11353,Europe,圣马力诺,San Marino,151,0.0,2,20,2020-03-24
-14686,Europe,圣马力诺,San Marino,151,0.0,2,20,2020-03-23
-17340,Europe,圣马力诺,San Marino,151,0.0,2,14,2020-03-22
-18777,Europe,圣马力诺,San Marino,126,0.0,2,14,2020-03-21
-19644,Europe,圣马力诺,San Marino,109,0.0,2,14,2020-03-20
-20899,Europe,圣马力诺,San Marino,109,0.0,2,14,2020-03-19
-23233,Europe,圣马力诺,San Marino,102,0.0,2,9,2020-03-18
-24614,Europe,圣马力诺,San Marino,98,0.0,2,7,2020-03-17
-26970,Europe,圣马力诺,San Marino,98,0.0,2,5,2020-03-16
-28072,Europe,圣马力诺,San Marino,73,0.0,2,5,2020-03-15
-29266,Europe,圣马力诺,San Marino,73,0.0,2,5,2020-03-14
-30347,Europe,圣马力诺,San Marino,69,0.0,0,3,2020-03-13
-31284,Europe,圣马力诺,San Marino,69,0.0,0,3,2020-03-12
-32074,Europe,圣马力诺,San Marino,62,0.0,0,2,2020-03-11
-33055,Europe,圣马力诺,San Marino,51,0.0,0,2,2020-03-10
-34350,Europe,圣马力诺,San Marino,36,0.0,0,0,2020-03-09
-35114,Europe,圣马力诺,San Marino,26,0.0,0,0,2020-03-08
-36174,Europe,圣马力诺,San Marino,23,0.0,0,0,2020-03-07
-36905,Europe,圣马力诺,San Marino,23,0.0,0,0,2020-03-06
-38085,Europe,圣马力诺,San Marino,10,0.0,0,0,2020-03-05
-41220,Europe,圣马力诺,San Marino,1,0.0,0,0,2020-03-03
-42286,Europe,圣马力诺,San Marino,1,0.0,0,0,2020-03-02
-43570,Europe,圣马力诺,San Marino,1,0.0,0,0,2020-03-01
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+221,Europe,圣马力诺,San Marino,圣马力诺,San Marino,242,0.0,2,24,,,,,,,2020-03-31
+2104,Europe,圣马力诺,San Marino,圣马力诺,San Marino,242,0.0,2,22,,,,,,,2020-03-30
+5329,Europe,圣马力诺,San Marino,圣马力诺,San Marino,242,0.0,2,21,,,,,,,2020-03-29
+6969,Europe,圣马力诺,San Marino,圣马力诺,San Marino,242,0.0,2,21,,,,,,,2020-03-28
+9242,Europe,圣马力诺,San Marino,圣马力诺,San Marino,208,0.0,2,21,,,,,,,2020-03-27
+11895,Europe,圣马力诺,San Marino,圣马力诺,San Marino,187,0.0,2,21,,,,,,,2020-03-26
+15841,Europe,圣马力诺,San Marino,圣马力诺,San Marino,187,0.0,2,20,,,,,,,2020-03-25
+17562,Europe,圣马力诺,San Marino,圣马力诺,San Marino,151,0.0,2,20,,,,,,,2020-03-24
+20895,Europe,圣马力诺,San Marino,圣马力诺,San Marino,151,0.0,2,20,,,,,,,2020-03-23
+23549,Europe,圣马力诺,San Marino,圣马力诺,San Marino,151,0.0,2,14,,,,,,,2020-03-22
+24986,Europe,圣马力诺,San Marino,圣马力诺,San Marino,126,0.0,2,14,,,,,,,2020-03-21
+25853,Europe,圣马力诺,San Marino,圣马力诺,San Marino,109,0.0,2,14,,,,,,,2020-03-20
+27108,Europe,圣马力诺,San Marino,圣马力诺,San Marino,109,0.0,2,14,,,,,,,2020-03-19
+29442,Europe,圣马力诺,San Marino,圣马力诺,San Marino,102,0.0,2,9,,,,,,,2020-03-18
+30823,Europe,圣马力诺,San Marino,圣马力诺,San Marino,98,0.0,2,7,,,,,,,2020-03-17
+33179,Europe,圣马力诺,San Marino,圣马力诺,San Marino,98,0.0,2,5,,,,,,,2020-03-16
+34281,Europe,圣马力诺,San Marino,圣马力诺,San Marino,73,0.0,2,5,,,,,,,2020-03-15
+35475,Europe,圣马力诺,San Marino,圣马力诺,San Marino,73,0.0,2,5,,,,,,,2020-03-14
+36556,Europe,圣马力诺,San Marino,圣马力诺,San Marino,69,0.0,0,3,,,,,,,2020-03-13
+37493,Europe,圣马力诺,San Marino,圣马力诺,San Marino,69,0.0,0,3,,,,,,,2020-03-12
+38283,Europe,圣马力诺,San Marino,圣马力诺,San Marino,62,0.0,0,2,,,,,,,2020-03-11
+39264,Europe,圣马力诺,San Marino,圣马力诺,San Marino,51,0.0,0,2,,,,,,,2020-03-10
+40559,Europe,圣马力诺,San Marino,圣马力诺,San Marino,36,0.0,0,0,,,,,,,2020-03-09
+41323,Europe,圣马力诺,San Marino,圣马力诺,San Marino,26,0.0,0,0,,,,,,,2020-03-08
+42383,Europe,圣马力诺,San Marino,圣马力诺,San Marino,23,0.0,0,0,,,,,,,2020-03-07
+43114,Europe,圣马力诺,San Marino,圣马力诺,San Marino,23,0.0,0,0,,,,,,,2020-03-06
+44294,Europe,圣马力诺,San Marino,圣马力诺,San Marino,10,0.0,0,0,,,,,,,2020-03-05
+47429,Europe,圣马力诺,San Marino,圣马力诺,San Marino,1,0.0,0,0,,,,,,,2020-03-03
+48495,Europe,圣马力诺,San Marino,圣马力诺,San Marino,1,0.0,0,0,,,,,,,2020-03-02
+49779,Europe,圣马力诺,San Marino,圣马力诺,San Marino,1,0.0,0,0,,,,,,,2020-03-01

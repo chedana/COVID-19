@@ -1,5 +1,8 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1247,North America,多米尼克,,11,0.0,0,0,2020-03-28
-3261,North America,多米尼克,,7,0.0,0,0,2020-03-27
-5781,North America,多米尼克,,2,0.0,0,0,2020-03-26
-10026,North America,多米尼克,,1,0.0,0,0,2020-03-25
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+410,North America,多米尼克,,多米尼克,,11,0.0,0,0,,,,,,,2020-03-31
+2353,North America,多米尼克,,多米尼克,,11,0.0,0,0,,,,,,,2020-03-30
+5970,North America,多米尼克,,多米尼克,,11,0.0,0,0,,,,,,,2020-03-29
+7456,North America,多米尼克,,多米尼克,,11,0.0,0,0,,,,,,,2020-03-28
+9470,North America,多米尼克,,多米尼克,,7,0.0,0,0,,,,,,,2020-03-27
+11990,North America,多米尼克,,多米尼克,,2,0.0,0,0,,,,,,,2020-03-26
+16235,North America,多米尼克,,多米尼克,,1,0.0,0,0,,,,,,,2020-03-25

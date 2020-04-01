@@ -1,10 +1,12 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-230,North America,百慕大,,15,0.0,0,0,2020-03-29
-1445,North America,百慕大,,7,0.0,0,0,2020-03-28
-3259,North America,百慕大,,7,0.0,0,0,2020-03-27
-5760,North America,百慕大,,6,0.0,0,0,2020-03-26
-9983,North America,百慕大,,6,0.0,0,0,2020-03-25
-11452,North America,百慕大,,2,0.0,0,0,2020-03-24
-14783,North America,百慕大,,2,0.0,0,0,2020-03-23
-17431,North America,百慕大,,2,0.0,0,0,2020-03-22
-18874,North America,百慕大,,2,0.0,0,0,2020-03-21
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+395,North America,百慕大,,百慕大,,22,0.0,0,0,,,,,,,2020-03-31
+2345,North America,百慕大,,百慕大,,17,0.0,0,0,,,,,,,2020-03-30
+5960,North America,百慕大,,百慕大,,15,0.0,0,0,,,,,,,2020-03-29
+7654,North America,百慕大,,百慕大,,7,0.0,0,0,,,,,,,2020-03-28
+9468,North America,百慕大,,百慕大,,7,0.0,0,0,,,,,,,2020-03-27
+11969,North America,百慕大,,百慕大,,6,0.0,0,0,,,,,,,2020-03-26
+16192,North America,百慕大,,百慕大,,6,0.0,0,0,,,,,,,2020-03-25
+17661,North America,百慕大,,百慕大,,2,0.0,0,0,,,,,,,2020-03-24
+20992,North America,百慕大,,百慕大,,2,0.0,0,0,,,,,,,2020-03-23
+23640,North America,百慕大,,百慕大,,2,0.0,0,0,,,,,,,2020-03-22
+25083,North America,百慕大,,百慕大,,2,0.0,0,0,,,,,,,2020-03-21

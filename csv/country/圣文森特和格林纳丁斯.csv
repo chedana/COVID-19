@@ -1,16 +1,17 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-1482,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-28
-3296,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-27
-6978,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-26
-10016,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-25
-11459,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-24
-14790,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-23
-17810,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-22
-18880,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-21
-19739,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-20
-20991,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-19
-23328,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-18
-24979,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-17
-27061,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-16
-28159,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-15
-29236,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,2020-03-14
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+2399,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-30
+7691,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-28
+9505,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-27
+13187,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-26
+16225,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-25
+17668,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-24
+20999,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-23
+24019,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-22
+25089,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-21
+25948,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-20
+27200,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-19
+29537,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-18
+31188,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-17
+33270,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-16
+34368,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-15
+35445,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,1,0.0,0,0,,,,,,,2020-03-14

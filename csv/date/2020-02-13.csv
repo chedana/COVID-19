@@ -1,25 +1,25 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-69251,Europe,德国,Germany,16,0.0,1,0
-69272,Asia,越南,Vietnam,16,0.0,3,0
-69861,Asia,日本,Japan,247,0.0,9,1
-69934,Asia,新加坡,Singapore,58,0.0,15,0
-70006,Asia,泰国,Thailand,33,0.0,10,0
-70007,Asia,韩国,Korea,28,0.0,7,0
-70008,Asia,马来西亚,Malaysia,19,0.0,3,0
-70011,Oceania,澳大利亚,Australia,15,0.0,5,0
-70012,North America,美国,United States of America,14,0.0,3,0
-70013,Europe,法国,France,11,0.0,0,0
-70014,Europe,英国,United Kingdom,9,0.0,0,0
-70015,Asia,阿联酋,United Arab Emirates,8,0.0,1,0
-70016,North America,加拿大,Canada,7,0.0,2,0
-70017,Asia,印度,India,3,0.0,0,0
-70018,Europe,意大利,Italy,3,0.0,0,0
-70019,Asia,菲律宾,Philippines,3,0.0,1,1
-70020,Europe,俄罗斯,Russia,2,0.0,0,0
-70021,Europe,西班牙,Spain,2,0.0,0,0
-70022,Asia,尼泊尔,Nepal,1,0.0,0,0
-70023,Asia,柬埔寨,Kampuchea (Cambodia ),1,0.0,1,0
-70024,Asia,斯里兰卡,SriLanka,1,0.0,0,0
-70025,Europe,芬兰,Finland,1,0.0,1,0
-70026,Europe,瑞典,Sweden,1,0.0,0,0
-70027,Europe,比利时,Belgium,1,0.0,0,0
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
+75460,Europe,德国,Germany,德国,Germany,16,0.0,1,0,,,,,,
+75481,Asia,越南,Vietnam,越南,Vietnam,16,0.0,3,0,,,,,,
+76070,Asia,日本,Japan,日本,Japan,247,0.0,9,1,,,,,,
+76143,Asia,新加坡,Singapore,新加坡,Singapore,58,0.0,15,0,,,,,,
+76215,Asia,泰国,Thailand,泰国,Thailand,33,0.0,10,0,,,,,,
+76216,Asia,韩国,Korea,韩国,Korea,28,0.0,7,0,,,,,,
+76217,Asia,马来西亚,Malaysia,马来西亚,Malaysia,19,0.0,3,0,,,,,,
+76220,Oceania,澳大利亚,Australia,澳大利亚,Australia,15,0.0,5,0,,,,,,
+76221,North America,美国,United States of America,美国,United States of America,14,0.0,3,0,,,,,,
+76222,Europe,法国,France,法国,France,11,0.0,0,0,,,,,,
+76223,Europe,英国,United Kingdom,英国,United Kingdom,9,0.0,0,0,,,,,,
+76224,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,8,0.0,1,0,,,,,,
+76225,North America,加拿大,Canada,加拿大,Canada,7,0.0,2,0,,,,,,
+76226,Asia,印度,India,印度,India,3,0.0,0,0,,,,,,
+76227,Europe,意大利,Italy,意大利,Italy,3,0.0,0,0,,,,,,
+76228,Asia,菲律宾,Philippines,菲律宾,Philippines,3,0.0,1,1,,,,,,
+76229,Europe,俄罗斯,Russia,俄罗斯,Russia,2,0.0,0,0,,,,,,
+76230,Europe,西班牙,Spain,西班牙,Spain,2,0.0,0,0,,,,,,
+76231,Asia,尼泊尔,Nepal,尼泊尔,Nepal,1,0.0,0,0,,,,,,
+76232,Asia,柬埔寨,Kampuchea (Cambodia ),柬埔寨,Kampuchea (Cambodia ),1,0.0,1,0,,,,,,
+76233,Asia,斯里兰卡,SriLanka,斯里兰卡,SriLanka,1,0.0,0,0,,,,,,
+76234,Europe,芬兰,Finland,芬兰,Finland,1,0.0,1,0,,,,,,
+76235,Europe,瑞典,Sweden,瑞典,Sweden,1,0.0,0,0,,,,,,
+76236,Europe,比利时,Belgium,比利时,Belgium,1,0.0,0,0,,,,,,

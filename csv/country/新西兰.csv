@@ -1,31 +1,33 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-27,Oceania,新西兰,New Zealand,451,4.0,50,0,2020-03-29
-745,Oceania,新西兰,New Zealand,451,4.0,50,0,2020-03-28
-3162,Oceania,新西兰,New Zealand,338,4.0,37,0,2020-03-27
-5669,Oceania,新西兰,New Zealand,278,4.0,0,0,2020-03-26
-9626,Oceania,新西兰,New Zealand,205,4.0,0,0,2020-03-25
-11350,Oceania,新西兰,New Zealand,142,4.0,0,0,2020-03-24
-14692,Oceania,新西兰,New Zealand,102,4.0,0,0,2020-03-23
-17362,Oceania,新西兰,New Zealand,67,4.0,0,0,2020-03-22
-18797,Oceania,新西兰,New Zealand,53,4.0,0,0,2020-03-21
-19668,Oceania,新西兰,New Zealand,39,0.0,0,0,2020-03-20
-20929,Oceania,新西兰,New Zealand,28,0.0,0,0,2020-03-19
-22801,Oceania,新西兰,New Zealand,20,0.0,0,0,2020-03-18
-24627,Oceania,新西兰,New Zealand,11,0.0,0,0,2020-03-17
-27016,Oceania,新西兰,New Zealand,8,0.0,0,0,2020-03-16
-28115,Oceania,新西兰,New Zealand,8,0.0,0,0,2020-03-15
-29219,Oceania,新西兰,New Zealand,6,0.0,0,0,2020-03-14
-31644,Oceania,新西兰,New Zealand,5,0.0,0,0,2020-03-12
-32418,Oceania,新西兰,New Zealand,5,0.0,0,0,2020-03-11
-33093,Oceania,新西兰,New Zealand,5,0.0,0,0,2020-03-10
-34612,Oceania,新西兰,New Zealand,5,0.0,0,0,2020-03-09
-35557,Oceania,新西兰,New Zealand,5,0.0,0,0,2020-03-08
-36194,Oceania,新西兰,New Zealand,5,0.0,0,0,2020-03-07
-37148,Oceania,新西兰,New Zealand,4,0.0,0,0,2020-03-06
-38094,Oceania,新西兰,New Zealand,3,0.0,0,0,2020-03-05
-39454,Oceania,新西兰,New Zealand,2,0.0,0,0,2020-03-04
-41214,Oceania,新西兰,New Zealand,1,0.0,0,0,2020-03-03
-42715,Oceania,新西兰,New Zealand,1,0.0,0,0,2020-03-02
-43562,Oceania,新西兰,New Zealand,1,0.0,0,0,2020-03-01
-44410,Oceania,新西兰,New Zealand,1,0.0,0,0,2020-02-29
-45681,Oceania,新西兰,New Zealand,1,0.0,0,0,2020-02-28
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+195,Oceania,新西兰,New Zealand,新西兰,New Zealand,600,4.0,50,1,,,,,,,2020-03-31
+2144,Oceania,新西兰,New Zealand,新西兰,New Zealand,589,4.0,50,1,,,,,,,2020-03-30
+5308,Oceania,新西兰,New Zealand,新西兰,New Zealand,514,4.0,50,0,,,,,,,2020-03-29
+6954,Oceania,新西兰,New Zealand,新西兰,New Zealand,451,4.0,50,0,,,,,,,2020-03-28
+9371,Oceania,新西兰,New Zealand,新西兰,New Zealand,338,4.0,37,0,,,,,,,2020-03-27
+11878,Oceania,新西兰,New Zealand,新西兰,New Zealand,278,4.0,0,0,,,,,,,2020-03-26
+15835,Oceania,新西兰,New Zealand,新西兰,New Zealand,205,4.0,0,0,,,,,,,2020-03-25
+17559,Oceania,新西兰,New Zealand,新西兰,New Zealand,142,4.0,0,0,,,,,,,2020-03-24
+20901,Oceania,新西兰,New Zealand,新西兰,New Zealand,102,4.0,0,0,,,,,,,2020-03-23
+23571,Oceania,新西兰,New Zealand,新西兰,New Zealand,67,4.0,0,0,,,,,,,2020-03-22
+25006,Oceania,新西兰,New Zealand,新西兰,New Zealand,53,4.0,0,0,,,,,,,2020-03-21
+25877,Oceania,新西兰,New Zealand,新西兰,New Zealand,39,0.0,0,0,,,,,,,2020-03-20
+27138,Oceania,新西兰,New Zealand,新西兰,New Zealand,28,0.0,0,0,,,,,,,2020-03-19
+29010,Oceania,新西兰,New Zealand,新西兰,New Zealand,20,0.0,0,0,,,,,,,2020-03-18
+30836,Oceania,新西兰,New Zealand,新西兰,New Zealand,11,0.0,0,0,,,,,,,2020-03-17
+33225,Oceania,新西兰,New Zealand,新西兰,New Zealand,8,0.0,0,0,,,,,,,2020-03-16
+34324,Oceania,新西兰,New Zealand,新西兰,New Zealand,8,0.0,0,0,,,,,,,2020-03-15
+35428,Oceania,新西兰,New Zealand,新西兰,New Zealand,6,0.0,0,0,,,,,,,2020-03-14
+37853,Oceania,新西兰,New Zealand,新西兰,New Zealand,5,0.0,0,0,,,,,,,2020-03-12
+38627,Oceania,新西兰,New Zealand,新西兰,New Zealand,5,0.0,0,0,,,,,,,2020-03-11
+39302,Oceania,新西兰,New Zealand,新西兰,New Zealand,5,0.0,0,0,,,,,,,2020-03-10
+40821,Oceania,新西兰,New Zealand,新西兰,New Zealand,5,0.0,0,0,,,,,,,2020-03-09
+41766,Oceania,新西兰,New Zealand,新西兰,New Zealand,5,0.0,0,0,,,,,,,2020-03-08
+42403,Oceania,新西兰,New Zealand,新西兰,New Zealand,5,0.0,0,0,,,,,,,2020-03-07
+43357,Oceania,新西兰,New Zealand,新西兰,New Zealand,4,0.0,0,0,,,,,,,2020-03-06
+44303,Oceania,新西兰,New Zealand,新西兰,New Zealand,3,0.0,0,0,,,,,,,2020-03-05
+45663,Oceania,新西兰,New Zealand,新西兰,New Zealand,2,0.0,0,0,,,,,,,2020-03-04
+47423,Oceania,新西兰,New Zealand,新西兰,New Zealand,1,0.0,0,0,,,,,,,2020-03-03
+48924,Oceania,新西兰,New Zealand,新西兰,New Zealand,1,0.0,0,0,,,,,,,2020-03-02
+49771,Oceania,新西兰,New Zealand,新西兰,New Zealand,1,0.0,0,0,,,,,,,2020-03-01
+50619,Oceania,新西兰,New Zealand,新西兰,New Zealand,1,0.0,0,0,,,,,,,2020-02-29
+51890,Oceania,新西兰,New Zealand,新西兰,New Zealand,1,0.0,0,0,,,,,,,2020-02-28

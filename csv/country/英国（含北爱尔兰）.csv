@@ -1,3 +1,3 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-45202,Europe,英国（含北爱尔兰）,United Kingdom,20,0.0,8,0,2020-02-29
-45246,Europe,英国（含北爱尔兰）,United Kingdom,16,0.0,8,0,2020-02-28
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+51411,Europe,英国（含北爱尔兰）,United Kingdom,英国（含北爱尔兰）,United Kingdom,20,0.0,8,0,,,,,,,2020-02-29
+51455,Europe,英国（含北爱尔兰）,United Kingdom,英国（含北爱尔兰）,United Kingdom,16,0.0,8,0,,,,,,,2020-02-28

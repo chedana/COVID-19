@@ -1,30 +1,33 @@
-,continentEnglishName,countryName,countryEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,updateTime
-179,Europe,北马其顿,North Macedonia,219,0.0,1,3,2020-03-29
-763,Europe,北马其顿,North Macedonia,201,0.0,1,3,2020-03-28
-3017,Europe,北马其顿,North Macedonia,177,0.0,1,2,2020-03-27
-5578,Europe,北马其顿,North Macedonia,148,0.0,1,2,2020-03-26
-9637,Europe,北马其顿,North Macedonia,136,0.0,1,2,2020-03-25
-11352,Europe,北马其顿,North Macedonia,136,0.0,1,2,2020-03-24
-14683,Europe,北马其顿,North Macedonia,136,0.0,1,2,2020-03-23
-17360,Europe,北马其顿,North Macedonia,70,0.0,0,0,2020-03-22
-18791,Europe,北马其顿,North Macedonia,67,0.0,0,0,2020-03-21
-19654,Europe,北马其顿,North Macedonia,67,0.0,0,0,2020-03-20
-20923,Europe,北马其顿,North Macedonia,35,0.0,0,0,2020-03-19
-23262,Europe,北马其顿,North Macedonia,31,0.0,0,0,2020-03-18
-24928,Europe,北马其顿,North Macedonia,18,0.0,0,0,2020-03-17
-27005,Europe,北马其顿,North Macedonia,18,0.0,0,0,2020-03-16
-28107,Europe,北马其顿,North Macedonia,13,0.0,0,0,2020-03-15
-29216,Europe,北马其顿,North Macedonia,13,0.0,0,0,2020-03-14
-30388,Europe,北马其顿,North Macedonia,9,0.0,0,0,2020-03-13
-31321,Europe,北马其顿,North Macedonia,9,0.0,0,0,2020-03-12
-32409,Europe,北马其顿,North Macedonia,7,0.0,0,0,2020-03-11
-33016,Europe,北马其顿,North Macedonia,7,0.0,0,0,2020-03-10
-34617,Europe,北马其顿,North Macedonia,3,0.0,0,0,2020-03-09
-35137,Europe,北马其顿,North Macedonia,3,0.0,0,0,2020-03-08
-38830,Europe,北马其顿,North Macedonia,1,0.0,0,0,2020-03-05
-41211,Europe,北马其顿,North Macedonia,1,0.0,0,0,2020-03-03
-42712,Europe,北马其顿,North Macedonia,1,0.0,0,0,2020-03-02
-43559,Europe,北马其顿,North Macedonia,1,0.0,0,0,2020-03-01
-44407,Europe,北马其顿,North Macedonia,1,0.0,0,0,2020-02-29
-45999,Europe,北马其顿,North Macedonia,1,0.0,0,0,2020-02-28
-46604,Europe,北马其顿,North Macedonia,1,0.0,0,0,2020-02-27
+,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,updateTime
+8,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,329,0.0,1,6,,,,,,,2020-04-01
+216,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,259,0.0,1,6,,,,,,,2020-03-31
+2100,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,257,0.0,1,6,,,,,,,2020-03-30
+5241,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,219,0.0,1,3,,,,,,,2020-03-29
+6972,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,201,0.0,1,3,,,,,,,2020-03-28
+9226,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,177,0.0,1,2,,,,,,,2020-03-27
+11787,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,148,0.0,1,2,,,,,,,2020-03-26
+15846,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,136,0.0,1,2,,,,,,,2020-03-25
+17561,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,136,0.0,1,2,,,,,,,2020-03-24
+20892,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,136,0.0,1,2,,,,,,,2020-03-23
+23569,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,70,0.0,0,0,,,,,,,2020-03-22
+25000,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,67,0.0,0,0,,,,,,,2020-03-21
+25863,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,67,0.0,0,0,,,,,,,2020-03-20
+27132,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,35,0.0,0,0,,,,,,,2020-03-19
+29471,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,31,0.0,0,0,,,,,,,2020-03-18
+31137,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,18,0.0,0,0,,,,,,,2020-03-17
+33214,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,18,0.0,0,0,,,,,,,2020-03-16
+34316,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,13,0.0,0,0,,,,,,,2020-03-15
+35425,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,13,0.0,0,0,,,,,,,2020-03-14
+36597,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,9,0.0,0,0,,,,,,,2020-03-13
+37530,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,9,0.0,0,0,,,,,,,2020-03-12
+38618,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,7,0.0,0,0,,,,,,,2020-03-11
+39225,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,7,0.0,0,0,,,,,,,2020-03-10
+40826,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,3,0.0,0,0,,,,,,,2020-03-09
+41346,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,3,0.0,0,0,,,,,,,2020-03-08
+45039,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,1,0.0,0,0,,,,,,,2020-03-05
+47420,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,1,0.0,0,0,,,,,,,2020-03-03
+48921,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,1,0.0,0,0,,,,,,,2020-03-02
+49768,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,1,0.0,0,0,,,,,,,2020-03-01
+50616,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,1,0.0,0,0,,,,,,,2020-02-29
+52208,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,1,0.0,0,0,,,,,,,2020-02-28
+52813,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,1,0.0,0,0,,,,,,,2020-02-27
