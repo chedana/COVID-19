@@ -1,5 +1,5 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,current_confirmedCount,total_curedCount,deadCount,total_confirmedCount,suspectedCount,updateTime
-160,Asia,中国,China,中国,China,2161,76052,3305,81518,183,2020-04-01
+160,Asia,中国,China,中国,China,,,,,,
 2429,Asia,中国,China,中国,China,,,,,,2020-03-31
 5129,Asia,中国,China,中国,China,2161,76052,3305,81518,183,2020-03-30
 7150,Asia,中国,China,中国,China,2396,75770,3304,81470,168,2020-03-29
