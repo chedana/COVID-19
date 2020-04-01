@@ -1,5 +1,6 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount
 34183,North America,美国,United States of America,美国,United States of America,2885,0.0,10,60,,,,,,
+34196,Asia,中国,China,中国,China,81062,0.0,67037,3204,,,,,,
 34197,Europe,西班牙,Spain,西班牙,Spain,7753,0.0,571,288,,,,,,
 34198,Asia,以色列,Israel,以色列,Israel,200,0.0,2,0,,,,,,
 34199,Asia,文莱,Brunei,文莱,Brunei,50,0.0,0,0,,,,,,

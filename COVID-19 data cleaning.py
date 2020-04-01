@@ -10,11 +10,14 @@ def drop_china_data():
              'updateTime']]
     df_woc = df[df.countryName != '中国']
     df_china = df[df.countryName == '中国']
+    df_with_china = df[df.countryName == df.provinceName]
     df_woc['updateTime'] = df_woc['updateTime'].apply(lambda x:x.split()[0])
     df_china['updateTime'] = df_china['updateTime'].apply(lambda x: x.split()[0])
+    df_with_china['updateTime'] = df_with_china['updateTime'].apply(lambda x: x.split()[0])
     df_china.to_csv('csv/data_china.csv')
     df_woc.to_csv('csv/data_without_china.csv')
-    return df_woc, df_china
+    df_with_china.to_csv('csv/data_with_china.csv')
+    return df_woc, df_china, df_with_china
 
 def data_each_day_without_china(df_woc,date_name):
     # date_name = np.array(list(df_woc['updateTime']))
@@ -59,17 +62,21 @@ def data_of_each_country(df_woc,date_name):
     df_country_data = pd.DataFrame(data,columns= tmp_name)
     df_country_data.to_csv('csv/test.csv')
 
+
 def data_each_day_china(df_china,date_name):
     for name in date_name:
         df_china[df_china.updateTime == name].drop_duplicates(subset="provinceName").drop(columns = ['cityName','cityEnglishName','city_confirmedCount','city_suspectedCount','city_curedCount','city_deadCount',
              'updateTime']).to_csv('csv/date_china/'+name+'.csv')
 
 if __name__ == "__main__":
-    df_woc, df_china = drop_china_data()
+    df_woc, df_china ,df_with_china= drop_china_data()
 
     date_name = np.array(list(df_woc['updateTime']))
     date_name = np.unique(date_name)
 
-    data_each_day_without_china(df_woc,date_name)
-    data_each_day_china(df_china, date_name)
+    # data_each_day_without_china(df_woc,date_name)
+    # data_each_day_without_china(df_with_china,date_name)
+    # data_each_day_china(df_china, date_name)
+
     data_of_each_country(df_woc,date_name)
+    # data_of_each_country(df_woc,date_name)
