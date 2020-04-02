@@ -1,17 +1,17 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-36325,Asia,中国,China,香港,Hong Kong,134,0.0,77,4
-36333,Asia,中国,China,广东省,Guangdong,1356,0.0,1296,8
-36392,Asia,中国,China,四川省,Sichuan,539,0.0,503,3
-36413,Asia,中国,China,上海市,Shanghai,346,0.0,324,3
-36432,Asia,中国,China,台湾,Taiwan,50,0.0,20,1
-36433,Asia,中国,China,山西省,Shanxi,133,0.0,133,0
-36504,Asia,中国,China,湖南省,Hunan,1018,0.0,1005,4
-36729,Asia,中国,China,山东省,Shandong,760,0.0,739,7
-36745,Asia,中国,China,湖北省,Hubei,67786,0.0,51553,3062
-36775,Asia,中国,China,北京市,Beijing,436,0.0,342,8
-36849,Asia,中国,China,贵州省,Guizhou,146,0.0,140,2
-36858,Asia,中国,China,江苏省,Jiangsu,631,0.0,630,0
-36946,Asia,中国,China,黑龙江省,Heilongjiang,482,0.0,446,13
-36959,Asia,中国,China,广西壮族自治区,Guangxi,252,0.0,243,2
-36991,Asia,中国,China,河北省,Hebei,318,0.0,310,6
-37027,Asia,中国,China,重庆市,Chongqing,576,0.0,564,6
+38334,Asia,中国,China,香港,Hong Kong,134,0.0,77,4
+38342,Asia,中国,China,广东省,Guangdong,1356,0.0,1296,8
+38401,Asia,中国,China,四川省,Sichuan,539,0.0,503,3
+38422,Asia,中国,China,上海市,Shanghai,346,0.0,324,3
+38441,Asia,中国,China,台湾,Taiwan,50,0.0,20,1
+38442,Asia,中国,China,山西省,Shanxi,133,0.0,133,0
+38513,Asia,中国,China,湖南省,Hunan,1018,0.0,1005,4
+38738,Asia,中国,China,山东省,Shandong,760,0.0,739,7
+38754,Asia,中国,China,湖北省,Hubei,67786,0.0,51553,3062
+38784,Asia,中国,China,北京市,Beijing,436,0.0,342,8
+38858,Asia,中国,China,贵州省,Guizhou,146,0.0,140,2
+38867,Asia,中国,China,江苏省,Jiangsu,631,0.0,630,0
+38955,Asia,中国,China,黑龙江省,Heilongjiang,482,0.0,446,13
+38968,Asia,中国,China,广西壮族自治区,Guangxi,252,0.0,243,2
+39000,Asia,中国,China,河北省,Hebei,318,0.0,310,6
+39036,Asia,中国,China,重庆市,Chongqing,576,0.0,564,6

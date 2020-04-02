@@ -1,18 +1,18 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-30935,Asia,中国,China,辽宁省,Liaoning,125,0.0,120,1
-30948,Asia,中国,China,中国,China,81135,0.0,68820,3231
-30971,Asia,中国,China,湖北省,Hubei,67799,0.0,56003,3111
-30996,Asia,中国,China,北京市,Beijing,456,0.0,369,8
-31016,Asia,中国,China,陕西省,Shaanxi,246,0.0,236,3
-31204,Asia,中国,China,香港,Hong Kong,162,0.0,88,4
-31315,Asia,中国,China,台湾,Taiwan,77,0.0,22,1
-31316,Asia,中国,China,四川省,Sichuan,540,0.0,520,3
-31343,Asia,中国,China,贵州省,Guizhou,147,0.0,144,2
-31720,Asia,中国,China,澳门,Macau,12,0.0,10,0
-31777,Asia,中国,China,上海市,Shanghai,358,0.0,325,3
-31796,Asia,中国,China,浙江省,Zhejiang,1232,0.0,1216,1
-31812,Asia,中国,China,广东省,Guangdong,1364,0.0,1307,8
-31862,Asia,中国,China,黑龙江省,Heilongjiang,482,0.0,456,13
-31948,Asia,中国,China,山东省,Shandong,761,0.0,746,7
-32130,Asia,中国,China,广西壮族自治区,Guangxi,253,0.0,248,2
-32420,Asia,中国,China,云南省,Yunnan,176,0.0,172,2
+32944,Asia,中国,China,辽宁省,Liaoning,125,0.0,120,1
+32957,Asia,中国,China,中国,China,81135,0.0,68820,3231
+32980,Asia,中国,China,湖北省,Hubei,67799,0.0,56003,3111
+33005,Asia,中国,China,北京市,Beijing,456,0.0,369,8
+33025,Asia,中国,China,陕西省,Shaanxi,246,0.0,236,3
+33213,Asia,中国,China,香港,Hong Kong,162,0.0,88,4
+33324,Asia,中国,China,台湾,Taiwan,77,0.0,22,1
+33325,Asia,中国,China,四川省,Sichuan,540,0.0,520,3
+33352,Asia,中国,China,贵州省,Guizhou,147,0.0,144,2
+33729,Asia,中国,China,澳门,Macau,12,0.0,10,0
+33786,Asia,中国,China,上海市,Shanghai,358,0.0,325,3
+33805,Asia,中国,China,浙江省,Zhejiang,1232,0.0,1216,1
+33821,Asia,中国,China,广东省,Guangdong,1364,0.0,1307,8
+33871,Asia,中国,China,黑龙江省,Heilongjiang,482,0.0,456,13
+33957,Asia,中国,China,山东省,Shandong,761,0.0,746,7
+34139,Asia,中国,China,广西壮族自治区,Guangxi,253,0.0,248,2
+34429,Asia,中国,China,云南省,Yunnan,176,0.0,172,2
