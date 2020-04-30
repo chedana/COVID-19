@@ -1,19 +1,19 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-11294,Asia,中国,China,中国,China,82164,0.0,74743,3298
-11525,Asia,中国,China,天津市,Tianjin,155,15.0,133,3
-11612,Asia,中国,China,香港,Hong Kong,519,24.0,110,4
-11675,Asia,中国,China,湖北省,Hubei,67801,0.0,61732,3174
-11751,Asia,中国,China,山东省,Shandong,772,12.0,752,7
-11804,Asia,中国,China,台湾,Taiwan,267,34.0,29,2
-11840,Asia,中国,China,北京市,Beijing,569,3.0,408,8
-11869,Asia,中国,China,上海市,Shanghai,468,19.0,334,5
-12072,Asia,中国,China,广东省,Guangdong,1456,5.0,1337,8
-12260,Asia,中国,China,辽宁省,Liaoning,128,0.0,124,2
-12281,Asia,中国,China,浙江省,Zhejiang,1247,0.0,1222,1
-12295,Asia,中国,China,四川省,Sichuan,548,2.0,536,3
-12325,Asia,中国,China,甘肃省,Gansu,136,0.0,123,2
-12736,Asia,中国,China,江苏省,Jiangsu,641,0.0,631,0
-12794,Asia,中国,China,内蒙古自治区,Neimenggu,92,0.0,74,1
-12989,Asia,中国,China,福建省,Fujian,331,0.0,295,1
-13406,Asia,中国,China,云南省,Yunnan,180,0.0,172,2
-13642,Asia,中国,China,澳门,Macau,33,4.0,10,0
+53200,Asia,中国,China,中国,China,82164,0.0,74743,3298
+53431,Asia,中国,China,天津市,Tianjin,155,15.0,133,3
+53518,Asia,中国,China,香港,Hong Kong,519,24.0,110,4
+53581,Asia,中国,China,湖北省,Hubei,67801,0.0,61732,3174
+53657,Asia,中国,China,山东省,Shandong,772,12.0,752,7
+53710,Asia,中国,China,台湾,Taiwan,267,34.0,29,2
+53746,Asia,中国,China,北京市,Beijing,569,3.0,408,8
+53775,Asia,中国,China,上海市,Shanghai,468,19.0,334,5
+53978,Asia,中国,China,广东省,Guangdong,1456,5.0,1337,8
+54166,Asia,中国,China,辽宁省,Liaoning,128,0.0,124,2
+54187,Asia,中国,China,浙江省,Zhejiang,1247,0.0,1222,1
+54201,Asia,中国,China,四川省,Sichuan,548,2.0,536,3
+54231,Asia,中国,China,甘肃省,Gansu,136,0.0,123,2
+54642,Asia,中国,China,江苏省,Jiangsu,641,0.0,631,0
+54700,Asia,中国,China,内蒙古自治区,Neimenggu,92,0.0,74,1
+54895,Asia,中国,China,福建省,Fujian,331,0.0,295,1
+55312,Asia,中国,China,云南省,Yunnan,180,0.0,172,2
+55548,Asia,中国,China,澳门,Macau,33,4.0,10,0

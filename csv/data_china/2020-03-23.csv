@@ -1,19 +1,19 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-23039,Asia,中国,China,上海市,Shanghai,404,0.0,329,4
-23278,Asia,中国,China,山东省,Shandong,768,0.0,752,7
-23295,Asia,中国,China,中国,China,81691,0.0,72848,3276
-23298,Asia,中国,China,广东省,Guangdong,1415,0.0,1332,8
-23322,Asia,中国,China,香港,Hong Kong,356,0.0,100,4
-23572,Asia,中国,China,北京市,Beijing,537,0.0,401,8
-23592,Asia,中国,China,台湾,Taiwan,195,0.0,28,2
-23759,Asia,中国,China,湖北省,Hubei,67800,0.0,59882,3153
-24098,Asia,中国,China,天津市,Tianjin,141,0.0,133,3
-24137,Asia,中国,China,澳门,Macau,24,0.0,10,0
-24538,Asia,中国,China,江苏省,Jiangsu,633,0.0,631,0
-24552,Asia,中国,China,河北省,Hebei,319,0.0,310,6
-24585,Asia,中国,China,江西省,Jiangxi,936,0.0,934,1
-24599,Asia,中国,China,河南省,Henan,1274,0.0,1250,22
-24618,Asia,中国,China,浙江省,Zhejiang,1238,0.0,1221,1
-24631,Asia,中国,China,辽宁省,Liaoning,127,0.0,124,2
-24645,Asia,中国,China,福建省,Fujian,313,0.0,295,1
-24716,Asia,中国,China,黑龙江省,Heilongjiang,484,0.0,465,13
+64930,Asia,中国,China,上海市,Shanghai,404,0.0,329,4
+65169,Asia,中国,China,山东省,Shandong,768,0.0,752,7
+65186,Asia,中国,China,中国,China,81691,0.0,72848,3276
+65189,Asia,中国,China,广东省,Guangdong,1415,0.0,1332,8
+65213,Asia,中国,China,香港,Hong Kong,356,0.0,100,4
+65463,Asia,中国,China,北京市,Beijing,537,0.0,401,8
+65483,Asia,中国,China,台湾,Taiwan,195,0.0,28,2
+65650,Asia,中国,China,湖北省,Hubei,67800,0.0,59882,3153
+65989,Asia,中国,China,天津市,Tianjin,141,0.0,133,3
+66028,Asia,中国,China,澳门,Macau,24,0.0,10,0
+66429,Asia,中国,China,江苏省,Jiangsu,633,0.0,631,0
+66443,Asia,中国,China,河北省,Hebei,319,0.0,310,6
+66476,Asia,中国,China,江西省,Jiangxi,936,0.0,934,1
+66490,Asia,中国,China,河南省,Henan,1274,0.0,1250,22
+66509,Asia,中国,China,浙江省,Zhejiang,1238,0.0,1221,1
+66522,Asia,中国,China,辽宁省,Liaoning,127,0.0,124,2
+66536,Asia,中国,China,福建省,Fujian,313,0.0,295,1
+66607,Asia,中国,China,黑龙江省,Heilongjiang,484,0.0,465,13

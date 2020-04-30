@@ -1,17 +1,17 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-2169,Asia,中国,China,中国,China,82601,0.0,76239,3314
-2454,Asia,中国,China,天津市,Tianjin,174,25.0,135,3
-2470,Asia,中国,China,澳门,Macau,41,9.0,10,0
-2824,Asia,中国,China,广东省,Guangdong,1494,10.0,1356,8
-2846,Asia,中国,China,香港,Hong Kong,714,55.0,128,4
-2887,Asia,中国,China,上海市,Shanghai,509,19.0,341,5
-2910,Asia,中国,China,台湾,Taiwan,322,0.0,39,5
-2959,Asia,中国,China,北京市,Beijing,580,157.0,418,8
-3384,Asia,中国,China,福建省,Fujian,343,3.0,295,1
-3554,Asia,中国,China,浙江省,Zhejiang,1257,3.0,1226,1
-3585,Asia,中国,China,江苏省,Jiangsu,646,3.0,631,0
-3599,Asia,中国,China,湖北省,Hubei,67801,0.0,63153,3187
-3685,Asia,中国,China,山东省,Shandong,774,14.0,753,7
-3781,Asia,中国,China,辽宁省,Liaoning,139,0.0,124,2
-3816,Asia,中国,China,内蒙古自治区,Neimenggu,107,0.0,74,1
-3924,Asia,中国,China,云南省,Yunnan,181,0.0,172,2
+44075,Asia,中国,China,中国,China,82601,0.0,76239,3314
+44360,Asia,中国,China,天津市,Tianjin,174,25.0,135,3
+44376,Asia,中国,China,澳门,Macau,41,9.0,10,0
+44730,Asia,中国,China,广东省,Guangdong,1494,10.0,1356,8
+44752,Asia,中国,China,香港,Hong Kong,714,55.0,128,4
+44793,Asia,中国,China,上海市,Shanghai,509,19.0,341,5
+44816,Asia,中国,China,台湾,Taiwan,322,0.0,39,5
+44865,Asia,中国,China,北京市,Beijing,580,157.0,418,8
+45290,Asia,中国,China,福建省,Fujian,343,3.0,295,1
+45460,Asia,中国,China,浙江省,Zhejiang,1257,3.0,1226,1
+45491,Asia,中国,China,江苏省,Jiangsu,646,3.0,631,0
+45505,Asia,中国,China,湖北省,Hubei,67801,0.0,63153,3187
+45591,Asia,中国,China,山东省,Shandong,774,14.0,753,7
+45687,Asia,中国,China,辽宁省,Liaoning,139,0.0,124,2
+45722,Asia,中国,China,内蒙古自治区,Neimenggu,107,0.0,74,1
+45830,Asia,中国,China,云南省,Yunnan,181,0.0,172,2

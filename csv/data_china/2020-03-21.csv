@@ -1,14 +1,14 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-26872,Asia,中国,China,台湾,Taiwan,153,0.0,28,2
-26873,Asia,中国,China,北京市,Beijing,504,0.0,396,8
-26891,Asia,中国,China,广东省,Guangdong,1400,0.0,1325,8
-26912,Asia,中国,China,上海市,Shanghai,380,0.0,327,3
-26937,Asia,中国,China,中国,China,81457,0.0,71885,3261
-27112,Asia,中国,China,湖北省,Hubei,67800,0.0,58946,3139
-27129,Asia,中国,China,香港,Hong Kong,273,0.0,98,4
-27132,Asia,中国,China,浙江省,Zhejiang,1236,0.0,1219,1
-27321,Asia,中国,China,甘肃省,Gansu,134,0.0,113,2
-27551,Asia,中国,China,山东省,Shandong,764,0.0,749,7
-27567,Asia,中国,China,福建省,Fujian,303,0.0,295,1
-27577,Asia,中国,China,陕西省,Shaanxi,248,0.0,239,3
-27591,Asia,中国,China,四川省,Sichuan,542,0.0,536,3
+68763,Asia,中国,China,台湾,Taiwan,153,0.0,28,2
+68764,Asia,中国,China,北京市,Beijing,504,0.0,396,8
+68782,Asia,中国,China,广东省,Guangdong,1400,0.0,1325,8
+68803,Asia,中国,China,上海市,Shanghai,380,0.0,327,3
+68828,Asia,中国,China,中国,China,81457,0.0,71885,3261
+69003,Asia,中国,China,湖北省,Hubei,67800,0.0,58946,3139
+69020,Asia,中国,China,香港,Hong Kong,273,0.0,98,4
+69023,Asia,中国,China,浙江省,Zhejiang,1236,0.0,1219,1
+69212,Asia,中国,China,甘肃省,Gansu,134,0.0,113,2
+69442,Asia,中国,China,山东省,Shandong,764,0.0,749,7
+69458,Asia,中国,China,福建省,Fujian,303,0.0,295,1
+69468,Asia,中国,China,陕西省,Shaanxi,248,0.0,239,3
+69482,Asia,中国,China,四川省,Sichuan,542,0.0,536,3

@@ -1,18 +1,18 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-37408,Asia,中国,China,香港,Hong Kong,140,0.0,78,4
-37536,Asia,中国,China,湖北省,Hubei,67790,0.0,52960,3075
-37587,Asia,中国,China,宁夏回族自治区,Ningxia,75,0.0,73,0
-37593,Asia,中国,China,河南省,Henan,1273,0.0,1250,22
-37630,Asia,中国,China,湖南省,Hunan,1018,0.0,1014,4
-37644,Asia,中国,China,台湾,Taiwan,53,0.0,20,1
-37645,Asia,中国,China,上海市,Shanghai,352,0.0,324,3
-37672,Asia,中国,China,四川省,Sichuan,539,0.0,511,3
-37693,Asia,中国,China,山东省,Shandong,760,0.0,741,7
-37859,Asia,中国,China,甘肃省,Gansu,129,0.0,89,2
-37977,Asia,中国,China,北京市,Beijing,437,0.0,349,8
-37995,Asia,中国,China,浙江省,Zhejiang,1227,0.0,1211,1
-38027,Asia,中国,China,广东省,Guangdong,1356,0.0,1299,8
-38078,Asia,中国,China,贵州省,Guizhou,146,0.0,143,2
-38126,Asia,中国,China,辽宁省,Liaoning,125,0.0,113,1
-38139,Asia,中国,China,黑龙江省,Heilongjiang,482,0.0,447,13
-38172,Asia,中国,China,重庆市,Chongqing,576,0.0,566,6
+79299,Asia,中国,China,香港,Hong Kong,140,0.0,78,4
+79427,Asia,中国,China,湖北省,Hubei,67790,0.0,52960,3075
+79478,Asia,中国,China,宁夏回族自治区,Ningxia,75,0.0,73,0
+79484,Asia,中国,China,河南省,Henan,1273,0.0,1250,22
+79521,Asia,中国,China,湖南省,Hunan,1018,0.0,1014,4
+79535,Asia,中国,China,台湾,Taiwan,53,0.0,20,1
+79536,Asia,中国,China,上海市,Shanghai,352,0.0,324,3
+79563,Asia,中国,China,四川省,Sichuan,539,0.0,511,3
+79584,Asia,中国,China,山东省,Shandong,760,0.0,741,7
+79750,Asia,中国,China,甘肃省,Gansu,129,0.0,89,2
+79868,Asia,中国,China,北京市,Beijing,437,0.0,349,8
+79886,Asia,中国,China,浙江省,Zhejiang,1227,0.0,1211,1
+79918,Asia,中国,China,广东省,Guangdong,1356,0.0,1299,8
+79969,Asia,中国,China,贵州省,Guizhou,146,0.0,143,2
+80017,Asia,中国,China,辽宁省,Liaoning,125,0.0,113,1
+80030,Asia,中国,China,黑龙江省,Heilongjiang,482,0.0,447,13
+80063,Asia,中国,China,重庆市,Chongqing,576,0.0,566,6

@@ -1,19 +1,19 @@
 ,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount
-4421,Asia,中国,China,湖北省,Hubei,67801,0.0,62889,3186
-4438,Asia,中国,China,中国,China,82505,0.0,75956,3313
-4785,Asia,中国,China,香港,Hong Kong,682,55.0,123,4
-4842,Asia,中国,China,天津市,Tianjin,174,25.0,133,3
-4902,Asia,中国,China,台湾,Taiwan,306,0.0,39,5
-4921,Asia,中国,China,北京市,Beijing,577,157.0,415,8
-4956,Asia,中国,China,上海市,Shanghai,498,19.0,338,5
-5226,Asia,中国,China,江西省,Jiangxi,937,0.0,935,1
-5627,Asia,中国,China,广东省,Guangdong,1484,10.0,1351,8
-5648,Asia,中国,China,澳门,Macau,38,7.0,10,0
-5649,Asia,中国,China,河北省,Hebei,321,0.0,310,6
-5803,Asia,中国,China,江苏省,Jiangsu,645,3.0,631,0
-5877,Asia,中国,China,浙江省,Zhejiang,1255,3.0,1225,1
-5891,Asia,中国,China,四川省,Sichuan,550,11.0,536,3
-5913,Asia,中国,China,福建省,Fujian,340,0.0,295,1
-5925,Asia,中国,China,山东省,Shandong,773,14.0,753,7
-5979,Asia,中国,China,内蒙古自治区,Neimenggu,97,0.0,74,1
-6108,Asia,中国,China,辽宁省,Liaoning,136,0.0,124,2
+46327,Asia,中国,China,湖北省,Hubei,67801,0.0,62889,3186
+46344,Asia,中国,China,中国,China,82505,0.0,75956,3313
+46691,Asia,中国,China,香港,Hong Kong,682,55.0,123,4
+46748,Asia,中国,China,天津市,Tianjin,174,25.0,133,3
+46808,Asia,中国,China,台湾,Taiwan,306,0.0,39,5
+46827,Asia,中国,China,北京市,Beijing,577,157.0,415,8
+46862,Asia,中国,China,上海市,Shanghai,498,19.0,338,5
+47132,Asia,中国,China,江西省,Jiangxi,937,0.0,935,1
+47533,Asia,中国,China,广东省,Guangdong,1484,10.0,1351,8
+47554,Asia,中国,China,澳门,Macau,38,7.0,10,0
+47555,Asia,中国,China,河北省,Hebei,321,0.0,310,6
+47709,Asia,中国,China,江苏省,Jiangsu,645,3.0,631,0
+47783,Asia,中国,China,浙江省,Zhejiang,1255,3.0,1225,1
+47797,Asia,中国,China,四川省,Sichuan,550,11.0,536,3
+47819,Asia,中国,China,福建省,Fujian,340,0.0,295,1
+47831,Asia,中国,China,山东省,Shandong,773,14.0,753,7
+47885,Asia,中国,China,内蒙古自治区,Neimenggu,97,0.0,74,1
+48014,Asia,中国,China,辽宁省,Liaoning,136,0.0,124,2
